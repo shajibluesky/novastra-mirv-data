@@ -38,3 +38,9 @@ See `REFRESH_SCHEMA.md` for the macro/news/catalysts schema. Follow key names ex
    `git -c user.email=bot@novastra.local -c user.name="NOVASTRA data bot" commit -am "Refresh <UTC datetime>"`
    `git push origin main`
 6. Notify only if the Market State flips or a major new buy/avoid catalyst appears. Else end silently.
+
+## data/technicals.json (RSI cross-check)
+Recompute RSI(14) for the whole universe from the finance connector OHLCV (6-month daily closes)
+and write `{ refreshedAt, source, period:14, rsi: { "TICKER.NS": {rsi, asOf, source} } }`.
+This is the SECOND source the live app compares its Yahoo RSI against. Only sourced closes; if a
+ticker lacks enough history, omit it (the app shows single-source rather than a fabricated value).
