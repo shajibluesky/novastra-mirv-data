@@ -1,9 +1,9 @@
 {
- "refreshedAt": "2026-06-15T15:08:10Z",
+ "refreshedAt": "2026-06-16T02:53:22Z",
  "unit": "INR crore (net, cash market)",
  "source": "NSE provisional FII/DII cash data",
  "sourceUrl": "https://www.nseindia.com/reports/fii-dii",
- "notes": "Provisional; finalised by NSDL. Net = buy minus sell. Combined NSE+BSE+MSEI cash market segment. Holidays omitted: Apr 3 (Good Friday), Apr 14 (Ambedkar Jayanti), May 1 (Maharashtra Day), May 28 (Bakri Id).",
+ "notes": "Provisional; finalised by NSDL. Net = buy minus sell. Combined NSE+BSE+MSEI cash market segment. Holidays omitted: Apr 3 (Good Friday), Apr 14 (Ambedkar Jayanti), May 1 (Maharashtra Day), May 28 (Bakri Id). June 16 not yet appended: as of refresh time (02:53 UTC = 08:23 IST), the NSE/BSE June 16 session has not yet closed and no provisional FII/DII data is available. Will be added at next refresh once markets close (~10:30-11:00 UTC).",
  "series": [
   {
    "date": "2026-04-01",
@@ -353,7 +353,7 @@
    "fii": 200.05,
    "dii": 3189.26,
    "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/"
   }
  ]
 }

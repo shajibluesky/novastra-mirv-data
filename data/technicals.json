@@ -1,2927 +1,2927 @@
 {
- "refreshedAt": "2026-06-15T15:34:02Z",
+ "refreshedAt": "2026-06-16T02:54:56Z",
  "source": "Perplexity finance DB",
  "period": 14,
  "rsi": {
   "360ONE.NS": {
    "rsi": 60.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "3MINDIA.NS": {
    "rsi": 45.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AADHARHFC.NS": {
    "rsi": 57.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AARTIIND.NS": {
    "rsi": 61.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ABB.NS": {
    "rsi": 51.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ABBOTINDIA.NS": {
    "rsi": 46.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ABCAPITAL.NS": {
    "rsi": 58.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ABDL.NS": {
    "rsi": 65.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ABLBL.NS": {
    "rsi": 48.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ABREL.NS": {
    "rsi": 45.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ABSLAMC.NS": {
    "rsi": 65.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ACC.NS": {
    "rsi": 48.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ACCELYA.NS": {
    "rsi": 44.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ACE.NS": {
    "rsi": 59.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ACMESOLAR.NS": {
    "rsi": 66.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ACUTAAS.NS": {
    "rsi": 57.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ADANIENSOL.NS": {
    "rsi": 56.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ADANIENT.NS": {
    "rsi": 63.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ADANIGREEN.NS": {
    "rsi": 59.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ADANIPORTS.NS": {
    "rsi": 56.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ADANIPOWER.NS": {
    "rsi": 48.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AEGISLOG.NS": {
    "rsi": 83.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AEGISVOPAK.NS": {
    "rsi": 71.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AETHER.NS": {
    "rsi": 55.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AFCONS.NS": {
    "rsi": 51.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AFFLE.NS": {
    "rsi": 52.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AGARWALEYE.NS": {
    "rsi": 36.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AIAENG.NS": {
    "rsi": 61.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AIIL.NS": {
    "rsi": 69.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AJANTPHARM.NS": {
    "rsi": 52.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ALIVUS.NS": {
    "rsi": 51.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ALKEM.NS": {
    "rsi": 46.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AMBER.NS": {
    "rsi": 49.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AMBUJACEM.NS": {
    "rsi": 48.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ANANDRATHI.NS": {
    "rsi": 54.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ANANTRAJ.NS": {
    "rsi": 53.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ANGELONE.NS": {
    "rsi": 61.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ANTHEM.NS": {
    "rsi": 53.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ANUP.NS": {
    "rsi": 53.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ANURAS.NS": {
    "rsi": 38.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "APARINDS.NS": {
    "rsi": 76.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "APLAPOLLO.NS": {
    "rsi": 47.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "APLLTD.NS": {
    "rsi": 47.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "APOLLO.NS": {
    "rsi": 63.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "APOLLOHOSP.NS": {
    "rsi": 64.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "APOLLOTYRE.NS": {
    "rsi": 59.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "APTUS.NS": {
    "rsi": 60.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ARE&M.NS": {
    "rsi": 49.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ARROWGREEN.NS": {
    "rsi": 56.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ARVIND.NS": {
    "rsi": 63.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ASAHIINDIA.NS": {
    "rsi": 56.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ASHOKLEY.NS": {
    "rsi": 54.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ASIANPAINT.NS": {
    "rsi": 66.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ASTERDM.NS": {
    "rsi": 60.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ASTRAL.NS": {
    "rsi": 51.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ASTRAMICRO.NS": {
    "rsi": 69.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ASTRAZEN.NS": {
    "rsi": 48.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ATGL.NS": {
    "rsi": 54.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ATHERENERG.NS": {
    "rsi": 61.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ATUL.NS": {
    "rsi": 41.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AUBANK.NS": {
    "rsi": 61.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AUROPHARMA.NS": {
    "rsi": 40.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AVALON.NS": {
    "rsi": 71.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AVANTIFEED.NS": {
    "rsi": 31.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AWL.NS": {
    "rsi": 48.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AXISBANK.NS": {
    "rsi": 69.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "AZAD.NS": {
    "rsi": 52.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BAJAJ-AUTO.NS": {
    "rsi": 40.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BAJAJFINSV.NS": {
    "rsi": 52.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BAJAJHFL.NS": {
    "rsi": 57.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BAJAJHLDNG.NS": {
    "rsi": 51.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BAJFINANCE.NS": {
    "rsi": 59.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BALKRISIND.NS": {
    "rsi": 53.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BALRAMCHIN.NS": {
    "rsi": 58.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BANCOINDIA.NS": {
    "rsi": 63.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BANDHANBNK.NS": {
    "rsi": 61.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BANKBARODA.NS": {
    "rsi": 56.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BANKINDIA.NS": {
    "rsi": 55.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BASF.NS": {
    "rsi": 48.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BAYERCROP.NS": {
    "rsi": 40.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BBOX.NS": {
    "rsi": 63.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BDL.NS": {
    "rsi": 41.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BEL.NS": {
    "rsi": 43.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BELRISE.NS": {
    "rsi": 64.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BERGEPAINT.NS": {
    "rsi": 58.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BHARATFORG.NS": {
    "rsi": 65.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BHARTIARTL.NS": {
    "rsi": 52.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BHARTIHEXA.NS": {
    "rsi": 43.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BHEL.NS": {
    "rsi": 48.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BIKAJI.NS": {
    "rsi": 50.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BIOCON.NS": {
    "rsi": 54.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BIRLACORPN.NS": {
    "rsi": 53.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BLS.NS": {
    "rsi": 48.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BLUEDART.NS": {
    "rsi": 50.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BLUESTARCO.NS": {
    "rsi": 47.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BOSCHLTD.NS": {
    "rsi": 63.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BPCL.NS": {
    "rsi": 59.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BRIGADE.NS": {
    "rsi": 52.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BRITANNIA.NS": {
    "rsi": 43.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BSE.NS": {
    "rsi": 58.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "BSOFT.NS": {
    "rsi": 46.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CAMS.NS": {
    "rsi": 54.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CANBK.NS": {
    "rsi": 49.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CANFINHOME.NS": {
    "rsi": 58.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CAPLIPOINT.NS": {
    "rsi": 77.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CARBORUNIV.NS": {
    "rsi": 59.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CARERATING.NS": {
    "rsi": 52.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CARTRADE.NS": {
    "rsi": 70.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CASTROLIND.NS": {
    "rsi": 61.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CCL.NS": {
    "rsi": 54.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CDSL.NS": {
    "rsi": 58.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CEATLTD.NS": {
    "rsi": 61.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CEMPRO.NS": {
    "rsi": 65.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CENTRALBK.NS": {
    "rsi": 48.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CENTURYPLY.NS": {
    "rsi": 47.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CESC.NS": {
    "rsi": 39.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CGCL.NS": {
    "rsi": 71.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CGPOWER.NS": {
    "rsi": 63.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CHALET.NS": {
    "rsi": 43.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CHAMBLFERT.NS": {
    "rsi": 56.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CHENNPETRO.NS": {
    "rsi": 64.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CHOICEIN.NS": {
    "rsi": 60.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CHOLAFIN.NS": {
    "rsi": 62.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CHOLAHLDNG.NS": {
    "rsi": 52.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CIEINDIA.NS": {
    "rsi": 55.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CIGNITITEC.BO": {
    "rsi": 52.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CIPLA.NS": {
    "rsi": 52.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "COALINDIA.NS": {
    "rsi": 38.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "COCHINSHIP.NS": {
    "rsi": 39.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "COFORGE.NS": {
    "rsi": 53.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "COHANCE.NS": {
    "rsi": 50.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "COLPAL.NS": {
    "rsi": 48.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CONCOR.NS": {
    "rsi": 42.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CONCORDBIO.NS": {
    "rsi": 72.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "COROMANDEL.NS": {
    "rsi": 62.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CPPLUS.NS": {
    "rsi": 72.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CRAFTSMAN.NS": {
    "rsi": 64.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CREDITACC.NS": {
    "rsi": 62.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CRISIL.NS": {
    "rsi": 49.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CRIZAC.NS": {
    "rsi": 52.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CROMPTON.NS": {
    "rsi": 46.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CSBBANK.NS": {
    "rsi": 54.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CUB.NS": {
    "rsi": 54.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CUMMINSIND.NS": {
    "rsi": 60.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CUPID.NS": {
    "rsi": 86.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CYIENT.NS": {
    "rsi": 52.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "CYIENTDLM.NS": {
    "rsi": 65.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DABUR.NS": {
    "rsi": 43.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DALBHARAT.NS": {
    "rsi": 46.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DAMCAPITAL.NS": {
    "rsi": 53.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DATAPATTNS.NS": {
    "rsi": 58.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DCBBANK.NS": {
    "rsi": 57.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DCMSHRIRAM.NS": {
    "rsi": 42.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DEEPAKFERT.NS": {
    "rsi": 64.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DEEPAKNTR.NS": {
    "rsi": 45.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DELHIVERY.NS": {
    "rsi": 53.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DEVYANI.NS": {
    "rsi": 46.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DISHTV.NS": {
    "rsi": 46.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DIVISLAB.NS": {
    "rsi": 48.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DIXON.NS": {
    "rsi": 61.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DLF.NS": {
    "rsi": 61.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DMART.NS": {
    "rsi": 45.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DOMS.NS": {
    "rsi": 56.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "DRREDDY.NS": {
    "rsi": 47.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "EASEMYTRIP.NS": {
    "rsi": 59.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ECLERX.NS": {
    "rsi": 43.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "EICHERMOT.NS": {
    "rsi": 67.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "EIDPARRY.NS": {
    "rsi": 37.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "EIHOTEL.NS": {
    "rsi": 53.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ELECON.NS": {
    "rsi": 64.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ELGIEQUIP.NS": {
    "rsi": 63.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "EMAMILTD.NS": {
    "rsi": 42.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "EMCURE.NS": {
    "rsi": 50.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ENDURANCE.NS": {
    "rsi": 55.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ENGINERSIN.NS": {
    "rsi": 51.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ENRIN.NS": {
    "rsi": 54.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "EQUITASBNK.NS": {
    "rsi": 67.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ERIS.NS": {
    "rsi": 52.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ESABINDIA.NS": {
    "rsi": 36.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ESCORTS.NS": {
    "rsi": 41.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ETERNAL.NS": {
    "rsi": 53.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "EXIDEIND.NS": {
    "rsi": 61.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "FACT.NS": {
    "rsi": 58.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "FEDERALBNK.NS": {
    "rsi": 71.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "FIEMIND.NS": {
    "rsi": 62.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "FINCABLES.NS": {
    "rsi": 52.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "FINEORG.NS": {
    "rsi": 64.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "FINOPB.NS": {
    "rsi": 56.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "FIVESTAR.NS": {
    "rsi": 60.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "FLUOROCHEM.NS": {
    "rsi": 54.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "FORCEMOT.NS": {
    "rsi": 47.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "FORTIS.NS": {
    "rsi": 59.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "FSL.NS": {
    "rsi": 46.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GABRIEL.NS": {
    "rsi": 61.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GAIL.NS": {
    "rsi": 67.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GALLANTT.NS": {
    "rsi": 46.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GANESHHOU.NS": {
    "rsi": 63.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GARUDA.NS": {
    "rsi": 49.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GENESYS.NS": {
    "rsi": 63.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GESHIP.NS": {
    "rsi": 39.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GICRE.NS": {
    "rsi": 51.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GILLETTE.NS": {
    "rsi": 46.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GLAND.NS": {
    "rsi": 54.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GLAXO.NS": {
    "rsi": 28.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GLENMARK.NS": {
    "rsi": 40.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GMDCLTD.NS": {
    "rsi": 40.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GMMPFAUDLR.NS": {
    "rsi": 41.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GODFRYPHLP.NS": {
    "rsi": 48.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GODIGIT.NS": {
    "rsi": 41.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GODREJCP.NS": {
    "rsi": 52.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GODREJIND.NS": {
    "rsi": 52.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GODREJPROP.NS": {
    "rsi": 55.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GOKEX.NS": {
    "rsi": 59.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GPIL.NS": {
    "rsi": 47.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GPPL.NS": {
    "rsi": 51.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GRANULES.NS": {
    "rsi": 48.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GRAPHITE.NS": {
    "rsi": 40.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GRASIM.NS": {
    "rsi": 67.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GRAVITA.NS": {
    "rsi": 55.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GRINDWELL.NS": {
    "rsi": 70.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GRINFRA.NS": {
    "rsi": 47.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GRSE.NS": {
    "rsi": 50.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GRWRHITECH.NS": {
    "rsi": 67.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GUJGASLTD.NS": {
    "rsi": 58.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GULFOILLUB.NS": {
    "rsi": 61.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GVPIL.NS": {
    "rsi": 73.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "GVT&D.NS": {
    "rsi": 52.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HAL.NS": {
    "rsi": 48.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HAPPYFORGE.NS": {
    "rsi": 47.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HATSUN.NS": {
    "rsi": 46.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HAVELLS.NS": {
    "rsi": 46.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HBLENGINE.NS": {
    "rsi": 52.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HCLTECH.NS": {
    "rsi": 36.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HDFCAMC.NS": {
    "rsi": 52.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HDFCBANK.NS": {
    "rsi": 56.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HDFCLIFE.NS": {
    "rsi": 47.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HEIDELBERG.NS": {
    "rsi": 46.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HEROMOTOCO.NS": {
    "rsi": 53.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HEXT.NS": {
    "rsi": 46.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HFCL.NS": {
    "rsi": 62.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HGINFRA.NS": {
    "rsi": 49.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HINDALCO.NS": {
    "rsi": 38.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HINDCOPPER.NS": {
    "rsi": 42.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HINDPETRO.NS": {
    "rsi": 58.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HINDUNILVR.NS": {
    "rsi": 47.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HINDZINC.NS": {
    "rsi": 38.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HOMEFIRST.NS": {
    "rsi": 55.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HONASA.NS": {
    "rsi": 61.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HONAUT.NS": {
    "rsi": 62.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HSCL.NS": {
    "rsi": 63.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HUDCO.NS": {
    "rsi": 54.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "HYUNDAI.NS": {
    "rsi": 69.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ICICIBANK.NS": {
    "rsi": 62.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ICICIGI.NS": {
    "rsi": 44.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ICICIPRULI.NS": {
    "rsi": 43.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IDBI.NS": {
    "rsi": 58.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IDEA.NS": {
    "rsi": 71.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IDFCFIRSTB.NS": {
    "rsi": 77.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IEX.NS": {
    "rsi": 47.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IFCI.NS": {
    "rsi": 70.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IGIL.NS": {
    "rsi": 54.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IGL.NS": {
    "rsi": 61.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IIFL.NS": {
    "rsi": 61.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IKS.NS": {
    "rsi": 55.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INDGN.NS": {
    "rsi": 50.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INDHOTEL.NS": {
    "rsi": 62.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INDIACEM.NS": {
    "rsi": 52.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INDIAMART.NS": {
    "rsi": 55.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INDIANB.NS": {
    "rsi": 51.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INDIGO.NS": {
    "rsi": 67.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INDIGRID-IV.NS": {
    "rsi": 50.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INDIGRID.NS": {
    "rsi": 50.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INDOTECH.NS": {
    "rsi": 58.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INDRAMEDCO.NS": {
    "rsi": 49.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INDUSINDBK.NS": {
    "rsi": 57.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INDUSTOWER.NS": {
    "rsi": 42.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INFY.NS": {
    "rsi": 41.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INGERRAND.NS": {
    "rsi": 58.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INOXINDIA.NS": {
    "rsi": 68.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INOXWIND.NS": {
    "rsi": 49.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "INTELLECT.NS": {
    "rsi": 58.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IOB.NS": {
    "rsi": 53.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IOC.NS": {
    "rsi": 56.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IPCALAB.NS": {
    "rsi": 49.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IRB.NS": {
    "rsi": 50.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IRCON.NS": {
    "rsi": 48.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IRCTC.NS": {
    "rsi": 44.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IREDA.NS": {
    "rsi": 48.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "IRFC.NS": {
    "rsi": 47.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ITC.NS": {
    "rsi": 45.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ITCHOTELS.NS": {
    "rsi": 57.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ITI.NS": {
    "rsi": 56.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "J&KBANK.NS": {
    "rsi": 71.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JBCHEPHARM.NS": {
    "rsi": 58.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JBMA.NS": {
    "rsi": 58.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JINDALSAW.NS": {
    "rsi": 56.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JINDALSTEL.NS": {
    "rsi": 37.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JIOFIN.NS": {
    "rsi": 52.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JKCEMENT.NS": {
    "rsi": 51.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JKLAKSHMI.NS": {
    "rsi": 42.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JKTYRE.NS": {
    "rsi": 52.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JMFINANCIL.NS": {
    "rsi": 46.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JPPOWER.NS": {
    "rsi": 48.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JSL.NS": {
    "rsi": 46.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JSWCEMENT.NS": {
    "rsi": 56.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JSWDULUX.NS": {
    "rsi": 66.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JSWENERGY.NS": {
    "rsi": 52.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JSWHL.NS": {
    "rsi": 46.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JSWINFRA.NS": {
    "rsi": 63.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JSWSTEEL.NS": {
    "rsi": 55.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JUBLFOOD.NS": {
    "rsi": 41.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JUBLPHARMA.NS": {
    "rsi": 56.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JWL.NS": {
    "rsi": 47.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JYOTHYLAB.NS": {
    "rsi": 42.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "JYOTICNC.NS": {
    "rsi": 55.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KAJARIACER.NS": {
    "rsi": 55.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KALYANKJIL.NS": {
    "rsi": 57.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KANSAINER.NS": {
    "rsi": 58.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KARURVYSYA.NS": {
    "rsi": 51.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KAYNES.NS": {
    "rsi": 38.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KEC.NS": {
    "rsi": 50.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KEI.NS": {
    "rsi": 62.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KFINTECH.NS": {
    "rsi": 48.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KIMS.NS": {
    "rsi": 54.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KIOCL.NS": {
    "rsi": 53.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KIRLOSBROS.NS": {
    "rsi": 60.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KIRLOSENG.NS": {
    "rsi": 63.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KIRLPNU.NS": {
    "rsi": 59.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KNRCON.NS": {
    "rsi": 49.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KOTAKBANK.NS": {
    "rsi": 68.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KPIL.NS": {
    "rsi": 56.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KPITTECH.NS": {
    "rsi": 51.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KPRMILL.NS": {
    "rsi": 62.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KSB.NS": {
    "rsi": 57.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LALPATHLAB.NS": {
    "rsi": 57.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LAURUSLABS.NS": {
    "rsi": 60.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LICHSGFIN.NS": {
    "rsi": 53.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LICI.NS": {
    "rsi": 52.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LINDEINDIA.NS": {
    "rsi": 43.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LLOYDSME.NS": {
    "rsi": 54.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LMW.NS": {
    "rsi": 64.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LODHA.NS": {
    "rsi": 56.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LT.NS": {
    "rsi": 64.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LTF.NS": {
    "rsi": 61.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LTFOODS.NS": {
    "rsi": 43.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LTM.NS": {
    "rsi": 40.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LTTS.NS": {
    "rsi": 48.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LUMAXTECH.NS": {
    "rsi": 52.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LUPIN.NS": {
    "rsi": 49.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "M&M.NS": {
    "rsi": 55.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "M&MFIN.NS": {
    "rsi": 49.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MACPOWER.NS": {
    "rsi": 47.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MAHABANK.NS": {
    "rsi": 72.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MAHSCOOTER.NS": {
    "rsi": 52.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MAHSEAMLES.NS": {
    "rsi": 54.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MANAPPURAM.NS": {
    "rsi": 56.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MANKIND.NS": {
    "rsi": 51.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MANORAMA.NS": {
    "rsi": 58.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MANYAVAR.NS": {
    "rsi": 49.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MAPMYINDIA.NS": {
    "rsi": 46.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MARICO.NS": {
    "rsi": 48.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MARKSANS.NS": {
    "rsi": 64.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MARUTI.NS": {
    "rsi": 65.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MASTEK.NS": {
    "rsi": 48.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MAXHEALTH.NS": {
    "rsi": 57.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MAZDOCK.NS": {
    "rsi": 48.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MCX.NS": {
    "rsi": 46.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MEESHO.NS": {
    "rsi": 40.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "METROBRAND.NS": {
    "rsi": 45.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MFSL.NS": {
    "rsi": 52.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MGL.NS": {
    "rsi": 60.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MINDACORP.NS": {
    "rsi": 72.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MONARCH.NS": {
    "rsi": 60.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MOTHERSON.NS": {
    "rsi": 64.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MOTILALOFS.NS": {
    "rsi": 65.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MPHASIS.NS": {
    "rsi": 54.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MPSLTD.NS": {
    "rsi": 53.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MRF.NS": {
    "rsi": 57.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MRPL.NS": {
    "rsi": 59.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MSUMI.NS": {
    "rsi": 45.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MTARTECH.NS": {
    "rsi": 54.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "MUTHOOTFIN.NS": {
    "rsi": 46.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NAM-INDIA.NS": {
    "rsi": 60.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NATCOPHARM.NS": {
    "rsi": 25.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NATIONALUM.NS": {
    "rsi": 41.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NAUKRI.NS": {
    "rsi": 50.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NAVA.NS": {
-   "rsi": 48.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "rsi": 47.9,
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NAVINFLUOR.NS": {
    "rsi": 61.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NBCC.NS": {
    "rsi": 62.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NESCO.NS": {
    "rsi": 38.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NESTLEIND.NS": {
    "rsi": 42.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NETWEB.NS": {
    "rsi": 58.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NETWORK18.NS": {
    "rsi": 53.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NEULANDLAB.NS": {
    "rsi": 57.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NEWGEN.NS": {
    "rsi": 49.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NH.NS": {
    "rsi": 48.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NHPC.NS": {
    "rsi": 44.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NIACL.NS": {
    "rsi": 55.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NIITLTD.NS": {
    "rsi": 61.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NIVABUPA.NS": {
    "rsi": 54.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NLCINDIA.NS": {
    "rsi": 44.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NMDC.NS": {
    "rsi": 46.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NSLNISP.NS": {
    "rsi": 54.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NTPC.NS": {
    "rsi": 25.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NTPCGREEN.NS": {
    "rsi": 39.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NUVAMA.NS": {
    "rsi": 68.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NUVOCO.NS": {
    "rsi": 47.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "NYKAA.NS": {
    "rsi": 56.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "OBEROIRLTY.NS": {
    "rsi": 54.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "OFSS.NS": {
    "rsi": 47.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "OIL.NS": {
    "rsi": 26.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "OLAELEC.NS": {
    "rsi": 60.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ONESOURCE.NS": {
-   "rsi": 35.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "rsi": 35.2,
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ONGC.NS": {
    "rsi": 22.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PAGEIND.NS": {
    "rsi": 59.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PATANJALI.NS": {
    "rsi": 35.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PAYTM.NS": {
    "rsi": 54.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PCBL.NS": {
    "rsi": 59.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PERSISTENT.NS": {
    "rsi": 44.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PETRONET.NS": {
    "rsi": 63.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PFC.NS": {
    "rsi": 46.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PGEL.NS": {
    "rsi": 52.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PGHH.NS": {
    "rsi": 31.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PHOENIXLTD.NS": {
    "rsi": 63.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PIDILITIND.NS": {
    "rsi": 73.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PIIND.NS": {
    "rsi": 48.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PNB.NS": {
    "rsi": 53.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PNBHOUSING.NS": {
    "rsi": 52.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PNCINFRA.NS": {
    "rsi": 47.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "POLICYBZR.NS": {
    "rsi": 45.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "POLYCAB.NS": {
    "rsi": 61.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "POLYMED.NS": {
    "rsi": 54.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "POONAWALLA.NS": {
    "rsi": 50.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "POWERGRID.NS": {
    "rsi": 39.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "POWERINDIA.NS": {
    "rsi": 52.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PPLPHARMA.NS": {
    "rsi": 49.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PRAJIND.NS": {
    "rsi": 38.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PREMIERENE.NS": {
    "rsi": 52.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PRESTIGE.NS": {
    "rsi": 62.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PRIVISCL.NS": {
    "rsi": 64.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PRUDENT.NS": {
    "rsi": 68.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PSB.NS": {
    "rsi": 50.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PTCIL.NS": {
    "rsi": 61.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PVRINOX.NS": {
    "rsi": 33.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "PWL.NS": {
    "rsi": 53.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "RADICO.NS": {
    "rsi": 62.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "RAILTEL.NS": {
    "rsi": 52.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "RAINBOW.NS": {
    "rsi": 70.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "RAJESHEXPO.NS": {
    "rsi": 28.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "RAMCOCEM.NS": {
    "rsi": 54.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "RATNAMANI.NS": {
    "rsi": 50.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "RBLBANK.NS": {
    "rsi": 68.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "RECLTD.NS": {
    "rsi": 55.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "REDINGTON.NS": {
    "rsi": 59.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "RELIANCE.NS": {
    "rsi": 45.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "RHIM.NS": {
    "rsi": 46.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "RITES.NS": {
    "rsi": 52.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ROUTE.NS": {
    "rsi": 52.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "RRKABEL.NS": {
    "rsi": 67.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "RUSTOMJEE.NS": {
    "rsi": 55.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "RVNL.NS": {
    "rsi": 39.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SAGILITY.NS": {
    "rsi": 44.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SAIL.NS": {
    "rsi": 42.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SAILIFE.NS": {
    "rsi": 61.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SAMMAANCAP.NS": {
    "rsi": 62.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SANDUMA.NS": {
    "rsi": 45.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SANSERA.NS": {
    "rsi": 63.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SAPPHIRE.NS": {
    "rsi": 45.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SARDAEN.NS": {
    "rsi": 41.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SAREGAMA.NS": {
    "rsi": 64.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SBFC.NS": {
    "rsi": 52.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SBICARD.NS": {
    "rsi": 44.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SBILIFE.NS": {
    "rsi": 41.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SBIN.NS": {
    "rsi": 59.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SCHAEFFLER.NS": {
    "rsi": 49.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SCHNEIDER.NS": {
    "rsi": 52.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SCI.NS": {
    "rsi": 54.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SENCO.NS": {
    "rsi": 56.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SHAILY.NS": {
    "rsi": 57.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SHARDACROP.NS": {
    "rsi": 45.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SHOPERSTOP.NS": {
    "rsi": 63.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SHREECEM.NS": {
    "rsi": 53.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SHRIPISTON.NS": {
    "rsi": 68.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SHRIRAMFIN.NS": {
    "rsi": 61.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SHYAMMETL.NS": {
    "rsi": 57.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SIEMENS.NS": {
    "rsi": 46.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SIGNATURE.NS": {
    "rsi": 40.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SILVERTUC.NS": {
    "rsi": 76.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SJS.NS": {
    "rsi": 72.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SJVN.NS": {
    "rsi": 47.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SKFINDIA.NS": {
    "rsi": 52.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SKFINDUS.NS": {
    "rsi": 69.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SOBHA.NS": {
    "rsi": 52.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SOLARINDS.NS": {
    "rsi": 48.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SONACOMS.NS": {
    "rsi": 52.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SONATSOFTW.NS": {
    "rsi": 47.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SOUTHBANK.NS": {
    "rsi": 72.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SPLPETRO.NS": {
    "rsi": 51.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SRF.NS": {
    "rsi": 54.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "STARHEALTH.NS": {
    "rsi": 58.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "STLTECH.NS": {
    "rsi": 69.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SUMICHEM.NS": {
    "rsi": 54.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SUNDRMFAST.NS": {
    "rsi": 54.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SUNPHARMA.NS": {
    "rsi": 50.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SUNTV.NS": {
    "rsi": 46.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SUPRAJIT.NS": {
    "rsi": 58.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SUPREMEIND.NS": {
    "rsi": 49.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SURYODAY.NS": {
    "rsi": 59.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SUZLON.NS": {
    "rsi": 56.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SWARAJENG.NS": {
    "rsi": 54.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SWIGGY.NS": {
    "rsi": 50.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SYNCOMF.NS": {
    "rsi": 51.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SYNGENE.NS": {
    "rsi": 51.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "SYRMA.NS": {
    "rsi": 76.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TANLA.NS": {
    "rsi": 52.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TATACHEM.NS": {
    "rsi": 48.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TATACOMM.NS": {
    "rsi": 59.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TATACONSUM.NS": {
    "rsi": 34.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TATAELXSI.NS": {
    "rsi": 40.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TATAPOWER.NS": {
    "rsi": 45.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TATASTEEL.NS": {
    "rsi": 33.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TATATECH.NS": {
    "rsi": 66.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TBOTEK.NS": {
    "rsi": 75.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TCIEXP.NS": {
    "rsi": 54.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TCS.NS": {
    "rsi": 37.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TDPOWERSYS.NS": {
    "rsi": 48.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TECHM.NS": {
    "rsi": 44.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TECHNOE.NS": {
    "rsi": 46.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TEGA.NS": {
    "rsi": 56.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "THANGAMAYL.NS": {
    "rsi": 77.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "THELEELA.NS": {
    "rsi": 70.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "THERMAX.NS": {
    "rsi": 57.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "THYROCARE.NS": {
    "rsi": 65.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TIINDIA.NS": {
    "rsi": 61.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TIMKEN.NS": {
    "rsi": 47.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TITAGARH.NS": {
    "rsi": 60.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TITAN.NS": {
    "rsi": 56.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TMB.NS": {
    "rsi": 66.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TMCV.NS": {
    "rsi": 60.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TMPV.NS": {
    "rsi": 61.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TORNTPHARM.NS": {
    "rsi": 56.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TORNTPOWER.NS": {
    "rsi": 36.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TRENT.NS": {
    "rsi": 60.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TRIDENT.NS": {
    "rsi": 51.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TRITURBINE.NS": {
    "rsi": 53.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TRIVENI.NS": {
    "rsi": 61.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TVSHLTD.NS": {
    "rsi": 46.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "TVSMOTOR.NS": {
    "rsi": 53.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "UBL.NS": {
    "rsi": 47.3,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "UCOBANK.NS": {
    "rsi": 56.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "UJJIVANSFB.NS": {
    "rsi": 57.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ULTRACEMCO.NS": {
    "rsi": 54.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "UNIONBANK.NS": {
    "rsi": 55.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "UNITDSPR.NS": {
    "rsi": 48.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "UNOMINDA.NS": {
    "rsi": 55.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "UPL.NS": {
    "rsi": 43.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "URBANCO.NS": {
    "rsi": 55.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "USHAMART.NS": {
    "rsi": 55.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "UTIAMC.NS": {
    "rsi": 50.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "VADILALIND.NS": {
    "rsi": 80.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "VBL.NS": {
    "rsi": 63.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "VEDL.NS": {
    "rsi": 30.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "VENTIVE.NS": {
    "rsi": 57.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "VGUARD.NS": {
    "rsi": 45.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "VIJAYA.NS": {
    "rsi": 53.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "VINATIORGA.NS": {
    "rsi": 57.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "VMM.NS": {
    "rsi": 52.7,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "VOLTAS.NS": {
    "rsi": 54.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "VTL.NS": {
    "rsi": 62.1,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "WAAREEENER.NS": {
    "rsi": 46.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "WAAREERTL.NS": {
    "rsi": 49.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "WELCORP.NS": {
    "rsi": 58.0,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "WELSPUNLIV.NS": {
    "rsi": 59.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "WESTLIFE.NS": {
    "rsi": 57.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "WHIRLPOOL.NS": {
    "rsi": 38.9,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "WIPRO.NS": {
    "rsi": 35.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "WOCKPHARMA.NS": {
    "rsi": 57.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "YESBANK.NS": {
    "rsi": 63.8,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ZAGGLE.NS": {
    "rsi": 47.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ZEEL.NS": {
    "rsi": 62.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ZENSARTECH.NS": {
    "rsi": 33.5,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ZENTEC.NS": {
    "rsi": 61.2,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ZFCVINDIA.NS": {
    "rsi": 60.4,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "ZYDUSLIFE.NS": {
    "rsi": 63.6,
-   "asOf": "2026-06-15",
-   "source": "Perplexity finance DB (scheduled cross-check)"
+   "asOf": "2026-06-16",
+   "source": "Perplexity finance_ohlcv_histories (daily close)"
   }
  }
 }
