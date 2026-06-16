@@ -1,9 +1,9 @@
 {
- "refreshedAt": "2026-06-16T02:53:22Z",
+ "refreshedAt": "2026-06-16T14:01:52Z",
  "unit": "INR crore (net, cash market)",
  "source": "NSE provisional FII/DII cash data",
  "sourceUrl": "https://www.nseindia.com/reports/fii-dii",
- "notes": "Provisional; finalised by NSDL. Net = buy minus sell. Combined NSE+BSE+MSEI cash market segment. Holidays omitted: Apr 3 (Good Friday), Apr 14 (Ambedkar Jayanti), May 1 (Maharashtra Day), May 28 (Bakri Id). June 16 not yet appended: as of refresh time (02:53 UTC = 08:23 IST), the NSE/BSE June 16 session has not yet closed and no provisional FII/DII data is available. Will be added at next refresh once markets close (~10:30-11:00 UTC).",
+ "notes": "Provisional; finalised by NSDL. Net = buy minus sell. Combined NSE+BSE+MSEI cash market segment. Holidays omitted: Apr 3 (Good Friday), Apr 14 (Ambedkar Jayanti), May 1 (Maharashtra Day), May 28 (Bakri Id). June 16 appended: Moneycontrol provisional (combined NSE+BSE+MSEI) shows FII net -748.0 Cr and DII net +0.06 Cr (~Rs 6 lakh). NSE-only data shows FII +383.79 Cr and DII -1151.67 Cr per nseindia.com/reports/fii-dii. Combined-exchange figure used per data convention (NSE+BSE+MSEI). Source: Moneycontrol news article published June 16.",
  "series": [
   {
    "date": "2026-04-01",
@@ -354,6 +354,13 @@
    "dii": 3189.26,
    "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
    "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/"
+  },
+  {
+   "date": "2026-06-16",
+   "fii": -748.0,
+   "dii": 0.06,
+   "source": "Moneycontrol – DIIs net buying hits historic low Rs 6 lakh; FIIs sell Rs 748 crore on June 16",
+   "sourceUrl": "https://www.moneycontrol.com/news/business/markets/diis-net-buying-hits-historic-low-rs-6-lakh-only-on-june-16-fiis-sell-worth-rs-748-crore-13951229.html"
   }
  ]
 }

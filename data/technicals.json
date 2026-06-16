@@ -1,5 +1,5 @@
 {
- "refreshedAt": "2026-06-16T02:54:56Z",
+ "refreshedAt": "2026-06-16T14:03:05Z",
  "source": "Perplexity finance DB",
  "period": 14,
  "rsi": {
@@ -1604,42 +1604,42 @@
    "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KEC.NS": {
-   "rsi": 50.1,
+   "rsi": 55.4,
    "asOf": "2026-06-16",
    "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KEI.NS": {
-   "rsi": 62.1,
+   "rsi": 58.4,
    "asOf": "2026-06-16",
    "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KFINTECH.NS": {
-   "rsi": 48.9,
+   "rsi": 52.0,
    "asOf": "2026-06-16",
    "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KIMS.NS": {
-   "rsi": 54.2,
+   "rsi": 56.2,
    "asOf": "2026-06-16",
    "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KIOCL.NS": {
-   "rsi": 53.5,
+   "rsi": 56.2,
    "asOf": "2026-06-16",
    "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KIRLOSBROS.NS": {
-   "rsi": 60.6,
+   "rsi": 66.1,
    "asOf": "2026-06-16",
    "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KIRLOSENG.NS": {
-   "rsi": 63.2,
+   "rsi": 61.5,
    "asOf": "2026-06-16",
    "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KIRLPNU.NS": {
-   "rsi": 59.0,
+   "rsi": 60.7,
    "asOf": "2026-06-16",
    "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
@@ -1649,7 +1649,7 @@
    "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "KOTAKBANK.NS": {
-   "rsi": 68.5,
+   "rsi": 69.7,
    "asOf": "2026-06-16",
    "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
@@ -1734,12 +1734,12 @@
    "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LTTS.NS": {
-   "rsi": 48.7,
+   "rsi": 52.0,
    "asOf": "2026-06-16",
    "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
   "LUMAXTECH.NS": {
-   "rsi": 52.1,
+   "rsi": 45.5,
    "asOf": "2026-06-16",
    "source": "Perplexity finance_ohlcv_histories (daily close)"
   },
