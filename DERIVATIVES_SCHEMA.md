@@ -55,3 +55,16 @@ India VIX: nseindia.com or Yahoo (^INDIAVIX). Prefer NSE official for FII stats.
 - NIFTY is the primary, most-liquid index derivative — populate fully.
 - SENSEX/BSE F&O is thinner; populate what is authentically available, else DNA. Do not fabricate.
 - If NSE blocks direct fetch, use Moneycontrol/Groww/Trendlyne snapshot but keep canonical URL.
+
+## Cron-compatible sourcing (IMPORTANT — background runs CANNOT render JavaScript)
+Live option-chain pages (StockMojo, Sensibull, NiftyTrader live) are JavaScript-rendered and
+CANNOT be read by the background daily refresh (no browser). To fill Max Pain / Support / Resistance
+for BOTH NIFTY and SENSEX without a browser, parse the **daily static F&O-cues / trade-setup articles**
+(plain HTML, published every trading morning/evening) which state the numbers in text:
+- Upstox "Trade setup" / "Expiry alert" articles (upstox.com/news/...) — state "Max call OI: X", "Max put OI: Y", "Max pain: Z" for NIFTY and SENSEX.
+- Moneycontrol "Trade setup: Top 15 things to know" and ET Markets "Top F&O cues" — same fields in text.
+Use the highest Call OI strike as resistance and highest Put OI strike as support; record the article URL + date.
+- **India VIX is market-wide** (one NSE value): apply the same India VIX to BOTH the NIFTY and SENSEX blocks (note it is market-wide), do not mark SENSEX VIX as DNA.
+- **SENSEX fiiIndexFutures is genuinely unavailable**: NSE publishes FII derivative statistics index-agnostically (not split for SENSEX), so this field is legitimately DNA — never fabricate it.
+- Totals (Total Call OI / Total Put OI / PCR) for SENSEX are available statically from upstox.com/fno-discovery/open-interest-analysis/sensex-oi/.
+- Only when a number is in NONE of these static sources, set it null + freshness "DNA".
