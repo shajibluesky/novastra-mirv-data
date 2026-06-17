@@ -1,346 +1,475 @@
 {
- "refreshedAt": "2026-06-17T03:09:09Z",
- "asOf": "2026-06-17",
- "indicators": [
-  {
-   "id": "repo_rate",
-   "label": "RBI Repo Rate",
-   "category": "Monetary policy",
-   "value": "5.25%",
-   "prev": "5.50%",
-   "asOf": "2026-06-05",
-   "source": "Reserve Bank of India — MPC Statement June 2026",
-   "sourceUrl": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-june-2026-repo-rate-held-steady-at-5-25-5-key-takeaways-from-monetary-policy-decision-11780630767348.html",
-   "bias": "neutral",
-   "scope": "market",
-   "affects": [
-    "Banks",
-    "NBFC",
-    "Realty",
-    "Auto"
-   ],
-   "interpretation": "MPC voted unanimously to hold repo rate at 5.25% for the third consecutive meeting, maintaining a neutral stance. The previous rate was 5.50% before cumulative 125 bps of cuts since Feb 2025. With Brent now settled at ~$79.34/bbl on June 16 (vs RBI's elevated projection at the time of the June MPC), conditions for an August 2026 cut have further crystallised. Core CPI remains below 4%; August MPC (Aug 6-8) is a live cut meeting. US Fed holds at 3.5-3.75% (June 17 decision) providing external rate-environment stability.",
-   "freshness": "SNAPSHOT"
-  },
-  {
-   "id": "cpi_yoy",
-   "label": "CPI Inflation YoY (May 2026)",
-   "category": "Inflation",
-   "value": "3.93%",
-   "prev": "3.48%",
-   "asOf": "2026-06-12",
-   "source": "Ministry of Statistics and Programme Implementation (MoSPI) — CPI Press Release May 2026",
-   "sourceUrl": "https://www.mospi.gov.in/uploads/release_calendar/1781260985588_Press_Release_of_CPI_for_May_2026.pdf",
-   "bias": "neutral",
-   "scope": "market",
-   "affects": [
-    "FMCG",
-    "Banks",
-    "NBFC",
-    "Realty"
-   ],
-   "interpretation": "CPI at 3.93% in May 2026 remains below the RBI's 4% midpoint target. Food inflation (CFPI) climbed to 4.78%. Brent has now settled at ~$79.34/bbl on June 16 (further from ~$83/bbl on June 15), accelerating crude disinflation. The June CPI print (due late June) should come in below 4% if food prices stay contained — a key condition for August MPC cut. Mumbai monsoon arrival pushed to ~June 25 adds upside risk to vegetable prices in late June.",
-   "freshness": "SNAPSHOT"
-  },
-  {
-   "id": "wpi_yoy",
-   "label": "WPI Inflation YoY (May 2026)",
-   "category": "Inflation",
-   "value": "9.7%",
-   "prev": "8.3%",
-   "asOf": "2026-06-16",
-   "source": "Ministry of Commerce & Industry — WPI Press Release May 2026 (new 2022-23 base series); Economic Times report",
-   "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/wpi-inflation-surges-to-all-time-high-of-9-7-under-new-series/articleshow/131738771.cms",
-   "bias": "bearish",
-   "scope": "market",
-   "affects": [
-    "Metals",
-    "Energy",
-    "FMCG",
-    "Auto"
-   ],
-   "interpretation": "WPI at 9.7% in May 2026 (new 2022-23 base series, covering 957 items vs 697 earlier) reflects war-era crude prices when Brent was above $100/bbl. Fuel & Power +30.3% YoY; crude petroleum +61.5%. Bank of Baroda estimates WPI will average 7-8% in FY27. The June WPI print (mid-July) is expected to moderate sharply as Brent has now fallen to ~$79/bbl — a ~37% decline from the conflict peak. India has also introduced a Producer Price Index (PPI) to eventually replace WPI, signalling a structural improvement in inflation measurement. May WPI is a lagging indicator of a crisis that has substantially resolved.",
-   "freshness": "SNAPSHOT"
-  },
-  {
-   "id": "gdp_fy26_actual",
-   "label": "GDP Growth FY26 (Provisional Actual)",
-   "category": "Growth",
-   "value": "7.7%",
-   "prev": "7.1%",
-   "asOf": "2026-06-05",
-   "source": "MoSPI — Provisional Estimates of GDP for FY2025-26",
-   "sourceUrl": "https://www.indiatoday.in/business/story/indias-fy26-gdp-growth-pegged-at-77-despite-global-uncertainties-2922436-2026-06-05",
-   "bias": "bullish",
-   "scope": "market",
-   "affects": [
-    "Banks",
-    "Capital Goods",
-    "IT",
-    "Auto"
-   ],
-   "interpretation": "India's FY26 real GDP grew 7.7%, the fastest pace in three years, beating consensus of 7.2-7.5%. Q4 FY26 clocked 7.8%. Manufacturing +10.7%; financial services and real estate +10.4%; trade, hotels, transport +11%. GFCF +10.8% in Q4 signals investment-led momentum. India Inc Q4 FY26 aggregate net profit grew 25.3% YoY — highest in nine quarters. This strong FY26 base provides solid platform for FY27.",
-   "freshness": "SNAPSHOT"
-  },
-  {
-   "id": "gdp_fy27_rbi_forecast",
-   "label": "GDP Growth FY27 RBI Forecast",
-   "category": "Growth",
-   "value": "6.6%",
-   "prev": "6.9%",
-   "asOf": "2026-06-05",
-   "source": "Reserve Bank of India — MPC Statement June 2026",
-   "sourceUrl": "https://economictimes.indiatimes.com/news/newsblogs/rbi-monetary-policy-meeting-2026-live-updates-repo-rate-india-gdp-growth-reserve-bank-of-india-governor-sanjay-malhotra-speech-announcements-highlights-5th-june-latest-updates-west-asia-conflict-inflation-forex-gold/liveblog/131519170.cms",
-   "bias": "bearish",
-   "scope": "market",
-   "affects": [
-    "Banks",
-    "Capital Goods",
-    "Auto",
-    "FMCG"
-   ],
-   "interpretation": "RBI's official FY27 GDP forecast was revised down to 6.6% (from 6.9%) at the June MPC, citing West Asia conflict energy risks. With crude now at ~$79/bbl, the actual FY27 outcome is likely to come in closer to 6.8-7.0% — making this forecast a conservative floor rather than a central scenario. Monarch Networth Capital (June 16) expects Nifty EPS at ₹1,251 for FY27 and ₹1,443 for FY28.",
-   "freshness": "SNAPSHOT"
-  },
-  {
-   "id": "iip_apr2026",
-   "label": "IIP Industrial Production Growth (April 2026)",
-   "category": "Growth",
-   "value": "4.9%",
-   "prev": null,
-   "asOf": "2026-06-01",
-   "source": "MoSPI — Index of Industrial Production April 2026 (new base year 2022-23)",
-   "sourceUrl": "https://www.livemint.com/economy/iip-data-india-india-industrial-output-11780293320996.html",
-   "bias": "neutral",
-   "scope": "market",
-   "affects": [
-    "Capital Goods",
-    "Metals",
-    "Auto",
-    "Energy"
-   ],
-   "interpretation": "Industrial output grew 4.9% YoY in April 2026 under the new IIP series (base year 2022-23). Manufacturing +6.2%; Capital goods +16% YoY — strongest sub-segment — reflecting public capex spend. Consumer durables +4.3% and consumer non-durables +2.8%, signalling uneven recovery with investment cycle leading consumption. Power Grid's TBCB win (June 16-17) and NHPC's 3,097 MW Etalin HEP MoA with Arunachal Pradesh (June 16) continue to signal public infrastructure investment momentum.",
-   "freshness": "SNAPSHOT"
-  },
-  {
-   "id": "fii_net_flows_jun2026",
-   "label": "FII Net Flows (June 2026 MTD through June 16)",
-   "category": "Flows",
-   "value": "-₹46,978 Cr",
-   "prev": "-₹55,963 Cr",
-   "asOf": "2026-06-16",
-   "source": "NSE India FII/DII Reports + Moneycontrol FII/DII Activity — NSE+BSE+MSEI combined provisional",
-   "sourceUrl": "https://www.moneycontrol.com/news/business/markets/diis-net-buying-hits-historic-low-rs-6-lakh-only-on-june-16-fiis-sell-worth-rs-748-crore-13951229.html",
-   "bias": "bearish",
-   "scope": "market",
-   "affects": [
-    "Banks",
-    "IT",
-    "FMCG",
-    "Metals"
-   ],
-   "interpretation": "FIIs net sold ₹748 Cr on June 16 (NSE+BSE+MSEI combined, provisional). June MTD FII net: approx -₹46,978 Cr through June 16. YTD FII outflows: ~₹3.42 lakh crore (as of June 16). FII equity flows oscillated near zero June 15-16 (net +₹200 Cr on June 15, -₹748 Cr on June 16) — far less aggressive than May's ₹8,000-9,000 crore/day selling. FII bond buying accelerated to $1.84 billion in June (16-month high), suggesting the macro case for India is being re-rated in fixed income first. Equity re-entry catalyst: India-US BTA signing (talks June 23-24, expected mid-July).",
-   "freshness": "SNAPSHOT"
-  },
-  {
-   "id": "dii_net_flows_jun2026",
-   "label": "DII Net Flows (June 2026 MTD through June 16)",
-   "category": "Flows",
-   "value": "+₹61,137 Cr",
-   "prev": "+₹82,668 Cr",
-   "asOf": "2026-06-16",
-   "source": "NSE India FII/DII Reports + Moneycontrol FII/DII Activity — NSE+BSE+MSEI combined provisional",
-   "sourceUrl": "https://www.moneycontrol.com/news/business/markets/diis-net-buying-hits-historic-low-rs-6-lakh-only-on-june-16-fiis-sell-worth-rs-748-crore-13951229.html",
-   "bias": "bullish",
-   "scope": "market",
-   "affects": [
-    "Banks",
-    "Capital Goods",
-    "FMCG",
-    "IT"
-   ],
-   "interpretation": "DIIs effectively flat on June 16 (net bought ~₹6 lakh — near-historic low DII net activity — as markets rose 0.57% on retail/proprietary buying). June MTD DII net: +₹61,137 Cr through June 15. YTD DII purchases: +₹4.4 lakh crore as of June 16, significantly exceeding FII outflows of ₹3.42 lakh crore YTD. Monthly SIP flows remain structurally firm at ₹31,115 Cr/month (April). DII institutional buying of +₹4.4 lakh crore YTD is the structural price-setter and demand floor.",
-   "freshness": "SNAPSHOT"
-  },
-  {
-   "id": "usdinr",
-   "label": "USD/INR Exchange Rate",
-   "category": "External",
-   "value": "94.56",
-   "prev": "94.71",
-   "asOf": "2026-06-16",
-   "source": "Economic Times / The Hindu Business Line — USD/INR June 16 2026 closing",
-   "sourceUrl": "https://economictimes.com/markets/forex/forex-news/rupee-rises-for-a-3rd-day-as-crude-falls/articleshow/131783670.cms",
-   "bias": "bullish",
-   "scope": "market",
-   "affects": [
-    "IT",
-    "Pharma",
-    "Metals",
-    "Energy"
-   ],
-   "interpretation": "The rupee closed at 94.56 per dollar on June 16 — up 15 paise from June 15's close of 94.71 — its third consecutive session of appreciation as Brent crude fell to ~$79.34/bbl and US-Iran peace deal details firmed. The rupee has strengthened from ~96.8 in May (war peak) by over 224 paise in three weeks. Pre-market June 17: ~94.5-94.7 per x-rates.com data (94.497 as of June 17 02:27 UTC). Continued rupee strength reduces inflation import pressure and India's current account deficit. Mild headwind for IT and pharma dollar-denominated exporters but substantially positive for macro stability.",
-   "freshness": "SNAPSHOT"
-  },
-  {
-   "id": "brent_crude",
-   "label": "Brent Crude Oil (USD/bbl)",
-   "category": "External",
-   "value": "$79.34",
-   "prev": "$83.24",
-   "asOf": "2026-06-16",
-   "source": "MarketScreener / OilPriceAPI / Straits Times — Brent crude June 16-17 2026 settlement",
-   "sourceUrl": "https://www.thestar.com.my/business/2026/06/17/oil-hits-3-month-low-on-hormuz-reopening-hopes",
-   "bias": "bullish",
-   "scope": "market",
-   "affects": [
-    "Energy",
-    "FMCG",
-    "Auto",
-    "Realty",
-    "Banks"
-   ],
-   "interpretation": "Brent crude settled at ~$79.34/bbl on June 16 (The Star: 'fell $4.21 or 5.1% to settle at $78.96'; CNBC June 17: 'rose 0.6% to $79.43 as investors weighed durability of deal'; OilPriceAPI June 17: $79.34-79.48). Brent is now below $80 for the first time since March — back at pre-US-Iran conflict levels. From the $124/bbl conflict peak, Brent has fallen ~36% in two trading sessions. Goldman Sachs cut Brent forecast to average $80/bbl Q4 2026 (from $90); Morgan Stanley also cut forecast. At $79/bbl, India's annual crude import bill vs war-peak is ~$65-70 billion lower — the single most powerful macro tailwind for India's CAD, CPI, and monetary policy transmission. Crude below $80 makes August RBI rate cut the near-certain base case.",
-   "freshness": "SNAPSHOT"
-  },
-  {
-   "id": "india_10y_gsec",
-   "label": "India 10Y G-Sec Yield",
-   "category": "Monetary policy",
-   "value": "6.865%",
-   "prev": "6.870%",
-   "asOf": "2026-06-16",
-   "source": "Economic Times / The Hindu Business Line — India 10Y G-sec June 16 2026 settlement",
-   "sourceUrl": "https://economictimes.com/markets/bonds/india-bonds-muted-as-sparse-us-iran-deal-details-cap-oil-led-gains/articleshow/131772151.cms",
-   "bias": "bullish",
-   "scope": "market",
-   "affects": [
-    "Banks",
-    "NBFC",
-    "Realty",
-    "Capital Goods"
-   ],
-   "interpretation": "India's 10-year benchmark G-sec yield (6.94% GS 2036) settled at 6.8651% on June 16, down from 6.8704% on June 15 and 7.02% two weeks ago — at its lowest since March 24. The yield traded in a narrow 6.86-6.87% range as markets absorbed early crude disinflation relief against sparse US-Iran deal details. Pre-market June 17: The Hindu Business Line guide for the session is 6.85-6.87% range as Brent has settled further at ~$79.34/bbl. FIIs invested $1.84 billion (₹17,000 crore) in Indian bonds in June — highest in 16 months. Falling bond yields reduce the cost of capital economy-wide and structurally support NBFC, realty, and capital goods re-rating. Bank of Maharashtra's MCLR hike (effective June 17) signals some banks are still managing deposit cost pressures independently of the repo rate.",
-   "freshness": "SNAPSHOT"
-  },
-  {
-   "id": "fiscal_deficit_fy26",
-   "label": "Fiscal Deficit FY26 (Provisional Actuals)",
-   "category": "Fiscal",
-   "value": "4.4% of GDP",
-   "prev": "5.6% of GDP",
-   "asOf": "2026-06-01",
-   "source": "Moneycontrol — India FY26 fiscal deficit at 4.4%, in line with govt estimates",
-   "sourceUrl": "https://www.moneycontrol.com/news/india/india-s-fy26-fiscal-deficit-at-4-4-in-line-with-govt-estimates-13937704.html/amp",
-   "bias": "bullish",
-   "scope": "market",
-   "affects": [
-    "Banks",
-    "Capital Goods",
-    "Realty"
-   ],
-   "interpretation": "India's FY26 fiscal deficit came in at 4.4% of GDP (₹15.19 lakh crore), meeting the government's revised target. For FY27, the April deficit touched 21.4% of the annual target — seasonal and expected. The government's FY27 fiscal target remains 4.4% of GDP. GIC Re OFS (June 16-17) raising ₹3,088 crore (subscribed 3.72x on Day 1, greenshoe exercised) demonstrates robust demand for divestment assets and adds to FY27 revenue receipts. Sustained fiscal discipline is positive for sovereign rating trajectory and bond market confidence.",
-   "freshness": "SNAPSHOT"
-  },
-  {
-   "id": "gst_collections_may2026",
-   "label": "GST Collections (May 2026)",
-   "category": "Fiscal",
-   "value": "₹1.94 lakh crore",
-   "prev": "₹2.42 lakh crore",
-   "asOf": "2026-06-01",
-   "source": "Economic Times — GST collections rise 3.2% to ₹1.94 lakh crore in May",
-   "sourceUrl": "https://economictimes.com/news/economy/finance/indias-gross-gst-collections-moderate-to-rs-1-94-lakh-crore-in-may/articleshow/131435398.cms",
-   "bias": "neutral",
-   "scope": "market",
-   "affects": [
-    "FMCG",
-    "Auto",
-    "Banks"
-   ],
-   "interpretation": "Gross GST in May 2026: ₹1.94 lakh crore, up 3.2% YoY. Moderation from April's record ₹2.42 lakh crore is seasonal. Import-linked GST surged 19.7% (war-era crude-driven) while domestic revenue fell 2.3% YoY — suggesting underlying domestic consumption softness. April-May combined GST: ₹4.37 lakh crore (+6.2% YoY). June GST (released July 1) should moderate further on lower crude import values as Brent has now fallen to ~$79/bbl.",
-   "freshness": "SNAPSHOT"
-  },
-  {
-   "id": "monsoon_imd_2026",
-   "label": "Southwest Monsoon 2026 — Progress & IMD Forecast",
-   "category": "Growth",
-   "value": "Monsoon advance into Telangana/Odisha/Jharkhand/Bihar/Chhattisgarh next 4-5 days; Mumbai arrival delayed to ~June 25; Western/Central India subdued; cumulative deficit persists from break period June 16-21",
-   "prev": "28% below normal cumulative rainfall as of June 15; season forecast 90% of LPA",
-   "asOf": "2026-06-17",
-   "source": "IMD / LiveMint — Monsoon update June 17 2026",
-   "sourceUrl": "https://www.livemint.com/news/india/monsoon-update-delhi-braces-for-more-showers-today-mumbai-on-yellow-alert-check-full-weather-forecast-here-11781656955665.html",
-   "bias": "bearish",
-   "scope": "market",
-   "affects": [
-    "FMCG",
-    "Auto",
-    "Banks",
-    "Capital Goods"
-   ],
-   "interpretation": "IMD (June 17) forecasts monsoon advance into Telangana, Odisha, Jharkhand, Bihar, and parts of Chhattisgarh over the next 4-5 days — a marginal positive progression. However, Western India (Maharashtra, Gujarat, Rajasthan) and Central India remain subdued; Mumbai monsoon onset has been pushed back to ~June 25, two weeks past the city's normal June 11 arrival. The break period of June 16-21 deepens the early-season rainfall deficit. Monsoon revival expected in the June 22-28 period with cross-equatorial winds strengthening. A fuller recovery target: June 29-July 5 per weather models. Key risk: continued deficiency would pressure food inflation, rural FMCG/two-wheeler volumes, agri-NBFC credit quality, and delay Kharif crop sowing in Central/Northwest India through Q2 FY27.",
-   "freshness": "SNAPSHOT"
-  }
- ],
- "marketState": {
-  "state": "Transition",
-  "tilt": "bullish",
-  "confidence": "High",
+  "refreshedAt": "2026-06-17T14:08:48Z",
   "asOf": "2026-06-17",
-  "headline": "Transition holds, tilt firmly bullish — Brent below $80 for first time since March; Nifty pre-market above 24,000 (GIFT Nifty 24,025-24,030); 10Y yield at 6.865%; US Fed holds tonight as expected; Jio IPO DRHP filing imminent; NSE IPO DRHP by Thursday. State label maintained Transition pending BTA signing + June CPI confirmation, but all macro arrows point toward a clean Bullish call by mid-July.",
-  "boosting": [
-   {
-    "factor": "Brent below $80 — 3-month low; August RBI rate cut now near-certain base case",
-    "detail": "Brent crude settled at ~$79.34/bbl on June 16 — its lowest since early March, down from the $124/bbl conflict peak. The ~36% collapse in two trading sessions is the fastest crude normalisation in India's macro memory. Goldman Sachs cut Brent forecast to $80/bbl average for Q4 2026 (from $90); Morgan Stanley also cut. At $79/bbl, India's import bill falls ~$65-70 billion annually vs conflict peak — with direct cascade into CAD improvement, CPI moderation, and monetary easing. August MPC (Aug 6-8) rate cut is now the base case, not a risk case."
-   },
-   {
-    "factor": "GIFT Nifty 24,025 pre-market June 17 — fourth day of positive momentum; 24,000 crystallising as support",
-    "detail": "GIFT Nifty quoted at 24,025.50 (+26 pts above June 16 close of 23,989.15) per Business Standard June 17 live blog. Dow Jones Industrial Average hit a new closing high at 51,999.67 (+0.64%) overnight. Nifty has gained ~825 pts / ~3.5% in three sessions from the June 11 low. DSIJ pre-market: 'GIFT Nifty trading near 24,000 mark at 7:22 AM IST'. The 24,000 level has been tested intraday twice (June 15 and June 16) — a third successful open above it would establish a new price floor."
-   },
-   {
-    "factor": "Jio IPO DRHP filing imminent — could become India's largest-ever IPO; NSE IPO also this week",
-    "detail": "Reliance Jio Infocomm likely to file DRHP 'within days' per FT, ahead of Mukesh Ambani's AGM speech at RIL's 49th AGM on June 19. Jio FY26: revenue ₹1.76 lakh crore (+14.3% YoY), EBITDA ₹76,600 crore, 52.44 crore subscribers. Potential $4 billion IPO. NSE also expected to file DRHP by Thursday (valuation >₹5 lakh crore; targeting listing between Navratri-Diwali 2026). Two mega IPO filings in one week would be a structural deepening catalyst for India's capital markets and an FII re-entry accelerant."
-   },
-   {
-    "factor": "India-US BTA final-stage talks June 23-24; 99% issues resolved — mid-July signing in sight",
-    "detail": "USTR Greer visits New Delhi June 22; BTA talks June 23-24. Commerce Secretary and US Ambassador confirm 99% resolved. An interim deal before mid-July 2026 (before July 24 temporary tariff lapse) would remove Section 301 tariff overhang for IT, pharma, textiles, auto parts — the primary FII structural concern. This remains the single most important near-term catalyst for FII equity re-entry."
-   },
-   {
-    "factor": "DII structural bulwark — ₹4.4 lakh crore YTD purchases exceeding FII outflows",
-    "detail": "DIIs net bought ₹4.4 lakh crore YTD as of June 16, exceeding FII outflows of ₹3.42 lakh crore. SIP flows at ₹31,115 crore/month (April). DII holdings at record 18.7% of NSE-listed equities. Domestic institutions are the structural price-setter, providing sustained demand floor."
-   },
-   {
-    "factor": "India macro foundation — FY26 GDP 7.7%, Q4 corporate PAT +25.3%, fiscal deficit met at 4.4% of GDP",
-    "detail": "India enters the June 17 session from a position of macro strength: FY26 GDP 7.7% (3-year high), fiscal deficit met at 4.4% of GDP, corporate earnings at 9-quarter high. Nifty EPS upgrade cycle is underway per brokerages."
-   },
-   {
-    "factor": "GIC Re OFS 3.72x oversubscribed; greenshoe exercised — ₹3,088 crore raised; retail open June 17",
-    "detail": "GIC Re OFS at ₹352/share subscribed 3.72x on Day 1 (June 16 institutional). Greenshoe fully exercised. Retail tranche opens June 17. Strong demand for the divestment validates India's equity market depth and investor confidence in PSU financial institutions at these valuations."
-   }
+  "indicators": [
+    {
+      "id": "repo_rate",
+      "label": "RBI Repo Rate",
+      "category": "Monetary policy",
+      "value": "5.25%",
+      "prev": "5.50%",
+      "asOf": "2026-06-05",
+      "source": "Reserve Bank of India — MPC Statement June 2026",
+      "sourceUrl": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-june-2026-repo-rate-held-steady-at-5-25-5-key-takeaways-from-monetary-policy-decision-11780630767348.html",
+      "bias": "neutral",
+      "scope": "market",
+      "affects": [
+        "Banks",
+        "NBFC",
+        "Realty",
+        "Auto"
+      ],
+      "interpretation": "MPC voted unanimously to hold repo rate at 5.25% for the third consecutive meeting, maintaining a neutral stance. The previous rate was 5.50% before cumulative 125 bps of cuts since Feb 2025. With Brent now settled at ~$79.34/bbl on June 16 (vs RBI's elevated projection at the time of the June MPC), conditions for an August 2026 cut have further crystallised. Core CPI remains below 4%; August MPC (Aug 6-8) is a live cut meeting. US Fed holds at 3.5-3.75% (June 17 decision) providing external rate-environment stability.",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "cpi_yoy",
+      "label": "CPI Inflation YoY (May 2026)",
+      "category": "Inflation",
+      "value": "3.93%",
+      "prev": "3.48%",
+      "asOf": "2026-06-12",
+      "source": "Ministry of Statistics and Programme Implementation (MoSPI) — CPI Press Release May 2026",
+      "sourceUrl": "https://www.mospi.gov.in/uploads/release_calendar/1781260985588_Press_Release_of_CPI_for_May_2026.pdf",
+      "bias": "neutral",
+      "scope": "market",
+      "affects": [
+        "FMCG",
+        "Banks",
+        "NBFC",
+        "Realty"
+      ],
+      "interpretation": "CPI at 3.93% in May 2026 remains below the RBI's 4% midpoint target. Food inflation (CFPI) climbed to 4.78%. Brent has now settled at ~$79.34/bbl on June 16 (further from ~$83/bbl on June 15), accelerating crude disinflation. The June CPI print (due late June) should come in below 4% if food prices stay contained — a key condition for August MPC cut. Mumbai monsoon arrival pushed to ~June 25 adds upside risk to vegetable prices in late June.",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "wpi_yoy",
+      "label": "WPI Inflation YoY (May 2026)",
+      "category": "Inflation",
+      "value": "9.7%",
+      "prev": "8.3%",
+      "asOf": "2026-06-16",
+      "source": "Ministry of Commerce & Industry — WPI Press Release May 2026 (new 2022-23 base series); Economic Times report",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/wpi-inflation-surges-to-all-time-high-of-9-7-under-new-series/articleshow/131738771.cms",
+      "bias": "bearish",
+      "scope": "market",
+      "affects": [
+        "Metals",
+        "Energy",
+        "FMCG",
+        "Auto"
+      ],
+      "interpretation": "WPI at 9.7% in May 2026 (new 2022-23 base series, covering 957 items vs 697 earlier) reflects war-era crude prices when Brent was above $100/bbl. Fuel & Power +30.3% YoY; crude petroleum +61.5%. Bank of Baroda estimates WPI will average 7-8% in FY27. The June WPI print (mid-July) is expected to moderate sharply as Brent has now fallen to ~$79/bbl — a ~37% decline from the conflict peak. India has also introduced a Producer Price Index (PPI) to eventually replace WPI, signalling a structural improvement in inflation measurement. May WPI is a lagging indicator of a crisis that has substantially resolved.",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "gdp_fy26_actual",
+      "label": "GDP Growth FY26 (Provisional Actual)",
+      "category": "Growth",
+      "value": "7.7%",
+      "prev": "7.1%",
+      "asOf": "2026-06-05",
+      "source": "MoSPI — Provisional Estimates of GDP for FY2025-26",
+      "sourceUrl": "https://www.indiatoday.in/business/story/indias-fy26-gdp-growth-pegged-at-77-despite-global-uncertainties-2922436-2026-06-05",
+      "bias": "bullish",
+      "scope": "market",
+      "affects": [
+        "Banks",
+        "Capital Goods",
+        "IT",
+        "Auto"
+      ],
+      "interpretation": "India's FY26 real GDP grew 7.7%, the fastest pace in three years, beating consensus of 7.2-7.5%. Q4 FY26 clocked 7.8%. Manufacturing +10.7%; financial services and real estate +10.4%; trade, hotels, transport +11%. GFCF +10.8% in Q4 signals investment-led momentum. India Inc Q4 FY26 aggregate net profit grew 25.3% YoY — highest in nine quarters. This strong FY26 base provides solid platform for FY27.",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "gdp_fy27_rbi_forecast",
+      "label": "GDP Growth FY27 RBI Forecast",
+      "category": "Growth",
+      "value": "6.6%",
+      "prev": "6.9%",
+      "asOf": "2026-06-05",
+      "source": "Reserve Bank of India — MPC Statement June 2026",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/newsblogs/rbi-monetary-policy-meeting-2026-live-updates-repo-rate-india-gdp-growth-reserve-bank-of-india-governor-sanjay-malhotra-speech-announcements-highlights-5th-june-latest-updates-west-asia-conflict-inflation-forex-gold/liveblog/131519170.cms",
+      "bias": "bearish",
+      "scope": "market",
+      "affects": [
+        "Banks",
+        "Capital Goods",
+        "Auto",
+        "FMCG"
+      ],
+      "interpretation": "RBI's official FY27 GDP forecast was revised down to 6.6% (from 6.9%) at the June MPC, citing West Asia conflict energy risks. With crude now at ~$79/bbl, the actual FY27 outcome is likely to come in closer to 6.8-7.0% — making this forecast a conservative floor rather than a central scenario. Monarch Networth Capital (June 16) expects Nifty EPS at ₹1,251 for FY27 and ₹1,443 for FY28.",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "iip_apr2026",
+      "label": "IIP Industrial Production Growth (April 2026)",
+      "category": "Growth",
+      "value": "4.9%",
+      "prev": null,
+      "asOf": "2026-06-01",
+      "source": "MoSPI — Index of Industrial Production April 2026 (new base year 2022-23)",
+      "sourceUrl": "https://www.livemint.com/economy/iip-data-india-india-industrial-output-11780293320996.html",
+      "bias": "neutral",
+      "scope": "market",
+      "affects": [
+        "Capital Goods",
+        "Metals",
+        "Auto",
+        "Energy"
+      ],
+      "interpretation": "Industrial output grew 4.9% YoY in April 2026 under the new IIP series (base year 2022-23). Manufacturing +6.2%; Capital goods +16% YoY — strongest sub-segment — reflecting public capex spend. Consumer durables +4.3% and consumer non-durables +2.8%, signalling uneven recovery with investment cycle leading consumption. Power Grid's TBCB win (June 16-17) and NHPC's 3,097 MW Etalin HEP MoA with Arunachal Pradesh (June 16) continue to signal public infrastructure investment momentum.",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "fii_net_flows_jun2026",
+      "label": "FII Net Flows (June 2026 MTD through June 16)",
+      "category": "Flows",
+      "value": "-₹46,978 Cr",
+      "prev": "-₹55,963 Cr",
+      "asOf": "2026-06-16",
+      "source": "NSE India FII/DII Reports + Moneycontrol FII/DII Activity — NSE+BSE+MSEI combined provisional",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/diis-net-buying-hits-historic-low-rs-6-lakh-only-on-june-16-fiis-sell-worth-rs-748-crore-13951229.html",
+      "bias": "bearish",
+      "scope": "market",
+      "affects": [
+        "Banks",
+        "IT",
+        "FMCG",
+        "Metals"
+      ],
+      "interpretation": "FIIs net sold ₹748 Cr on June 16 (NSE+BSE+MSEI combined, provisional). June MTD FII net: approx -₹46,978 Cr through June 16. YTD FII outflows: ~₹3.42 lakh crore (as of June 16). FII equity flows oscillated near zero June 15-16 (net +₹200 Cr on June 15, -₹748 Cr on June 16) — far less aggressive than May's ₹8,000-9,000 crore/day selling. FII bond buying accelerated to $1.84 billion in June (16-month high), suggesting the macro case for India is being re-rated in fixed income first. Equity re-entry catalyst: India-US BTA signing (talks June 23-24, expected mid-July).",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "dii_net_flows_jun2026",
+      "label": "DII Net Flows (June 2026 MTD through June 16)",
+      "category": "Flows",
+      "value": "+₹61,137 Cr",
+      "prev": "+₹82,668 Cr",
+      "asOf": "2026-06-16",
+      "source": "NSE India FII/DII Reports + Moneycontrol FII/DII Activity — NSE+BSE+MSEI combined provisional",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/diis-net-buying-hits-historic-low-rs-6-lakh-only-on-june-16-fiis-sell-worth-rs-748-crore-13951229.html",
+      "bias": "bullish",
+      "scope": "market",
+      "affects": [
+        "Banks",
+        "Capital Goods",
+        "FMCG",
+        "IT"
+      ],
+      "interpretation": "DIIs effectively flat on June 16 (net bought ~₹6 lakh — near-historic low DII net activity — as markets rose 0.57% on retail/proprietary buying). June MTD DII net: +₹61,137 Cr through June 15. YTD DII purchases: +₹4.4 lakh crore as of June 16, significantly exceeding FII outflows of ₹3.42 lakh crore YTD. Monthly SIP flows remain structurally firm at ₹31,115 Cr/month (April). DII institutional buying of +₹4.4 lakh crore YTD is the structural price-setter and demand floor.",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "usdinr",
+      "label": "USD/INR Exchange Rate",
+      "category": "External",
+      "value": "94.56",
+      "prev": "94.71",
+      "asOf": "2026-06-16",
+      "source": "Economic Times / The Hindu Business Line — USD/INR June 16 2026 closing",
+      "sourceUrl": "https://economictimes.com/markets/forex/forex-news/rupee-rises-for-a-3rd-day-as-crude-falls/articleshow/131783670.cms",
+      "bias": "bullish",
+      "scope": "market",
+      "affects": [
+        "IT",
+        "Pharma",
+        "Metals",
+        "Energy"
+      ],
+      "interpretation": "The rupee closed at 94.56 per dollar on June 16 — up 15 paise from June 15's close of 94.71 — its third consecutive session of appreciation as Brent crude fell to ~$79.34/bbl and US-Iran peace deal details firmed. The rupee has strengthened from ~96.8 in May (war peak) by over 224 paise in three weeks. Pre-market June 17: ~94.5-94.7 per x-rates.com data (94.497 as of June 17 02:27 UTC). Continued rupee strength reduces inflation import pressure and India's current account deficit. Mild headwind for IT and pharma dollar-denominated exporters but substantially positive for macro stability.",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "brent_crude",
+      "label": "Brent Crude Oil (USD/bbl)",
+      "category": "External",
+      "value": "$79.34",
+      "prev": "$83.24",
+      "asOf": "2026-06-16",
+      "source": "MarketScreener / OilPriceAPI / Straits Times — Brent crude June 16-17 2026 settlement",
+      "sourceUrl": "https://www.thestar.com.my/business/2026/06/17/oil-hits-3-month-low-on-hormuz-reopening-hopes",
+      "bias": "bullish",
+      "scope": "market",
+      "affects": [
+        "Energy",
+        "FMCG",
+        "Auto",
+        "Realty",
+        "Banks"
+      ],
+      "interpretation": "Brent crude settled at ~$79.34/bbl on June 16 (The Star: 'fell $4.21 or 5.1% to settle at $78.96'; CNBC June 17: 'rose 0.6% to $79.43 as investors weighed durability of deal'; OilPriceAPI June 17: $79.34-79.48). Brent is now below $80 for the first time since March — back at pre-US-Iran conflict levels. From the $124/bbl conflict peak, Brent has fallen ~36% in two trading sessions. Goldman Sachs cut Brent forecast to average $80/bbl Q4 2026 (from $90); Morgan Stanley also cut forecast. At $79/bbl, India's annual crude import bill vs war-peak is ~$65-70 billion lower — the single most powerful macro tailwind for India's CAD, CPI, and monetary policy transmission. Crude below $80 makes August RBI rate cut the near-certain base case.",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "india_10y_gsec",
+      "label": "India 10Y G-Sec Yield",
+      "category": "Monetary policy",
+      "value": "6.865%",
+      "prev": "6.870%",
+      "asOf": "2026-06-16",
+      "source": "Economic Times / The Hindu Business Line — India 10Y G-sec June 16 2026 settlement",
+      "sourceUrl": "https://economictimes.com/markets/bonds/india-bonds-muted-as-sparse-us-iran-deal-details-cap-oil-led-gains/articleshow/131772151.cms",
+      "bias": "bullish",
+      "scope": "market",
+      "affects": [
+        "Banks",
+        "NBFC",
+        "Realty",
+        "Capital Goods"
+      ],
+      "interpretation": "India's 10-year benchmark G-sec yield (6.94% GS 2036) settled at 6.8651% on June 16, down from 6.8704% on June 15 and 7.02% two weeks ago — at its lowest since March 24. The yield traded in a narrow 6.86-6.87% range as markets absorbed early crude disinflation relief against sparse US-Iran deal details. Pre-market June 17: The Hindu Business Line guide for the session is 6.85-6.87% range as Brent has settled further at ~$79.34/bbl. FIIs invested $1.84 billion (₹17,000 crore) in Indian bonds in June — highest in 16 months. Falling bond yields reduce the cost of capital economy-wide and structurally support NBFC, realty, and capital goods re-rating. Bank of Maharashtra's MCLR hike (effective June 17) signals some banks are still managing deposit cost pressures independently of the repo rate.",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "fiscal_deficit_fy26",
+      "label": "Fiscal Deficit FY26 (Provisional Actuals)",
+      "category": "Fiscal",
+      "value": "4.4% of GDP",
+      "prev": "5.6% of GDP",
+      "asOf": "2026-06-01",
+      "source": "Moneycontrol — India FY26 fiscal deficit at 4.4%, in line with govt estimates",
+      "sourceUrl": "https://www.moneycontrol.com/news/india/india-s-fy26-fiscal-deficit-at-4-4-in-line-with-govt-estimates-13937704.html/amp",
+      "bias": "bullish",
+      "scope": "market",
+      "affects": [
+        "Banks",
+        "Capital Goods",
+        "Realty"
+      ],
+      "interpretation": "India's FY26 fiscal deficit came in at 4.4% of GDP (₹15.19 lakh crore), meeting the government's revised target. For FY27, the April deficit touched 21.4% of the annual target — seasonal and expected. The government's FY27 fiscal target remains 4.4% of GDP. GIC Re OFS (June 16-17) raising ₹3,088 crore (subscribed 3.72x on Day 1, greenshoe exercised) demonstrates robust demand for divestment assets and adds to FY27 revenue receipts. Sustained fiscal discipline is positive for sovereign rating trajectory and bond market confidence.",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "gst_collections_may2026",
+      "label": "GST Collections (May 2026)",
+      "category": "Fiscal",
+      "value": "₹1.94 lakh crore",
+      "prev": "₹2.42 lakh crore",
+      "asOf": "2026-06-01",
+      "source": "Economic Times — GST collections rise 3.2% to ₹1.94 lakh crore in May",
+      "sourceUrl": "https://economictimes.com/news/economy/finance/indias-gross-gst-collections-moderate-to-rs-1-94-lakh-crore-in-may/articleshow/131435398.cms",
+      "bias": "neutral",
+      "scope": "market",
+      "affects": [
+        "FMCG",
+        "Auto",
+        "Banks"
+      ],
+      "interpretation": "Gross GST in May 2026: ₹1.94 lakh crore, up 3.2% YoY. Moderation from April's record ₹2.42 lakh crore is seasonal. Import-linked GST surged 19.7% (war-era crude-driven) while domestic revenue fell 2.3% YoY — suggesting underlying domestic consumption softness. April-May combined GST: ₹4.37 lakh crore (+6.2% YoY). June GST (released July 1) should moderate further on lower crude import values as Brent has now fallen to ~$79/bbl.",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "monsoon_imd_2026",
+      "label": "Southwest Monsoon 2026 — Progress & IMD Forecast",
+      "category": "Growth",
+      "value": "Monsoon advance into Telangana/Odisha/Jharkhand/Bihar/Chhattisgarh next 4-5 days; Mumbai arrival delayed to ~June 25; Western/Central India subdued; cumulative deficit persists from break period June 16-21",
+      "prev": "28% below normal cumulative rainfall as of June 15; season forecast 90% of LPA",
+      "asOf": "2026-06-17",
+      "source": "IMD / LiveMint — Monsoon update June 17 2026",
+      "sourceUrl": "https://www.livemint.com/news/india/monsoon-update-delhi-braces-for-more-showers-today-mumbai-on-yellow-alert-check-full-weather-forecast-here-11781656955665.html",
+      "bias": "bearish",
+      "scope": "market",
+      "affects": [
+        "FMCG",
+        "Auto",
+        "Banks",
+        "Capital Goods"
+      ],
+      "interpretation": "IMD (June 17) forecasts monsoon advance into Telangana, Odisha, Jharkhand, Bihar, and parts of Chhattisgarh over the next 4-5 days — a marginal positive progression. However, Western India (Maharashtra, Gujarat, Rajasthan) and Central India remain subdued; Mumbai monsoon onset has been pushed back to ~June 25, two weeks past the city's normal June 11 arrival. The break period of June 16-21 deepens the early-season rainfall deficit. Monsoon revival expected in the June 22-28 period with cross-equatorial winds strengthening. A fuller recovery target: June 29-July 5 per weather models. Key risk: continued deficiency would pressure food inflation, rural FMCG/two-wheeler volumes, agri-NBFC credit quality, and delay Kharif crop sowing in Central/Northwest India through Q2 FY27.",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "fii_cash_net",
+      "label": "FII/FPI Net Cash (provisional)",
+      "category": "Flows",
+      "value": "102 Cr",
+      "prev": null,
+      "asOf": "2026-06-17",
+      "source": "Moneycontrol (provisional exchange data)",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/diis-net-purchase-shares-worth-rs-1-561-crore-fiis-buy-rs-102-crore-on-june-17-13952227.html",
+      "bias": "bullish",
+      "scope": "market",
+      "affects": [],
+      "interpretation": "Net institutional foreign flow can influence near-term index direction and liquidity.",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "dii_cash_net",
+      "label": "DII Net Cash (provisional)",
+      "category": "Flows",
+      "value": "1561 Cr",
+      "prev": null,
+      "asOf": "2026-06-17",
+      "source": "Moneycontrol (provisional exchange data)",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/diis-net-purchase-shares-worth-rs-1-561-crore-fiis-buy-rs-102-crore-on-june-17-13952227.html",
+      "bias": "bullish",
+      "scope": "market",
+      "affects": [],
+      "interpretation": "Domestic flows often stabilize drawdowns; strong buys support breadth.",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "india_vix",
+      "label": "India VIX",
+      "category": "Liquidity",
+      "value": "13.47",
+      "prev": "13.36",
+      "asOf": "2026-06-17",
+      "source": "Upstox India VIX index page",
+      "sourceUrl": "https://upstox.com/indices/india-vix-share-price/",
+      "bias": "bullish",
+      "scope": "market",
+      "affects": [],
+      "interpretation": "Lower implied volatility typically supports risk-on positioning; spikes can precede risk-off moves.",
+      "freshness": "SNAPSHOT"
+    },
+    {
+      "id": "gdp_growth",
+      "label": "gdp_growth",
+      "category": "Macro",
+      "value": null,
+      "prev": null,
+      "asOf": "2026-06-17",
+      "source": null,
+      "sourceUrl": null,
+      "bias": "neutral",
+      "scope": "market",
+      "affects": [],
+      "interpretation": "Data not available in this refresh run.",
+      "freshness": "DNA"
+    },
+    {
+      "id": "iip",
+      "label": "iip",
+      "category": "Macro",
+      "value": null,
+      "prev": null,
+      "asOf": "2026-06-17",
+      "source": null,
+      "sourceUrl": null,
+      "bias": "neutral",
+      "scope": "market",
+      "affects": [],
+      "interpretation": "Data not available in this refresh run.",
+      "freshness": "DNA"
+    },
+    {
+      "id": "usd_inr",
+      "label": "usd_inr",
+      "category": "Macro",
+      "value": null,
+      "prev": null,
+      "asOf": "2026-06-17",
+      "source": null,
+      "sourceUrl": null,
+      "bias": "neutral",
+      "scope": "market",
+      "affects": [],
+      "interpretation": "Data not available in this refresh run.",
+      "freshness": "DNA"
+    },
+    {
+      "id": "brent",
+      "label": "brent",
+      "category": "Macro",
+      "value": null,
+      "prev": null,
+      "asOf": "2026-06-17",
+      "source": null,
+      "sourceUrl": null,
+      "bias": "neutral",
+      "scope": "market",
+      "affects": [],
+      "interpretation": "Data not available in this refresh run.",
+      "freshness": "DNA"
+    },
+    {
+      "id": "india_10y",
+      "label": "india_10y",
+      "category": "Macro",
+      "value": null,
+      "prev": null,
+      "asOf": "2026-06-17",
+      "source": null,
+      "sourceUrl": null,
+      "bias": "neutral",
+      "scope": "market",
+      "affects": [],
+      "interpretation": "Data not available in this refresh run.",
+      "freshness": "DNA"
+    },
+    {
+      "id": "fiscal_deficit",
+      "label": "fiscal_deficit",
+      "category": "Macro",
+      "value": null,
+      "prev": null,
+      "asOf": "2026-06-17",
+      "source": null,
+      "sourceUrl": null,
+      "bias": "neutral",
+      "scope": "market",
+      "affects": [],
+      "interpretation": "Data not available in this refresh run.",
+      "freshness": "DNA"
+    },
+    {
+      "id": "gst",
+      "label": "gst",
+      "category": "Macro",
+      "value": null,
+      "prev": null,
+      "asOf": "2026-06-17",
+      "source": null,
+      "sourceUrl": null,
+      "bias": "neutral",
+      "scope": "market",
+      "affects": [],
+      "interpretation": "Data not available in this refresh run.",
+      "freshness": "DNA"
+    },
+    {
+      "id": "monsoon",
+      "label": "monsoon",
+      "category": "Macro",
+      "value": null,
+      "prev": null,
+      "asOf": "2026-06-17",
+      "source": null,
+      "sourceUrl": null,
+      "bias": "neutral",
+      "scope": "market",
+      "affects": [],
+      "interpretation": "Data not available in this refresh run.",
+      "freshness": "DNA"
+    }
   ],
-  "lagging": [
-   {
-    "factor": "Monsoon deficit deepens — Mumbai pushed to June 25 onset; Western/Central India subdued through June 21",
-    "detail": "Mumbai monsoon arrival pushed back to ~June 25 by IMD (two weeks past normal June 11 date). Break period June 16-21 deepens cumulative deficit. IMD forecasts advance into Telangana/Odisha/Jharkhand/Bihar in 4-5 days — marginal progress. Revival expected June 22-28; full recovery June 29-July 5. Risk: food inflation spike if deficiency deepens, Kharif crop damage, rural FMCG/two-wheeler volumes compressed in H2 FY27."
-   },
-   {
-    "factor": "FII equity flows still cumulatively negative — oscillating near zero, not yet a structural reversal",
-    "detail": "FIIs net sold ₹748 Cr on June 16 (combined exchanges) despite the bull session; YTD FII outflows ₹3.42 lakh crore. June 15 +₹200 Cr and June 16 -₹748 Cr signal oscillation near zero. FII bond buying ($1.84B in June) is the leading indicator of equity re-entry. BTA signing (mid-July) is the confirmed catalyst for structural FII equity reversal."
-   },
-   {
-    "factor": "US FOMC decision tonight — Kevin Warsh's debut meeting; hold expected but market to parse for hawkish language",
-    "detail": "US Fed rate decision tonight (June 17 midnight IST). Rate-setting panel expected to hold at 3.5-3.75% per consensus. UBS expects no cuts in 2026. This is Kevin Warsh's debut FOMC meeting as new Fed chair. Market to closely watch commentary on inflation trajectory and growth given the West Asia geopolitical shift. A hawkish surprise could trigger short-term USD strength / INR weakness / global equity pullback."
-   },
-   {
-    "factor": "Nasdaq -1.15%, S&P 500 -0.57% overnight — AI stock profit-booking; GIFT Nifty tepid despite positive",
-    "detail": "Nasdaq fell 1.15% and S&P 500 fell 0.57% overnight (June 16 US session) as AI-related stocks saw profit-booking. Dow Jones hit a new all-time high (+0.64%) — split US market signal. GIFT Nifty at +26 pts (24,025) is a tepid positive — not a strong gap up. India VIX has fallen 50%+ from peak which is structurally positive, but Nifty remains unable to decisively close above 24,000."
-   },
-   {
-    "factor": "WPI at 9.7% (new series record) — input cost pressure narrative persists until June print mid-July",
-    "detail": "May WPI of 9.7% (new series, 2022-23 base) driven by war-era crude is a lagging indicator. Bank of Baroda estimates WPI averaging 7-8% in FY27 even with crude below $80. Until the June WPI print (mid-July), industrial margin assumptions carry uncertainty."
-   }
-  ],
-  "narration": "On June 17 pre-market, the macro landscape has further improved relative to the June 16 evening refresh. The most critical update is Brent crude's close below $80 — at ~$79.34/bbl at settlement on June 16, down ~5% from the prior day — taking crude to a three-month low and back to pre-US-Iran conflict levels. This is the definitive 'all clear' signal for India's macro path: RBI has room to cut in August, CPI disinflation is on track, CAD improvement is accelerating, and the rupee is structurally stronger at 94.56. The GIFT Nifty at 24,025 pre-market suggests Indian markets are positioned to attempt a confirmed close above 24,000 for the first time — a key technical milestone. The US Fed holds rates tonight (Kevin Warsh's debut) and is expected to be a non-event for risk, though hawkish commentary is the tail risk. The week's two mega catalysts are the Jio IPO DRHP filing (imminent per FT, before RIL AGM June 19) and the India-US BTA talks (June 23-24). Together, these represent a structural re-rating moment for Indian equities: Jio IPO would deepen the domestic capital market and give FIIs a large-cap tech consumption proxy; BTA would remove the single largest remaining FII structural concern. The 'Transition/bullish/High' state is maintained because: (a) Nifty has not yet closed above 24,000 decisively; (b) FII equity buying is not yet confirmed structural; (c) BTA has not yet signed; (d) monsoon revival is not yet confirmed. However, the probability of upgrading to a clean 'Bullish' state at the next refresh (post-BTA talks June 23-24 or post-June CPI late June) has risen materially. For today's session, the market is a 'buy-on-dips' environment with GIFT Nifty above 24,000, Brent at $79, and three near-term catalysts (Fed non-event tonight, RIL AGM June 19, BTA talks June 23) providing a positive runway.",
-  "method": "Research interpretation of the sourced macro indicators + institutional flows + index close data + pre-market GIFT Nifty. Recomputed at each scheduled refresh. Not investment advice."
- }
+  "marketState": {
+    "state": "Transition",
+    "tilt": "bullish",
+    "confidence": "Low",
+    "asOf": "2026-06-17",
+    "headline": "Domestic institutional buying remains supportive; volatility stays low.",
+    "boosting": [
+      {
+        "factor": "DII inflows",
+        "detail": "Provisional domestic buying is strong versus recent sessions."
+      },
+      {
+        "factor": "Volatility",
+        "detail": "India VIX remains subdued."
+      }
+    ],
+    "lagging": [
+      {
+        "factor": "Foreign flows",
+        "detail": "FII participation is only marginally positive on provisional basis."
+      }
+    ],
+    "narration": "With DIIs net buyers and implied volatility low, the tape stays constructive, but confidence is capped until follow-through above key resistance levels is visible in price action.",
+    "method": "Weighted read of institutional flows (FII/DII provisional) and volatility (India VIX). Other macro prints marked DNA unless refreshed from official sources."
+  }
 }
