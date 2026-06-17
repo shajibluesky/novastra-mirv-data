@@ -1,0 +1,241 @@
+{
+  "refreshedAt": "2026-06-17T08:21:52Z",
+  "asOf": "2026-06-16",
+  "expiry": "2026-06-30",
+  "indices": {
+    "NIFTY": {
+      "spot": {
+        "value": 23989.15,
+        "unit": "points",
+        "change": 135.25,
+        "source": "Business Standard / Moneycontrol",
+        "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/nifty-june-futures-trade-at-premium-126061600828_1.html",
+        "asOf": "2026-06-16",
+        "freshness": "SNAPSHOT",
+        "bias": "Bullish",
+        "note": "NIFTY 50 closed at 23,989.15, up 135.25 pts (+0.57%), third consecutive gain day on US-Iran peace deal optimism."
+      },
+      "futuresBasis": {
+        "value": 17.85,
+        "unit": "points",
+        "change": null,
+        "source": "Business Standard",
+        "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/nifty-june-futures-trade-at-premium-126061600828_1.html",
+        "asOf": "2026-06-16",
+        "freshness": "SNAPSHOT",
+        "bias": "Bullish",
+        "note": "June futures (expiry 30-Jun-2026) closed at 24,007 vs spot 23,989.15; premium of 17.85 pts signals mild bullish carry."
+      },
+      "futuresOi": {
+        "value": 17635215,
+        "unit": "contracts",
+        "change": -1.03,
+        "source": "HDFC Sky F&O OI",
+        "sourceUrl": "https://hdfcsky.com/fno/nifty-50-change-in-oi",
+        "asOf": "2026-06-16",
+        "freshness": "SNAPSHOT",
+        "bias": "Bullish",
+        "note": "NIFTY June futures OI fell from 1,78,17,930 to 1,76,35,215 (-1.03%) while price rose — classic Short Covering setup."
+      },
+      "buildup": "Short covering",
+      "fiiIndexFutures": {
+        "value": -229600,
+        "unit": "contracts",
+        "change": -76735,
+        "source": "Trendlyne (NSE participant-wise OI)",
+        "sourceUrl": "https://trendlyne.com/futures-options/reports/participants-wise-oi/",
+        "asOf": "2026-06-16",
+        "freshness": "SNAPSHOT",
+        "bias": "Bearish",
+        "note": "FII index futures: Long 39,125 / Short 268,725 / Net -229,600 contracts; long/short ratio 0.1457 (14.57%); FII long ratio at 12.7%, up from 12.4% previous session — still heavily net short."
+      },
+      "pcr": {
+        "value": 0.982,
+        "unit": "ratio",
+        "change": null,
+        "source": "TopStockResearch (NSE expiry 16-Jun-2026 data)",
+        "sourceUrl": "https://www.topstockresearch.com/rt/ViewPutCallRatio",
+        "asOf": "2026-06-16",
+        "freshness": "SNAPSHOT",
+        "bias": "Neutral",
+        "note": "OI-based PCR of 0.982 for 16-Jun expiry (Put OI 2,070,380 / Call OI 2,107,365); marginally below 1.0 — slightly more call OI, neutral-to-mildly bearish sentiment from options positioning."
+      },
+      "maxPain": {
+        "value": 23950,
+        "unit": "points",
+        "change": null,
+        "source": "MarketNetra",
+        "sourceUrl": "https://marketnetra.in/stocks/nifty/oi-analysis",
+        "asOf": "2026-06-16",
+        "freshness": "SNAPSHOT",
+        "bias": "Neutral",
+        "note": "Max pain at 23,950 for 16-Jun weekly expiry; spot closed at 23,989 — 39 pts above max pain, suggesting mild upside pressure resolved near expiry."
+      },
+      "support": {
+        "value": 23900,
+        "unit": "points",
+        "change": null,
+        "source": "NSE Most Active Contracts",
+        "sourceUrl": "https://www.nseindia.com/market-data/most-active-contracts",
+        "asOf": "2026-06-16",
+        "freshness": "SNAPSHOT",
+        "bias": "Bullish",
+        "note": "Highest Put OI strike at 23,900 (OI: 8,40,605 contracts) for 16-Jun expiry — dense put writing forms floor/support zone."
+      },
+      "resistance": {
+        "value": 24000,
+        "unit": "points",
+        "change": null,
+        "source": "NSE Most Active Contracts",
+        "sourceUrl": "https://www.nseindia.com/market-data/most-active-contracts",
+        "asOf": "2026-06-16",
+        "freshness": "SNAPSHOT",
+        "bias": "Bearish",
+        "note": "Highest Call OI strike at 24,000 (OI: 9,05,649 contracts) for 16-Jun expiry — heaviest call writing at 24,000 caps upside at the psychological level."
+      },
+      "indiaVix": {
+        "value": 13.36,
+        "unit": "index",
+        "change": -0.99,
+        "source": "Business Standard / Livemint",
+        "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/nifty-june-futures-trade-at-premium-126061600828_1.html",
+        "asOf": "2026-06-16",
+        "freshness": "SNAPSHOT",
+        "bias": "Bullish",
+        "note": "India VIX fell 6.89% to 13.36 from prior close of 14.35; sharp VIX decline reflects easing fear on US-Iran deal, supportive for equity upside continuation."
+      },
+      "fnoVerdict": {
+        "verdict": "Neutral",
+        "confidence": "Medium",
+        "rationale": "Short covering (OI down, price up) is structurally positive but temporary — it reflects bears exiting rather than fresh bulls entering. FII index futures remain deeply net short at -229,600 contracts (long/short ratio 14.57%), indicating sustained institutional hedging/bearish positioning despite a one-session uptick in long ratio to 12.7%. Futures basis is a modest +17.85 pts premium, consistent with mild carry rather than aggressive bull conviction. Net read: cautious — relief rally on exogenous news (US-Iran), not a structural F&O build."
+      },
+      "optionsVerdict": {
+        "verdict": "Neutral",
+        "confidence": "Medium",
+        "rationale": "PCR of 0.982 sits just below 1.0 — marginally call-heavy OI, consistent with a neutral-to-mildly cautious market. India VIX at 13.36 (down ~7%) signals sharply reduced fear premium, which historically supports range-bound or mildly bullish near-term moves. Max pain at 23,950 and spot close at 23,989 are tightly aligned; 24,000 Call wall (9.05 lakh OI) capped intraday upside and is the key resistance going into the next session. Put support at 23,900 provides a defined 89-pt range (23,900–24,000)."
+      },
+      "combinedVerdict": {
+        "verdict": "Neutral",
+        "confidence": "Medium",
+        "rationale": "NIFTY's June 16 session was a VIX-driven short-covering rally — technicals improving but F&O structure not yet confirming a durable bullish reset. FIIs remain net short index futures by a large margin (-229,600 contracts), which limits upside momentum. The 24,000 Call OI wall is a firm ceiling; a decisive close above 24,000 with fresh long buildup and FII short reduction would be needed to shift verdict to Bullish. Current positioning favours range consolidation between 23,900–24,050 in the near term."
+      }
+    },
+    "SENSEX": {
+      "spot": {
+        "value": 76808.48,
+        "unit": "points",
+        "change": 544.15,
+        "source": "Moneycontrol / 5paisa",
+        "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-16-06-2026-liveblog-13950367.html",
+        "asOf": "2026-06-16",
+        "freshness": "SNAPSHOT",
+        "bias": "Bullish",
+        "note": "SENSEX closed at 76,808.48, up 544.15 pts (+0.71%), outperforming NIFTY on the day; highest close since May 8, 2026."
+      },
+      "futuresBasis": {
+        "value": 12.97,
+        "unit": "points",
+        "change": null,
+        "source": "Kotak Neo (SENSEX Jun Futures)",
+        "sourceUrl": "https://www.kotakneo.com/futures-and-options/index-futures/bse-sensex-futures/",
+        "asOf": "2026-06-16",
+        "freshness": "SNAPSHOT",
+        "bias": "Bullish",
+        "note": "SENSEX June futures (expiry 25-Jun-2026) closed at 76,821.45 vs spot 76,808.48; premium of ~12.97 pts — mild positive carry, consistent with NIFTY basis."
+      },
+      "futuresOi": {
+        "value": 5550,
+        "unit": "contracts",
+        "change": -2.31,
+        "source": "Kotak Neo (SENSEX Jun Futures)",
+        "sourceUrl": "https://www.kotakneo.com/futures-and-options/index-futures/bse-sensex-futures/",
+        "asOf": "2026-06-16",
+        "freshness": "SNAPSHOT",
+        "bias": "Neutral",
+        "note": "SENSEX June futures OI: 5,550 contracts, down 2.31% on the day — very thin liquidity vs NIFTY; OI down + price up implies short covering, but sample too small for conviction."
+      },
+      "buildup": "Short covering",
+      "fiiIndexFutures": {
+        "value": null,
+        "unit": "contracts",
+        "change": null,
+        "source": null,
+        "sourceUrl": null,
+        "asOf": null,
+        "freshness": "DNA",
+        "bias": "Neutral",
+        "note": "FII participant-wise OI for SENSEX index futures not separately published by NSE/BSE; data not available."
+      },
+      "pcr": {
+        "value": 1.44,
+        "unit": "ratio",
+        "change": null,
+        "source": "Upstox SENSEX OI Analysis",
+        "sourceUrl": "https://upstox.com/fno-discovery/open-interest-analysis/sensex-oi/",
+        "asOf": "2026-06-16",
+        "freshness": "SNAPSHOT",
+        "bias": "Bullish",
+        "note": "SENSEX options OI: Total Puts 2,71,25,660 / Total Calls 1,88,53,320; PCR ~1.44 — put-heavy positioning suggests put writing support; bullish contrarian signal."
+      },
+      "maxPain": {
+        "value": null,
+        "unit": "points",
+        "change": null,
+        "source": null,
+        "sourceUrl": null,
+        "asOf": null,
+        "freshness": "DNA",
+        "bias": "Neutral",
+        "note": "SENSEX max pain strike for June 16/25 2026 not sourced from an approved allowlisted domain with date-confirmed data."
+      },
+      "support": {
+        "value": null,
+        "unit": "points",
+        "change": null,
+        "source": null,
+        "sourceUrl": null,
+        "asOf": null,
+        "freshness": "DNA",
+        "bias": "Neutral",
+        "note": "Strike-wise SENSEX put OI breakdown for June 16 2026 not available from approved sources; support level not determinable."
+      },
+      "resistance": {
+        "value": null,
+        "unit": "points",
+        "change": null,
+        "source": null,
+        "sourceUrl": null,
+        "asOf": null,
+        "freshness": "DNA",
+        "bias": "Neutral",
+        "note": "Strike-wise SENSEX call OI breakdown for June 16 2026 not available from approved sources; resistance level not determinable."
+      },
+      "indiaVix": {
+        "value": null,
+        "unit": "index",
+        "change": null,
+        "source": null,
+        "sourceUrl": null,
+        "asOf": null,
+        "freshness": "DNA",
+        "bias": "Neutral",
+        "note": "India VIX is a market-wide NSE index; populated in NIFTY block only. SENSEX block carries null per schema."
+      },
+      "fnoVerdict": {
+        "verdict": "Neutral",
+        "confidence": "Low",
+        "rationale": "SENSEX F&O is structurally thin — futures OI of only 5,550 contracts vs NIFTY's 17.6 million makes inferences unreliable. Spot rose 544 pts (+0.71%) outperforming NIFTY, and PCR of ~1.44 is technically bullish (put writing support). However, absence of FII participant-wise OI, max pain, and strike-level OI data limits confidence. Read SENSEX directionally from NIFTY verdict and spot performance only."
+      },
+      "optionsVerdict": {
+        "verdict": "Bullish",
+        "confidence": "Low",
+        "rationale": "PCR of ~1.44 for SENSEX options (puts > calls by 44%) is a contrarian bullish signal suggesting put writers are providing support. However, with max pain, support, and resistance strikes unavailable (DNA), the options verdict rests solely on aggregate PCR. Confidence is Low due to data gaps."
+      },
+      "combinedVerdict": {
+        "verdict": "Neutral",
+        "confidence": "Low",
+        "rationale": "SENSEX spot performance (+0.71%) was strong and outpaced NIFTY on June 16, driven by the same macro tailwind (US-Iran peace deal). PCR is bullish. But BSE F&O is extremely illiquid compared to NSE — actionable derivatives positioning cannot be read from SENSEX-specific F&O data. Defer to NIFTY combined verdict for index-level F&O read. Multiple key SENSEX fields remain DNA due to source limitations."
+      }
+    }
+  }
+}
