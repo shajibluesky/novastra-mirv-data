@@ -1,366 +1,366 @@
 {
- "refreshedAt": "2026-06-16T14:01:52Z",
- "unit": "INR crore (net, cash market)",
- "source": "NSE provisional FII/DII cash data",
- "sourceUrl": "https://www.nseindia.com/reports/fii-dii",
- "notes": "Provisional; finalised by NSDL. Net = buy minus sell. Combined NSE+BSE+MSEI cash market segment. Holidays omitted: Apr 3 (Good Friday), Apr 14 (Ambedkar Jayanti), May 1 (Maharashtra Day), May 28 (Bakri Id). June 16 appended: Moneycontrol provisional (combined NSE+BSE+MSEI) shows FII net -748.0 Cr and DII net +0.06 Cr (~Rs 6 lakh). NSE-only data shows FII +383.79 Cr and DII -1151.67 Cr per nseindia.com/reports/fii-dii. Combined-exchange figure used per data convention (NSE+BSE+MSEI). Source: Moneycontrol news article published June 16.",
- "series": [
-  {
-   "date": "2026-04-01",
-   "fii": -8331.15,
-   "dii": 7171.8,
-   "source": "Multibagg AI (NSE+BSE+MSEI provisional)",
-   "sourceUrl": "https://www.multibagg.ai/market-pulse/articles/fii-dii-flows-april-2026-cmnrsyvjdx5chma0jmhnld8pi"
-  },
-  {
-   "date": "2026-04-02",
-   "fii": -9931.13,
-   "dii": 7208.41,
-   "source": "Moneycontrol – FPIs net sell Rs 9931 crore article",
-   "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fpis-net-sell-equities-worth-rs-9931-crore-diis-net-buy-rs-7208-crore-shares-on-april-2-13878293.html"
-  },
-  {
-   "date": "2026-04-06",
-   "fii": -8167.17,
-   "dii": 8088.7,
-   "source": "Moneycontrol – FIIs dump Rs 8,167 crore article",
-   "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fiis-dump-rs-8-167-crore-as-diis-step-in-nifty-rebounds-on-ceasefire-hopes-13881368.html"
-  },
-  {
-   "date": "2026-04-07",
-   "fii": -8692.11,
-   "dii": 7979.5,
-   "source": "Moneycontrol – FII/FPIs net sell Rs 8692 crore article",
-   "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fii-fpis-net-sell-indian-equities-worth-rs-8692-crore-while-diis-net-buy-rs-7980-crore-13882342.html"
-  },
-  {
-   "date": "2026-04-08",
-   "fii": -2811.97,
-   "dii": 4168.17,
-   "source": "Multibagg AI / LinkedIn TradeSwift (NSE+BSE+MSEI provisional)",
-   "sourceUrl": "https://www.multibagg.ai/market-pulse/articles/fii-dii-flows-april-2026-cmnrsyvjdx5chma0jmhnld8pi"
-  },
-  {
-   "date": "2026-04-09",
-   "fii": -1711.19,
-   "dii": 955.9,
-   "source": "Multibagg AI – FII Selling Persists Apr 9 article (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.multibagg.ai/market-pulse/articles/fii-dii-flows-april-2026-cmnrsyvjdx5chma0jmhnld8pi"
-  },
-  {
-   "date": "2026-04-10",
-   "fii": 672.09,
-   "dii": 410.05,
-   "source": "X/@ipoalert_18 – Automated NSE+BSE+MSEI provisional post",
-   "sourceUrl": "https://x.com/ipoalert_18/status/2042591389947695533"
-  },
-  {
-   "date": "2026-04-13",
-   "fii": -1983.18,
-   "dii": 2432.3,
-   "source": "X/@Agrawal_Raj – Automated NSE+BSE+MSEI provisional post",
-   "sourceUrl": "https://x.com/Agrawal_Raj/status/2043683441758363720"
-  },
-  {
-   "date": "2026-04-15",
-   "fii": 666.15,
-   "dii": -568.0,
-   "source": "Livemint / LinkedIn Optrait – NSE+BSE+MSEI FII/DII Apr 15 data",
-   "sourceUrl": "https://www.livemint.com/market/stock-market-news/fiidii-data-fiis-turn-net-buyers-for-three-straight-sessions-in-indian-stock-market-can-the-buying-streak-continue-11776662457808.html"
-  },
-  {
-   "date": "2026-04-16",
-   "fii": 382.36,
-   "dii": -3428.0,
-   "source": "Livemint – FIIs net buyers three straight sessions article",
-   "sourceUrl": "https://www.livemint.com/market/stock-market-news/fiidii-data-fiis-turn-net-buyers-for-three-straight-sessions-in-indian-stock-market-can-the-buying-streak-continue-11776662457808.html"
-  },
-  {
-   "date": "2026-04-17",
-   "fii": 683.2,
-   "dii": -4721.48,
-   "source": "Livemint / LinkedIn TapeTide – FII/DII Apr 17 NSE+BSE+MSEI",
-   "sourceUrl": "https://www.livemint.com/market/stock-market-news/fiidii-data-fiis-turn-net-buyers-for-three-straight-sessions-in-indian-stock-market-can-the-buying-streak-continue-11776662457808.html"
-  },
-  {
-   "date": "2026-04-20",
-   "fii": -1059.93,
-   "dii": 2966.89,
-   "source": "Moneycontrol – FIIs net sell Rs 1,060 crore Apr 20 article",
-   "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fiis-net-sell-rs-1-060-crore-in-equities-dii-net-buy-rs-2-967-crore-shares-on-april-20-13894431.html"
-  },
-  {
-   "date": "2026-04-21",
-   "fii": -1919.0,
-   "dii": 2221.0,
-   "source": "Moneycontrol – FIIs net sell Rs 1,919 crore Apr 21 article",
-   "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fiis-net-sell-rs-1-919-crore-in-equities-dii-net-buy-rs-2-221-crore-shares-on-april-21-13895390.html"
-  },
-  {
-   "date": "2026-04-22",
-   "fii": -2078.0,
-   "dii": 1048.0,
-   "source": "Moneycontrol – FIIs net sell Rs 2078 crore Apr 22 article",
-   "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fiis-net-sell-rs-2078-crore-in-equities-dii-net-sell-rs-1048-crore-shares-on-april-22-13896651.html"
-  },
-  {
-   "date": "2026-04-23",
-   "fii": -3254.71,
-   "dii": 941.35,
-   "source": "Economic Times FII/DII activity page (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://economictimes.indiatimes.com/markets/fii-dii-activity"
-  },
-  {
-   "date": "2026-04-24",
-   "fii": -8827.87,
-   "dii": 4700.71,
-   "source": "X/@marketsday – Automated NSE+BSE+MSEI provisional post Apr 24",
-   "sourceUrl": "https://x.com/marketsday/status/2047662260353696040"
-  },
-  {
-   "date": "2026-04-27",
-   "fii": -1151.48,
-   "dii": 4123.92,
-   "source": "Multibagg AI / LinkedIn TapeTide – FII/DII Apr 27 NSE+BSE+MSEI",
-   "sourceUrl": "https://www.multibagg.ai/market-pulse/articles/nifty50-fii-dii-net-flows-cmosuiprp000vo50j5gut0map"
-  },
-  {
-   "date": "2026-04-28",
-   "fii": -2103.74,
-   "dii": 1712.01,
-   "source": "X/@Agrawal_Raj – Automated NSE+BSE+MSEI provisional post Apr 28",
-   "sourceUrl": "https://x.com/Agrawal_Raj/status/2049139187648270838"
-  },
-  {
-   "date": "2026-04-29",
-   "fii": -2468.42,
-   "dii": 2262.17,
-   "source": "Multibagg AI – FII/DII net flows late April table",
-   "sourceUrl": "https://www.multibagg.ai/market-pulse/articles/nifty50-fii-dii-net-flows-cmosuiprp000vo50j5gut0map"
-  },
-  {
-   "date": "2026-04-30",
-   "fii": -8047.86,
-   "dii": 3487.1,
-   "source": "Multibagg AI – FII/DII net flows late April table (Apr 30)",
-   "sourceUrl": "https://www.multibagg.ai/market-pulse/articles/nifty50-fii-dii-net-flows-cmosuiprp000vo50j5gut0map"
-  },
-  {
-   "date": "2026-05-04",
-   "fii": 2835.62,
-   "dii": 4764.16,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-05",
-   "fii": -3621.58,
-   "dii": 2602.62,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-06",
-   "fii": -5834.9,
-   "dii": 6836.87,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-07",
-   "fii": -340.89,
-   "dii": 441.07,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-08",
-   "fii": -4110.6,
-   "dii": 6748.13,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-11",
-   "fii": -8437.56,
-   "dii": 5939.65,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-12",
-   "fii": -1959.39,
-   "dii": 7990.32,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-13",
-   "fii": -4703.15,
-   "dii": 5869.05,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-14",
-   "fii": 187.46,
-   "dii": 684.33,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-15",
-   "fii": 1329.17,
-   "dii": -1958.82,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-18",
-   "fii": 2813.69,
-   "dii": 2682.12,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-19",
-   "fii": -2457.49,
-   "dii": 3801.68,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-20",
-   "fii": -1597.35,
-   "dii": 1968.35,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-21",
-   "fii": -1891.21,
-   "dii": 2492.42,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-22",
-   "fii": -4440.47,
-   "dii": 6003.53,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-25",
-   "fii": 821.75,
-   "dii": 3856.88,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-26",
-   "fii": -2407.87,
-   "dii": 1361.43,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-27",
-   "fii": -1042.7,
-   "dii": 3821.0,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-05-29",
-   "fii": -21105.86,
-   "dii": 16764.14,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-06-01",
-   "fii": -3911.68,
-   "dii": 5109.13,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-06-02",
-   "fii": -8362.92,
-   "dii": 9589.32,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-06-03",
-   "fii": -5616.56,
-   "dii": 5740.89,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-06-04",
-   "fii": -4447.06,
-   "dii": 4360.14,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-06-05",
-   "fii": -8776.25,
-   "dii": 9133.57,
-   "source": "Moneycontrol – FIIs extend selling streak Jun 5 article",
-   "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fiis-extend-selling-streak-offload-rs-8-776-crore-diis-purchase-rs-9-134-crore-13942425.html"
-  },
-  {
-   "date": "2026-06-08",
-   "fii": -5555.67,
-   "dii": 5165.24,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-06-09",
-   "fii": -4566.03,
-   "dii": 6159.48,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-06-10",
-   "fii": -2124.98,
-   "dii": 3123.95,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-06-11",
-   "fii": -1987.09,
-   "dii": 4224.51,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
-  },
-  {
-   "date": "2026-06-12",
-   "fii": -1082.18,
-   "dii": 5341.29,
-   "source": "Moneycontrol FII/DII activity / NSE India provisional report",
-   "sourceUrl": "https://www.nseindia.com/reports/fii-dii"
-  },
-  {
-   "date": "2026-06-15",
-   "fii": 200.05,
-   "dii": 3189.26,
-   "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
-   "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/"
-  },
-  {
-   "date": "2026-06-16",
-   "fii": -748.0,
-   "dii": 0.06,
-   "source": "Moneycontrol – DIIs net buying hits historic low Rs 6 lakh; FIIs sell Rs 748 crore on June 16",
-   "sourceUrl": "https://www.moneycontrol.com/news/business/markets/diis-net-buying-hits-historic-low-rs-6-lakh-only-on-june-16-fiis-sell-worth-rs-748-crore-13951229.html"
-  }
- ]
+  "refreshedAt": "2026-06-17T03:05:03Z",
+  "unit": "INR crore (net, cash market)",
+  "source": "NSE provisional FII/DII cash data",
+  "sourceUrl": "https://www.nseindia.com/reports/fii-dii",
+  "notes": "Provisional; finalised by NSDL. Net = buy minus sell. Combined NSE+BSE+MSEI cash market segment. Holidays omitted: Apr 3 (Good Friday), Apr 14 (Ambedkar Jayanti), May 1 (Maharashtra Day), May 28 (Bakri Id). June 16 appended: Moneycontrol provisional (combined NSE+BSE+MSEI) shows FII net -748.0 Cr and DII net +0.06 Cr (~Rs 6 lakh). NSE-only data shows FII +383.79 Cr and DII -1151.67 Cr per nseindia.com/reports/fii-dii. Combined-exchange figure used per data convention (NSE+BSE+MSEI). Source: Moneycontrol news article published June 16.",
+  "series": [
+    {
+      "date": "2026-04-01",
+      "fii": -8331.15,
+      "dii": 7171.8,
+      "source": "Multibagg AI (NSE+BSE+MSEI provisional)",
+      "sourceUrl": "https://www.multibagg.ai/market-pulse/articles/fii-dii-flows-april-2026-cmnrsyvjdx5chma0jmhnld8pi"
+    },
+    {
+      "date": "2026-04-02",
+      "fii": -9931.13,
+      "dii": 7208.41,
+      "source": "Moneycontrol \u2013 FPIs net sell Rs 9931 crore article",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fpis-net-sell-equities-worth-rs-9931-crore-diis-net-buy-rs-7208-crore-shares-on-april-2-13878293.html"
+    },
+    {
+      "date": "2026-04-06",
+      "fii": -8167.17,
+      "dii": 8088.7,
+      "source": "Moneycontrol \u2013 FIIs dump Rs 8,167 crore article",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fiis-dump-rs-8-167-crore-as-diis-step-in-nifty-rebounds-on-ceasefire-hopes-13881368.html"
+    },
+    {
+      "date": "2026-04-07",
+      "fii": -8692.11,
+      "dii": 7979.5,
+      "source": "Moneycontrol \u2013 FII/FPIs net sell Rs 8692 crore article",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fii-fpis-net-sell-indian-equities-worth-rs-8692-crore-while-diis-net-buy-rs-7980-crore-13882342.html"
+    },
+    {
+      "date": "2026-04-08",
+      "fii": -2811.97,
+      "dii": 4168.17,
+      "source": "Multibagg AI / LinkedIn TradeSwift (NSE+BSE+MSEI provisional)",
+      "sourceUrl": "https://www.multibagg.ai/market-pulse/articles/fii-dii-flows-april-2026-cmnrsyvjdx5chma0jmhnld8pi"
+    },
+    {
+      "date": "2026-04-09",
+      "fii": -1711.19,
+      "dii": 955.9,
+      "source": "Multibagg AI \u2013 FII Selling Persists Apr 9 article (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.multibagg.ai/market-pulse/articles/fii-dii-flows-april-2026-cmnrsyvjdx5chma0jmhnld8pi"
+    },
+    {
+      "date": "2026-04-10",
+      "fii": 672.09,
+      "dii": 410.05,
+      "source": "X/@ipoalert_18 \u2013 Automated NSE+BSE+MSEI provisional post",
+      "sourceUrl": "https://x.com/ipoalert_18/status/2042591389947695533"
+    },
+    {
+      "date": "2026-04-13",
+      "fii": -1983.18,
+      "dii": 2432.3,
+      "source": "X/@Agrawal_Raj \u2013 Automated NSE+BSE+MSEI provisional post",
+      "sourceUrl": "https://x.com/Agrawal_Raj/status/2043683441758363720"
+    },
+    {
+      "date": "2026-04-15",
+      "fii": 666.15,
+      "dii": -568.0,
+      "source": "Livemint / LinkedIn Optrait \u2013 NSE+BSE+MSEI FII/DII Apr 15 data",
+      "sourceUrl": "https://www.livemint.com/market/stock-market-news/fiidii-data-fiis-turn-net-buyers-for-three-straight-sessions-in-indian-stock-market-can-the-buying-streak-continue-11776662457808.html"
+    },
+    {
+      "date": "2026-04-16",
+      "fii": 382.36,
+      "dii": -3428.0,
+      "source": "Livemint \u2013 FIIs net buyers three straight sessions article",
+      "sourceUrl": "https://www.livemint.com/market/stock-market-news/fiidii-data-fiis-turn-net-buyers-for-three-straight-sessions-in-indian-stock-market-can-the-buying-streak-continue-11776662457808.html"
+    },
+    {
+      "date": "2026-04-17",
+      "fii": 683.2,
+      "dii": -4721.48,
+      "source": "Livemint / LinkedIn TapeTide \u2013 FII/DII Apr 17 NSE+BSE+MSEI",
+      "sourceUrl": "https://www.livemint.com/market/stock-market-news/fiidii-data-fiis-turn-net-buyers-for-three-straight-sessions-in-indian-stock-market-can-the-buying-streak-continue-11776662457808.html"
+    },
+    {
+      "date": "2026-04-20",
+      "fii": -1059.93,
+      "dii": 2966.89,
+      "source": "Moneycontrol \u2013 FIIs net sell Rs 1,060 crore Apr 20 article",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fiis-net-sell-rs-1-060-crore-in-equities-dii-net-buy-rs-2-967-crore-shares-on-april-20-13894431.html"
+    },
+    {
+      "date": "2026-04-21",
+      "fii": -1919.0,
+      "dii": 2221.0,
+      "source": "Moneycontrol \u2013 FIIs net sell Rs 1,919 crore Apr 21 article",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fiis-net-sell-rs-1-919-crore-in-equities-dii-net-buy-rs-2-221-crore-shares-on-april-21-13895390.html"
+    },
+    {
+      "date": "2026-04-22",
+      "fii": -2078.0,
+      "dii": 1048.0,
+      "source": "Moneycontrol \u2013 FIIs net sell Rs 2078 crore Apr 22 article",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fiis-net-sell-rs-2078-crore-in-equities-dii-net-sell-rs-1048-crore-shares-on-april-22-13896651.html"
+    },
+    {
+      "date": "2026-04-23",
+      "fii": -3254.71,
+      "dii": 941.35,
+      "source": "Economic Times FII/DII activity page (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://economictimes.indiatimes.com/markets/fii-dii-activity"
+    },
+    {
+      "date": "2026-04-24",
+      "fii": -8827.87,
+      "dii": 4700.71,
+      "source": "X/@marketsday \u2013 Automated NSE+BSE+MSEI provisional post Apr 24",
+      "sourceUrl": "https://x.com/marketsday/status/2047662260353696040"
+    },
+    {
+      "date": "2026-04-27",
+      "fii": -1151.48,
+      "dii": 4123.92,
+      "source": "Multibagg AI / LinkedIn TapeTide \u2013 FII/DII Apr 27 NSE+BSE+MSEI",
+      "sourceUrl": "https://www.multibagg.ai/market-pulse/articles/nifty50-fii-dii-net-flows-cmosuiprp000vo50j5gut0map"
+    },
+    {
+      "date": "2026-04-28",
+      "fii": -2103.74,
+      "dii": 1712.01,
+      "source": "X/@Agrawal_Raj \u2013 Automated NSE+BSE+MSEI provisional post Apr 28",
+      "sourceUrl": "https://x.com/Agrawal_Raj/status/2049139187648270838"
+    },
+    {
+      "date": "2026-04-29",
+      "fii": -2468.42,
+      "dii": 2262.17,
+      "source": "Multibagg AI \u2013 FII/DII net flows late April table",
+      "sourceUrl": "https://www.multibagg.ai/market-pulse/articles/nifty50-fii-dii-net-flows-cmosuiprp000vo50j5gut0map"
+    },
+    {
+      "date": "2026-04-30",
+      "fii": -8047.86,
+      "dii": 3487.1,
+      "source": "Multibagg AI \u2013 FII/DII net flows late April table (Apr 30)",
+      "sourceUrl": "https://www.multibagg.ai/market-pulse/articles/nifty50-fii-dii-net-flows-cmosuiprp000vo50j5gut0map"
+    },
+    {
+      "date": "2026-05-04",
+      "fii": 2835.62,
+      "dii": 4764.16,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-05",
+      "fii": -3621.58,
+      "dii": 2602.62,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-06",
+      "fii": -5834.9,
+      "dii": 6836.87,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-07",
+      "fii": -340.89,
+      "dii": 441.07,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-08",
+      "fii": -4110.6,
+      "dii": 6748.13,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-11",
+      "fii": -8437.56,
+      "dii": 5939.65,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-12",
+      "fii": -1959.39,
+      "dii": 7990.32,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-13",
+      "fii": -4703.15,
+      "dii": 5869.05,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-14",
+      "fii": 187.46,
+      "dii": 684.33,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-15",
+      "fii": 1329.17,
+      "dii": -1958.82,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-18",
+      "fii": 2813.69,
+      "dii": 2682.12,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-19",
+      "fii": -2457.49,
+      "dii": 3801.68,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-20",
+      "fii": -1597.35,
+      "dii": 1968.35,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-21",
+      "fii": -1891.21,
+      "dii": 2492.42,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-22",
+      "fii": -4440.47,
+      "dii": 6003.53,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-25",
+      "fii": 821.75,
+      "dii": 3856.88,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-26",
+      "fii": -2407.87,
+      "dii": 1361.43,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-27",
+      "fii": -1042.7,
+      "dii": 3821.0,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-05-29",
+      "fii": -21105.86,
+      "dii": 16764.14,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-06-01",
+      "fii": -3911.68,
+      "dii": 5109.13,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-06-02",
+      "fii": -8362.92,
+      "dii": 9589.32,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-06-03",
+      "fii": -5616.56,
+      "dii": 5740.89,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-06-04",
+      "fii": -4447.06,
+      "dii": 4360.14,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-06-05",
+      "fii": -8776.25,
+      "dii": 9133.57,
+      "source": "Moneycontrol \u2013 FIIs extend selling streak Jun 5 article",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fiis-extend-selling-streak-offload-rs-8-776-crore-diis-purchase-rs-9-134-crore-13942425.html"
+    },
+    {
+      "date": "2026-06-08",
+      "fii": -5555.67,
+      "dii": 5165.24,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-06-09",
+      "fii": -4566.03,
+      "dii": 6159.48,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-06-10",
+      "fii": -2124.98,
+      "dii": 3123.95,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-06-11",
+      "fii": -1987.09,
+      "dii": 4224.51,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php"
+    },
+    {
+      "date": "2026-06-12",
+      "fii": -1082.18,
+      "dii": 5341.29,
+      "source": "Moneycontrol FII/DII activity / NSE India provisional report",
+      "sourceUrl": "https://www.nseindia.com/reports/fii-dii"
+    },
+    {
+      "date": "2026-06-15",
+      "fii": 200.05,
+      "dii": 3189.26,
+      "source": "Moneycontrol FII/DII activity (NSE+BSE+MSEI combined)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/"
+    },
+    {
+      "date": "2026-06-16",
+      "fii": -748.0,
+      "dii": 0.06,
+      "source": "Moneycontrol \u2013 DIIs net buying hits historic low Rs 6 lakh; FIIs sell Rs 748 crore on June 16",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/diis-net-buying-hits-historic-low-rs-6-lakh-only-on-june-16-fiis-sell-worth-rs-748-crore-13951229.html"
+    }
+  ]
 }
