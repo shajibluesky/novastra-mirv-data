@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-06-17T14:08:48Z",
+  "refreshedAt": "2026-06-29T14:27:36Z",
   "unit": "INR crore (net, cash market)",
   "source": "NSE provisional FII/DII cash data",
   "sourceUrl": "https://www.nseindia.com/reports/fii-dii",
@@ -368,6 +368,56 @@
       "dii": 1561.0,
       "source": "Moneycontrol (provisional exchange data)",
       "sourceUrl": "https://www.moneycontrol.com/news/business/markets/diis-net-purchase-shares-worth-rs-1-561-crore-fiis-buy-rs-102-crore-on-june-17-13952227.html"
+    },
+    {
+      "date": "2026-06-18",
+      "fii": -1025.2,
+      "dii": 3516.81,
+      "source": "Moneycontrol / NSE provisional (cash) — June 18",
+      "sourceUrl": "https://www.moneycontrol.com/shorts/business/fiis-net-sell-shares-worth-rs-1-025-crore-diis-net-buy-rs-3-517-crore-on-june-18"
+    },
+    {
+      "date": "2026-06-19",
+      "fii": 4859.07,
+      "dii": -1159.64,
+      "source": "Moneycontrol / NSE provisional (cash) — June 19 (FIIs biggest buy since Feb; DIIs first net sell since May 15)",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/diis-turn-net-sellers-fiis-post-biggest-buying-since-february-amid-market-selloff-13954220.html"
+    },
+    {
+      "date": "2026-06-22",
+      "fii": -636.0,
+      "dii": 1036.0,
+      "source": "Moneycontrol / NSE provisional (cash) — June 22",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fiis-net-sell-shares-worth-rs-636-crore-diis-net-buy-rs-1036-crore-on-june-22-13955895.html"
+    },
+    {
+      "date": "2026-06-23",
+      "fii": 17.86,
+      "dii": 680.21,
+      "source": "Moneycontrol FII/DII activity table (NSE cash provisional) — June 23",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fiis-net-buy-shares-worth-rs-18-crore-diis-net-buy-rs-680-crore-on-june-23-13956885.html"
+    },
+    {
+      "date": "2026-06-24",
+      "fii": -1843.4,
+      "dii": 3637.26,
+      "source": "Moneycontrol FII/DII activity table (NSE cash provisional) — June 24",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fiis-net-sell-shares-worth-rs-1843-crore-diis-net-buy-rs-3637-crore-on-june-24-13957969.html"
+    },
+    {
+      "date": "2026-06-25",
+      "fii": 383.76,
+      "dii": 5747.75,
+      "source": "Moneycontrol FII/DII activity table (NSE cash provisional) — June 25 (FIIs turn net buyers after 5 sessions)",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/fiis-net-buy-shares-worth-rs-384-crore-diis-net-buy-rs-5748-crore-on-june-25-13958974.html"
+    },
+    {
+      "date": "2026-06-29",
+      "fii": -1350.1,
+      "dii": 2801.45,
+      "source": "Moneycontrol FII/DII data (NSE cash provisional) — June 29",
+      "sourceUrl": "https://www.moneycontrol.com/markets/fii-dii-data/"
     }
-  ]
+  ],
+  "note": "2026-06-26 (Fri) omitted: provisional NSE cash FII/DII net not verifiable from an approved source at refresh time (per omit-unverifiable rule)."
 }
