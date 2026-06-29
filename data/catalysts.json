@@ -1,317 +1,263 @@
 {
-  "refreshedAt": "2026-06-17T14:08:48Z",
+  "refreshedAt": "2026-06-29T14:30:00Z",
   "market": [
     {
-      "title": "Brent below $80 — August RBI rate cut now near-certain base case; crude at 3-month low",
-      "detail": "Brent crude settled at ~$79.34/bbl on June 16 — below $80 for the first time since early March, down ~36% from the $124/bbl US-Iran conflict peak. Goldman Sachs cut Brent forecast to $80/bbl average for Q4 2026 (from $90); Morgan Stanley also cut. Pre-market June 17: Brent hovering ~$79-$79.43 per CNBC (June 17: 'rose 0.6% to $79.43 as investors weighed durability of deal'). At $79/bbl, India's annual crude import bill vs war-peak falls ~$65-70 billion — the single most powerful macro tailwind. August MPC (Aug 6-8) rate cut is now the base case, not a risk case. Immediate beneficiaries: Airlines (IndiGo), Paints (Asian Paints), Tyres (Apollo Tyres), FMCG (HUL), OMCs (margins), NBFCs (rate-cut proxy), Realty.",
+      "title": "India-US BTA: July 24 tariff expiry deadline creates urgency — deal 'very, very close' but unsigned; Section 301 results key",
+      "detail": "USTR Greer and Commerce Minister Goyal concluded talks June 24 without signing. Goyal stated June 26 (London) that India will only sign if it gets competitive tariff advantage over ASEAN rivals — key condition post-US Supreme Court ruling that invalidated reciprocal tariffs. US temporary 10% tariffs expire July 24. Post-expiry, only MFN tariffs apply (higher for Indian exports) unless a deal is in place. US Section 301 investigation results expected next month — outcome could provide a new tariff framework enabling the deal. Marco Rubio (June 27) said India-US deal is in its 'last inches'. Deal signing would be the largest near-term catalyst for FII equity re-entry, especially into IT and pharma.",
       "bias": "bullish",
-      "source": "The Star / CNBC / Goldman Sachs — June 16-17, 2026",
-      "sourceUrl": "https://www.thestar.com.my/business/2026/06/17/oil-hits-3-month-low-on-hormuz-reopening-hopes",
-      "asOf": "2026-06-17"
+      "source": "Economic Times / India Today — June 24-26, 2026",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-talks-conclude-ministerial-level-discussions-aim-to-finalize-bta-before-tariff-expiry/articleshow/131964902.cms",
+      "asOf": "2026-06-29"
     },
     {
-      "title": "Jio IPO DRHP filing imminent (within days, per FT); RIL AGM June 19 — India's largest-ever IPO imminent",
-      "detail": "Reliance Jio to file DRHP for ~$4 billion IPO within days per FT (June 17), ahead of Mukesh Ambani's address at RIL 49th AGM on June 19 at 2 PM IST. Jio FY26: ₹1.76 lakh crore revenues (+14.3%), ₹76,600 crore EBITDA, 52.44 crore subscribers, ARPU ₹214. Potential $4 billion IPO could become India's largest-ever public offering. This event, combined with NSE IPO DRHP (expected Thursday), would represent India's biggest capital market week in years — broadening the investable universe and creating new FII demand for large-cap domestic tech/telecom proxy.",
+      "title": "Jio Platforms + NSE IPO: India's capital market depth event of the decade — both DRHPs filed, listings targeting Oct-Nov 2026",
+      "detail": "Jio Platforms DRHP filed June 19 (27 crore fresh shares, ~₹37,700 crore / ~$4.5B raise, valuation $131–180B). NSE DRHP filed June 17 (OFS ~6%, valuation >₹5 lakh crore). Jio proceeds earmarked for RJIL debt repayment. NSE listing target Navratri–Diwali 2026. Both IPOs would surpass Hyundai India's ₹27,870 crore (India's current record). Together they create two new mega-cap investable entities: India's dominant telecom/digital platform and its primary capital markets infrastructure. FII demand for these listings will require significant new India equity allocation, supporting the broader market.",
       "bias": "bullish",
-      "source": "Business Standard / LiveMint — June 17, 2026",
-      "sourceUrl": "https://www.business-standard.com/markets/ipo/jio-set-to-file-draft-papers-for-its-4-billion-ipo-within-days-report-126061700083_1.html",
-      "asOf": "2026-06-17"
+      "source": "Moneycontrol / SEBI filings — June 17-19, 2026",
+      "sourceUrl": "https://www.sebi.gov.in/filings/public-issues/jun-2026/jio-platforms-ltd-drhp_102248.html",
+      "asOf": "2026-06-29"
     },
     {
-      "title": "India-US BTA final-stage talks June 23-24; USTR Greer visits June 22 — mid-July signing the FII equity re-entry catalyst",
-      "detail": "Final-stage BTA negotiations June 23-24 in New Delhi; USTR Greer visits June 22. Commerce Secretary and US Ambassador confirm 99% resolved. An interim deal before mid-July 2026 would remove Section 301 tariff threat for IT, pharma generics, textiles, and auto parts — the single largest outstanding FII structural concern. BTA signing would likely trigger multi-day FII equity buying episode. This is the scheduled catalyst for the market to upgrade from 'Transition/bullish' to clean 'Bullish' state.",
-      "bias": "bullish",
-      "source": "India Today / LiveMint — June 15, 2026",
-      "sourceUrl": "https://www.indiatoday.in/business/story/india-us-trade-talks-june-23-24-first-tranche-bilateral-trade-deal-2926999-2026-06-15",
-      "asOf": "2026-06-17"
-    },
-    {
-      "title": "US Fed rate decision tonight (June 17 midnight IST) — hold expected; Kevin Warsh's debut as Fed chair",
-      "detail": "US FOMC decision due tonight at midnight IST (Wednesday June 17). Rate-setting panel expected to hold at 3.5-3.75% (consensus: no cuts in 2026 per UBS; Polymarket implies modest hike). This is Kevin Warsh's debut meeting as the new Fed chair, replacing Jerome Powell. Market to parse commentary on inflation trajectory and growth outlook amid post-Iran conflict supply normalisation. A hold decision with neutral/dovish commentary is the base case and would be a non-event for Indian equities — or mildly positive. Hawkish commentary (inflation concern) is the tail risk for global risk-off and USD strength.",
-      "bias": "neutral",
-      "source": "Business Standard / CNBC — June 17, 2026",
-      "sourceUrl": "https://www.business-standard.com/markets/news/stock-market-live-june-17-nse-bse-sensex-today-nifty-gift-nifty-us-iran-deal-brent-crude-oil-price-share-market-news-126061700106_1.html",
-      "asOf": "2026-06-17"
-    },
-    {
-      "title": "GIFT Nifty 24,025 pre-market — Nifty poised to attempt first confirmed close above 24,000",
-      "detail": "GIFT Nifty at 24,025.50 (+26 pts) pre-market per Business Standard live blog. This sets up a potential first daily close above 24,000 for Nifty — the key psychological and technical milestone that, per multiple pre-market analysts, would open the path to 24,300-24,400. Nifty Futures June series at 24,007 (+0.38%, 18-pt premium) per NDTV Profit. Resistance at 24,070-24,200 zone; support at 23,900 and 23,700. RSI at 59 per pre-market technical analysis — in uptrend mode, not overbought. Max open interest at 24,000 strike (both call and put) creates a 'magnet' effect that could either attract the index to settle near 24,000 or, if breached decisively, spark a short-squeeze to 24,300.",
-      "bias": "bullish",
-      "source": "Business Standard / DSIJ pre-market — June 17, 2026",
-      "sourceUrl": "https://insights.dsij.in/dsijarticledetail/pre-market-update-nifty-50-sensex-likely-to-open-muted-doms-industries-wipro-kims-among-stocks-to-watch-on-june-17-57806",
-      "asOf": "2026-06-17"
-    },
-    {
-      "title": "Below-normal monsoon (break June 16-21, Mumbai onset ~June 25) — primary structural risk to India macro H2 FY27",
-      "detail": "Mumbai monsoon onset pushed to ~June 25 (two weeks past normal). IMD forecasts advance into Telangana/Odisha/Jharkhand/Bihar in 4-5 days, but Western/Central India subdued. Monsoon activity revival expected June 22-28; fuller recovery June 29-July 5. A below-normal monsoon risks: (1) food inflation spike threatening CPI above 4%; (2) Kharif crop damage; (3) rural consumption softness for FMCG and two-wheelers in H2 FY27; (4) agri-NBFC credit stress. IMD June 17 update confirms break period continues through June 21 with monsoon advancing only in the east.",
+      "title": "Monsoon 46% deficit — driest June in 146 years — primary macro risk to H2 FY27 growth, food inflation and rural demand",
+      "detail": "India received only 53.1 mm rainfall June 4–22 vs 97.6 mm historical benchmark — a 46% deficit. IMD June 25: conditions improving for monsoon advance into Gujarat, MP, Chhattisgarh, Jharkhand, Bihar, parts of UP/Uttarakhand over next 3–4 days. NE India recording heavy rainfall but West and Central India remain deficient. Cumulative deficit risk to: (1) Kharif crop sowing — key period mid-June to mid-July; (2) Food inflation spike threatening CPI above 4% in Q2 FY27; (3) Rural FMCG/two-wheeler demand in H2; (4) Agri-NBFC credit quality. IMD full-season forecast is 'above normal' but June start is the weakest in 146 years. Critical monitoring period: July 1–15 for kharif sowing progress.",
       "bias": "bearish",
-      "source": "LiveMint / India Today — June 17, 2026",
-      "sourceUrl": "https://www.livemint.com/news/india/monsoon-update-delhi-braces-for-more-showers-today-mumbai-on-yellow-alert-check-full-weather-forecast-here-11781656955665.html",
-      "asOf": "2026-06-17"
+      "source": "India Meteorological Department — June 25-28, 2026",
+      "sourceUrl": "https://mausam.imd.gov.in/responsive/monsooninformation.php",
+      "asOf": "2026-06-28"
+    },
+    {
+      "title": "FII June MTD net selling ₹45,122 crore vs DII buying ₹76,156 crore; June 22 FII bulk buy ₹5,527 crore signals potential reversal",
+      "detail": "FII/FPI net sold ₹45,122 crore in June 2026 through June 25. DII net bought ₹76,156 crore in the same period — DII absorption at 1.69x FII outflows, cushioning markets above 23,800–24,000. The June 22 single-day FII net buy of ₹5,527 crore was the largest since February 3 (₹5,236 crore). India VIX at 13.84 on June 29 (+6%) signals rising near-term hedging activity. Q1 FY27 earnings season (starts July) and July 24 BTA deadline are the next two macro triggers that will determine FII direction. A clean BTA signing + positive Q1 results would likely trigger a 3–4% Nifty upside.",
+      "bias": "neutral",
+      "source": "Moneycontrol FII/DII activity table (NSE cash, month-to-date)",
+      "sourceUrl": "https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/",
+      "asOf": "2026-06-25"
+    },
+    {
+      "title": "Market closed June 26 (Muharram); 4-day week ending June 25 at Sensex 77,100 / Nifty 24,056; June 29 post-Muharram profit booking",
+      "detail": "Indian equity market was closed on June 26 for Muharram holiday. The week of June 22-25 (4 trading days) saw Sensex close at 77,100.47 (+109 pts, +0.14%) and Nifty at 24,056 (+34 pts, +0.14%) on June 25 — third consecutive weekly advance underpinned by Brent crude below $80, BTA optimism, and FII June 22 bulk buying. June 29 (Monday post-holiday) saw Nifty fall -110 pts to 23,946 on profit booking. India VIX up 6% on June 29 suggests increased options hedging ahead of Q1 FY27 earnings season. Nifty technical: 23,800 is key support; 24,200 is immediate resistance.",
+      "bias": "neutral",
+      "source": "Moneycontrol / Business Standard — June 22-29, 2026",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+      "asOf": "2026-06-29"
     }
   ],
   "sectors": [
     {
-      "sector": "Realty",
-      "bias": "bullish",
-      "catalysts": [
-        {
-          "title": "Rate-cut cycle locks in: Brent $79, 10Y yield 6.865%, August MPC cut base case — realty is the most direct beneficiary",
-          "detail": "Nifty Realty gained ~6% in three sessions (June 13-16). With Brent now below $80, the 10Y yield at 6.865%, and August MPC cut the base case, home loan rates via MCLR are set to decline. This directly improves housing affordability — the most powerful demand lever for residential developers. Godrej Vanantara sold ₹2,000 crore of homes in one launch week. DLF, Prestige, Oberoi Realty all running higher. NSE's new Nifty Housing Finance index creates a fresh passive capital allocation vehicle for the sub-sector.",
-          "source": "Business Standard / Moneycontrol — June 10-17, 2026",
-          "sourceUrl": "https://www.business-standard.com/industry/news/godrej-properties-sells-rs-2000-crore-worth-homes-at-bengaluru-project-126061010695_1.html",
-          "asOf": "2026-06-17"
-        }
-      ]
-    },
-    {
       "sector": "IT Services",
-      "bias": "neutral",
+      "bias": "bearish",
       "catalysts": [
         {
-          "title": "HCLTech Sarvam AI; Wipro buyback closes June 17; Infosys-Valmet deal; BTA mid-July is the sector re-rating catalyst",
-          "detail": "Nifty IT +3.8% in three sessions. HCLTech leads on Sarvam AI acquisition. Wipro buyback closes today (June 17) at ₹250 floor — price support expires. Wipro launches Claude AI CoE in Bengaluru. Infosys announces Valmet long-term AI/cloud IT partnership. Sector is still -27% in 6 months from AI structural headwinds (ADM deflation). Three catalysts for full recovery: (1) BTA signing mid-July removing Section 301 tariff overhang; (2) Q1 FY27 results (July) showing AI deal wins; (3) sustained FII re-entry into large-cap IT on macro normalisation.",
-          "source": "Business Standard / Moneycontrol Hindi — June 10-17, 2026",
-          "sourceUrl": "https://www.business-standard.com/markets/news/wipro-share-buyback-opens-on-june-11-here-s-everything-investors-need-to-know-126061000192_1.html",
-          "asOf": "2026-06-17"
-        }
-      ]
-    },
-    {
-      "sector": "Defence",
-      "bias": "bullish",
-      "catalysts": [
-        {
-          "title": "C295 first flight + BEL EW contract + Bharat Forge Simha 4x4 at Eurosatory — domestic order pipeline intact post-peace deal",
-          "detail": "India's first Made-in-India C295 test flight June 10 (Tata-Airbus, Vadodara). BEL ₹1,476 crore EW contract June 9. Bharat Forge KSSL unveiled Simha 4x4 at Eurosatory 2026 in Paris June 16 — targeting international markets. Post US-Iran peace deal, India's domestic defence modernisation continues on structural domestic demand with ₹2.3-2.8 lakh crore order pipeline and ₹6.22 lakh crore FY25-30 defence capex allocation intact. AMCA RFP responses due July.",
-          "source": "Economic Times / Moneycontrol Hindi — June 9-17, 2026",
-          "sourceUrl": "https://economictimes.indiatimes.com/news/defence/tata-advanced-systems-limited-airbus-conduct-first-test-flight-of-maiden-made-in-india-c295-military-transport-aircraft/articleshow/131640131.cms",
-          "asOf": "2026-06-17"
-        }
-      ]
-    },
-    {
-      "sector": "Capital Goods",
-      "bias": "bullish",
-      "catalysts": [
-        {
-          "title": "L&T JPMorgan TP ₹5,060; IIP capex goods +16%; Power Grid TBCB win; NHPC 3,097 MW Etalin HEP — capex cycle intact",
-          "detail": "JPMorgan raised L&T target to ₹5,060 (Overweight) June 16 on Lakshya-26 beat and Lakshya-31 targets. IIP capital goods +16% YoY April 2026. Power Grid won TBCB bid for WR-ER Inter-Regional Network Expansion (BOOT, Jharkhand/Chhattisgarh) June 16. NHPC signed MoA for 3,097 MW Etalin HEP with Arunachal Pradesh June 16 (BOOT, 40-year lease). Adani-Jabil AI data centre manufacturing alliance creates a GW-scale capex cycle for infrastructure, electrical, and cooling component suppliers. Capital goods is the clearest domestic capex proxy.",
-          "source": "NDTV Profit / Moneycontrol — June 16-17, 2026",
-          "sourceUrl": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-june-17-11646110",
-          "asOf": "2026-06-17"
+          "title": "Accenture revenue forecast cut June 19 triggers IT sector fall; Persistent -10% on Nagarro acquisition; BTA + Q1 FY27 are recovery catalysts",
+          "detail": "Nifty IT fell 3.65% on June 19 after Accenture lowered its annual revenue growth forecast — a global bellwether for Indian IT demand. Nifty IT down another 1% on June 29. Sector still ~27% below 2025 highs. Persistent Systems fell 10.36% on June 29 on Nagarro acquisition concerns (€81/share, 140% premium, $1.4B EV at 9.6x EV/EBITDA). Positive offset: Hexaware +6% as Anthropic-authorised Claude reseller on Amazon Bedrock. Three remaining catalysts for sector re-rating: (1) BTA signing before July 24 (removes Section 301 tariff overhang); (2) Q1 FY27 results in July showing AI deal revenue; (3) FII structural re-entry into large-cap IT. India VIX at 13.84 reflects elevated short-term IT hedging. HCLTech differentiated via Sarvam AI acquisition.",
+          "source": "Moneycontrol / The Hindu — June 19-29, 2026",
+          "sourceUrl": "https://www.thehindu.com/business/markets/sensex-nifty-stock-markets-closing-june-19-2026/article71121963.ece",
+          "asOf": "2026-06-29"
         }
       ]
     },
     {
       "sector": "Banks & NBFC",
-      "bias": "bullish",
-      "catalysts": [
-        {
-          "title": "August rate cut now base case; SBI fundraise June 18; FII bond inflows $1.84B; Bank of Maharashtra MCLR hike is outlier",
-          "detail": "10Y yield at 6.865% (June 16); August MPC cut increasingly priced in as Brent falls to $79. FII bond inflows $1.84B in June (16-month high). SBI board meets June 18 to decide FY27 capital raise (equity or debt). Rate-cut cycle most directly benefits NBFCs (cost of funds) and rate-sensitive private banks (HDFC Bank, ICICI Bank, Bajaj Finance). Counter-trend: Bank of Maharashtra raised MCLR (1Y to 8.95% effective June 17), signalling some PSBs still managing deposit cost pressures independently. NSE's new Nifty NBFC and Nifty Housing Finance indices create fresh passive demand for the sector.",
-          "source": "Business Standard / NDTV Profit — June 16-17, 2026",
-          "sourceUrl": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-june-17-11646110",
-          "asOf": "2026-06-17"
-        }
-      ]
-    },
-    {
-      "sector": "Energy (Upstream)",
-      "bias": "bearish",
-      "catalysts": [
-        {
-          "title": "Brent at $79/bbl — ONGC/OIL India realisation compression; Q1 FY27 earnings downgrade cycle begins",
-          "detail": "Crude oil at ~$79.34/bbl (June 16 settlement) directly compresses ONGC and OIL India net realisations per barrel — a ~37% decline from conflict peak. Q1 FY27 (April-June) average crude prices significantly below Q1 FY26. Street earnings estimates for Q1 FY27 will see meaningful downward revisions. OMC (BPCL, IOC, HPCL) margin dynamics are mixed: lower input feedstock positive but retail price adjustment uncertainty persists. Power sector (NTPC, JSW Energy, Adani Green) is decoupled from crude and driven by structural electricity demand upcycle — remains bullish.",
-          "source": "LiveMint / Business Standard — June 16-17, 2026",
-          "sourceUrl": "https://www.thestar.com.my/business/2026/06/17/oil-hits-3-month-low-on-hormuz-reopening-hopes",
-          "asOf": "2026-06-17"
-        }
-      ]
-    },
-    {
-      "sector": "Metals",
       "bias": "neutral",
       "catalysts": [
         {
-          "title": "MSCI Vedanta removal June 22 (passive selling); crude collapse mixed for aluminium; safeguard duties buffer steel",
-          "detail": "MSCI removes Vedanta from Global Standard Index effective June 22 — passive fund selling pressure ahead. Hindalco fell 3.61% on June 16. Crude crash ($79/bbl) reduces aluminium energy-cost narrative (lower energy costs = margin benefit, but LME aluminium prices also under pressure from Chinese oversupply). Steel: safeguard duties on imports extended to April 2028 (S&P Global); multi-year 300 MT capex cycle underway. Chinese steel oversupply risk caps near-term upside. Tata Steel CEO cautiously optimistic on Q1 (rising steel prices in India, UK, Europe) per ET, June 17.",
-          "source": "HDFC Sky / ET — June 16-17, 2026",
-          "sourceUrl": "https://hdfcsky.com/news/stock-market-open-june-16-2026-sensex-nifty-rise-metal-stocks-drag",
-          "asOf": "2026-06-17"
-        }
-      ]
-    },
-    {
-      "sector": "Aviation",
-      "bias": "bullish",
-      "catalysts": [
-        {
-          "title": "Crude below $80 — ATF cost reduction directly improves IndiGo, Air India profitability",
-          "detail": "Brent crude below $80/bbl for the first time since March — Aviation Turbine Fuel (ATF) prices directly linked to crude. IndiGo (InterGlobe Aviation) is India's largest carrier with ~61% domestic market share; every $10/bbl fall in crude improves EBIT margins by 200-300 bps. Moneycontrol Hindi (June 17) explicitly highlighted aviation as a beneficiary of Brent below $80 alongside paints, tyres, and FMCG. Air India also benefits. Crude-sensitive airline stocks are among the most direct plays on the crude collapse.",
-          "source": "Moneycontrol Hindi — June 17, 2026",
-          "sourceUrl": "https://hindi.moneycontrol.com/news/markets/stocks-to-watch-on-june-17-tata-motors-wipro-infosys-jk-cement-bharat-forge-senco-gold-and-other-key-stocks-in-focus-2412341.html",
-          "asOf": "2026-06-17"
+          "title": "Kotak CEO succession + HDFC Bank chairman search + RBI August rate cut path — binary outcomes for banking sector re-rating",
+          "detail": "Kotak Mahindra Bank CEO Ashok Vaswani won't seek reappointment after Dec 31, 2026; Board succession process started — creates near-term governance overhang (Jefferies Buy, TP ₹450). HDFC Bank board to finalise new Chairman within 7–10 days; JPMorgan Overweight TP ₹990 citing multi-year low P/BV and RBI FCNR measures for deposit growth (RBI extended Keki Mistry's term 3 months). Positive: August MPC rate cut (Aug 3–5) near-certain given Brent at $72/bbl; FII bond inflows at 16-month highs in June. IIFL Finance approved ₹10,000 crore fundraise. PSU Bank index -1.21% on June 29 on credit growth uncertainty. Rate-cut cycle is the single most powerful banking re-rating catalyst: improves NIM trajectory, bond portfolios (MTM gains), and NBFC cost of funds.",
+          "source": "Moneycontrol / Business Line — June 17-29, 2026",
+          "sourceUrl": "https://www.thehindubusinessline.com/money-and-banking/mistrys-tenure-as-hdfc-banks-interim-part-time-chairman-extended-by-3-months/article71118180.ece",
+          "asOf": "2026-06-29"
         }
       ]
     },
     {
       "sector": "Pharma",
-      "bias": "neutral",
+      "bias": "bullish",
       "catalysts": [
         {
-          "title": "Rupee at 94.56 — headwind for dollar exporters; BTA pharma tariff clause key; SEBI disposes Prime Focus proceedings",
-          "detail": "Rupee appreciation from ~96.8 to 94.56 in three weeks is a meaningful near-term headwind on dollar-denominated pharma export realisations. Pharma sector underperformed June 15-16. BTA negotiations (June 23-24) may resolve Section 232 pharmaceutical tariff threats. Aurobindo's first-to-market Bosutinib 400mg in the US provides 180-day exclusivity windfall. Abakkus AMC (June 16) favours pharma on fundamentals. Separately, SEBI disposed of adjudication proceedings against Prime Focus in an accounting treatment case — management regulatory overhang lifted.",
-          "source": "Moneycontrol — June 15-17, 2026",
-          "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-17-06-2026-liveblog-13951463.html/amp",
-          "asOf": "2026-06-17"
+          "title": "Pharma outperforms on June 29 (+1.09%); Lupin USFDA tentative approval Enzalutamide; Dr Reddy's Form 483 manageable — sector defensive amid macro uncertainty",
+          "detail": "Nifty Pharma rose 1.09% on June 29 — sole major sectoral gainer alongside Metals and Healthcare — while Nifty fell 0.46%. Lupin received USFDA tentative approval for Enzalutamide (40–160 mg, prostate cancer). Dr Reddy's gained 2.30% (top Nifty gainer); Nomura retained Buy TP ₹1,740 post Form 483 (Hyderabad inspection, 7 observations on new facility — manageable, final approval Q4 FY27). Ajanta Pharma +6.36% (52-week high). Zydus-Sunshine JV for Sri Lanka pharma manufacturing ($20M). BTA pharma tariff clause remains key: US Section 301 investigation on pharma could be resolved in July 2026 alongside broader deal framework.",
+          "source": "Moneycontrol / Upstox — June 29, 2026",
+          "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+          "asOf": "2026-06-29"
         }
       ]
     },
     {
-      "sector": "FMCG",
+      "sector": "Auto",
+      "bias": "bearish",
+      "catalysts": [
+        {
+          "title": "Nifty Auto -2% on June 29; M&M -2.83%, IndiGo sharply lower; monsoon deficit threatens rural two-wheeler demand in H2 FY27",
+          "detail": "Nifty Auto fell 2.06% on June 29 — the worst-performing sector. M&M -2.83%, Kotak Bank -2.71%, IndiGo, Eicher Motors, and Bajaj Auto sharply lower. The auto sector faces near-term headwinds from: (1) Monsoon deficit threatening rural two-wheeler demand (Hero MotoCorp, TVS, Bajaj Auto); (2) JLR FCF concerns weighing on Tata Motors; (3) profit booking after sector's strong recovery from March lows. Positive offset: Delhi EV policy (effective July 1) provides a structural catalyst for EV leaders. Tata Motors and Castrol India signed MoU for used oil circularity ecosystem in Karnataka.",
+          "source": "Moneycontrol — June 29, 2026",
+          "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+          "asOf": "2026-06-29"
+        }
+      ]
+    },
+    {
+      "sector": "Power & Utilities",
+      "bias": "bullish",
+      "catalysts": [
+        {
+          "title": "Torrent Power completes Nabha acquisition ₹3,632 cr; Power Grid exclusion order against KEC International revoked — structural power demand upcycle intact",
+          "detail": "Torrent Power completed acquisition of Nabha Power (1,400 MW thermal, Punjab) from L&T Power Development for ₹3,632.35 crore on June 29 — expands Torrent's generation capacity base. Power Grid revoked exclusion order against KEC International (effective June 26), allowing it to bid for Power Grid tenders immediately — positive for KEC order inflows. India's structural electricity demand upcycle from data centres, AI infrastructure, EV charging, and industrial expansion remains intact. Brent crude at $72/bbl reduces thermal power generation costs. August rate cut (if confirmed) lowers cost of capital for regulated infra assets.",
+          "source": "Moneycontrol / Power Grid BSE filing — June 29, 2026",
+          "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+          "asOf": "2026-06-29"
+        }
+      ]
+    },
+    {
+      "sector": "Realty",
       "bias": "neutral",
       "catalysts": [
         {
-          "title": "Lower crude reduces input costs (positive); monsoon deficit and delayed rural recovery (negative) — mixed FMCG read",
-          "detail": "Brent below $80 reduces palm oil, packaging, and logistics cost pressures for FMCG. HUL +2.10%, ITC +1.32%, Tata Consumer +2% on June 16. However, the structural risk remains: monsoon break period June 16-21; Mumbai onset ~June 25; cumulative deficit persists. Rural India (35-45% of FMCG revenues) faces demand headwinds if monsoon deficiency deepens. JK Cement declared 200% final dividend for FY26 (record date July 10) — positive for cement which benefits from crude/energy cost normalisation.",
-          "source": "India TV Hindi / IMD / Moneycontrol — June 16-17, 2026",
-          "sourceUrl": "https://www.indiatoday.in/science/story/monsoon-to-keep-mumbai-waiting-as-arrival-date-shifts-heres-when-rain-will-hit-2928141-2026-06-17",
-          "asOf": "2026-06-17"
+          "title": "Nifty Realty -0.93% on June 29 on profit booking; Oberoi launches ultra-luxury Gurugram project — rate-cut thesis intact but near-term consolidation",
+          "detail": "Nifty Realty slipped 0.91% on June 29 after three weeks of sharp outperformance driven by rate-cut expectations. Oberoi Realty launched Three Sixty North at Sector 58, Golf Course Extension Road, Gurugram (14.8 acres); stock rose 1.31% on the day — demonstrates continued premium residential demand. With Brent at $72/bbl and 10Y G-sec at ~6.8%, the August rate cut thesis is intact. However, monsoon deficit raises food inflation risk — a potential CPI overshoot would push back RBI rate cut expectations and reset the sector's valuation premium. DLF, Prestige, Godrej Properties consolidating after the June 13–17 surge.",
+          "source": "Moneycontrol — June 29, 2026",
+          "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+          "asOf": "2026-06-29"
+        }
+      ]
+    },
+    {
+      "sector": "Defence",
+      "bias": "neutral",
+      "catalysts": [
+        {
+          "title": "HAL FY26 200% dividend; Apollo Micro Systems +6% on BEL QRSAM ₹30,000 crore order expectation; sector consolidates post peace-deal re-rating",
+          "detail": "HAL board approved ₹10/share final dividend for FY26 (200% of face value). Apollo Micro Systems rose ~6% on expectation that BEL is set to receive a ₹30,000 crore QRSAM (Quick Reaction Surface-to-Air Missile) order — largest single defence contract expected in FY27. HAL stock -1.51% and BEL -1.7% on June 29 as the sector consolidates after the war-premium unwind. India's domestic defence capex (₹6.22 lakh crore FY25-30) and AMCA programme remain structural catalysts. AMCA RFP responses due July will be the next major headline.",
+          "source": "Moneycontrol — June 29, 2026",
+          "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+          "asOf": "2026-06-29"
+        }
+      ]
+    },
+    {
+      "sector": "Telecom",
+      "bias": "bullish",
+      "catalysts": [
+        {
+          "title": "Airtel leads subscriber additions in May; Jio DRHP unlocks standalone valuation; Jio FY26 ARPU ₹214, revenues ₹1.47 lakh crore",
+          "detail": "TRAI May 2026 data: Bharti Airtel added 29.26 lakh subscribers in May (vs 31.39 lakh April); Jio added 21.54 lakh (vs 29.42 lakh April); Vodafone Idea +1.21 lakh. Airtel maintained subscriber addition lead — positive for ARPU trajectory. Jio Platforms DRHP (filed June 19): FY26 revenues ₹1.47 lakh crore, EBITDA ₹76,255 crore (margin 51.9%), PAT ~₹30,000 crore, 52.44 crore subscribers, ARPU ₹214. The DRHP filing unlocks Jio's standalone valuation ($131–180B) and creates the basis for RIL's sum-of-parts re-rating. Jio's international technology stack (5G, FWA, AI services) positioned for export partnerships.",
+          "source": "Moneycontrol / Groww — June 19-29, 2026",
+          "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+          "asOf": "2026-06-29"
         }
       ]
     }
   ],
   "stocks": [
     {
+      "ticker": "PERSISTENT",
+      "company": "Persistent Systems Limited",
+      "signal": "dump",
+      "catalyst": "Nagarro acquisition at 140% premium ($1.4B EV) + Nagarro growth lagging Persistent organic — deal economics questioned; stock -10.36%",
+      "detail": "Persistent Systems signed SPA to acquire 100% of Nagarro SE at €81/share (21% from Lantano Beteiligungen, then full 100%); deal at $1.4B EV / 1.2x EV/sales / 9.6x EV/EBITDA; 140% premium to pre-deal Nagarro price. Nagarro's growth trails Persistent's organic growth rate. CLSA retains 'high conviction outperform' TP ₹6,520 (~6% EPS accretion). Separately secured $650M US tech services deal. Settlement Q4 CY2026–Q1 CY2027. Near-term: deal complexity, integration uncertainty, premium absorption pressure.",
+      "source": "Moneycontrol / CLSA — June 29, 2026",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+      "asOf": "2026-06-29"
+    },
+    {
+      "ticker": "KOTAKBANK",
+      "company": "Kotak Mahindra Bank Limited",
+      "signal": "dump",
+      "catalyst": "CEO Ashok Vaswani won't seek reappointment post Dec 31; succession process started — leadership uncertainty overhang; stock -2.71%",
+      "detail": "Ashok Vaswani has informed the Board he does not wish to seek reappointment after his current term ends Dec 31, 2026. Board NRC has begun CEO succession process — candidate will need RBI approval (typically 3-6 months). Jefferies retained Buy TP ₹450 noting senior management has changed significantly since founder Uday Kotak's exit; stock +11% over 3 years. Near-term: leadership uncertainty + CEO transition typically creates 3-6 months of institutional underweight positioning until successor clarity.",
+      "source": "Moneycontrol / Jefferies — June 29, 2026",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+      "asOf": "2026-06-29"
+    },
+    {
+      "ticker": "ADANIPORTS",
+      "company": "Adani Ports & SEZ Limited",
+      "signal": "pump",
+      "catalyst": "S&P credit upgrade to BBB (from BBB-) with stable outlook — lowers cost of international debt; governance premium re-rated",
+      "detail": "S&P Global Ratings upgraded APSEZ long-term issuer credit rating and senior unsecured notes to BBB from BBB- with stable outlook on June 29. Upgrade reflects improved financial profile, reduced group-level governance concerns, and APSEZ's execution on deleveraging. BBB rating opens access to wider global institutional bond demand (many mandates require investment-grade BBB minimum). Adani Mundra Airport commissioned as multi-modal logistics hub (June 23). APSEZ stock at ₹1,783 on June 29.",
+      "source": "Moneycontrol / S&P Global — June 29, 2026",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+      "asOf": "2026-06-29"
+    },
+    {
+      "ticker": "HEXAWARE",
+      "company": "Hexaware Technologies Limited",
+      "signal": "pump",
+      "catalyst": "Named Anthropic-authorised reseller for Claude on Amazon Bedrock — differentiates in enterprise AI; stock +6.16% to ₹525",
+      "detail": "Hexaware Technologies named an Anthropic-authorised reseller for Claude AI models on Amazon Bedrock — joins a select group globally authorised to sell, integrate, and support Claude directly for enterprise clients worldwide. This differentiates Hexaware from generic IT services players and enables higher-margin AI deployment contracts. Stock rose 6.16% — top BSE midcap gainer on June 29 in a broadly negative market. Contrast to Nifty IT -1.10% on the same day highlights the AI-capable vs AI-resistant IT services divergence.",
+      "source": "Moneycontrol — June 29, 2026",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+      "asOf": "2026-06-29"
+    },
+    {
+      "ticker": "HDFCBANK",
+      "company": "HDFC Bank Limited",
+      "signal": "watch",
+      "catalyst": "Board to finalise new Chairman within 7-10 days; JPMorgan Overweight TP ₹990 at multi-year low P/BV; RBI FCNR measures support deposit growth",
+      "detail": "HDFC Bank board expected to finalise new full-time Chairman within 7–10 days (NRC submitting 3-candidate panel; Chairman then recommends CEO to RBI). RBI extended interim Chairman Keki Mistry's tenure 3 months in June. JPMorgan retains Overweight TP ₹990 citing: (1) legal review should reduce governance risk premium; (2) stock de-rated 8% on P/BV since former chairman's resignation; (3) RBI's FCNR measures to boost deposits and loan growth; (4) multi-year low valuation supports upside. Resolution of chairman overhang is the near-term re-rating catalyst. Stock at ₹797 on June 29.",
+      "source": "Moneycontrol / JPMorgan — June 29, 2026",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+      "asOf": "2026-06-29"
+    },
+    {
       "ticker": "RELIANCE",
       "company": "Reliance Industries Limited",
       "signal": "pump",
-      "catalyst": "Jio IPO DRHP filing 'within days' per FT; RIL AGM June 19 with Mukesh Ambani speech — potential valuation re-rating event",
-      "detail": "Jio IPO DRHP imminent before Ambani's AGM speech June 19 per FT. Jio FY26: ₹1.76 lakh crore revenues (+14.3%), ₹76,600 crore EBITDA, 52.44 crore subscribers, ARPU ₹214. $4B IPO structure under review (fresh issue vs OFS). RIL's O2C segment benefits from Brent at $79/bbl (lower feedstock cost; export product spreads mixed). Jio IPO filing event would be a structural re-rating catalyst for RIL as the discount to Jio's standalone valuation narrows.",
-      "source": "Business Standard / Business Today — June 17, 2026",
-      "sourceUrl": "https://www.business-standard.com/markets/ipo/jio-set-to-file-draft-papers-for-its-4-billion-ipo-within-days-report-126061700083_1.html",
-      "asOf": "2026-06-17"
+      "catalyst": "Jio DRHP filed June 19 with SEBI — $131-180B standalone valuation unlocked; RIL sum-of-parts discount to narrow materially",
+      "detail": "Jio Platforms DRHP filed June 19 — fresh issue 27 crore shares (~2.9% float), target raise ₹37,700 crore (~$4.5B), proceeds earmarked for RJIL debt repayment. Valuation range $131B (JPMorgan) to $180B (Jefferies). Jio FY26: revenues ₹1.47 lakh crore, EBITDA margin 51.9%, ARPU ₹214, 52.44 crore subscribers. RIL holds 66.43%; Meta 9.98%; Google 7.73% (none selling in IPO). Listing would narrow the chronic RIL sum-of-parts discount. O2C segment benefits from Brent at $72/bbl (lower feedstock cost). Akash, Isha, Anant Ambani leading the Jio IPO process.",
+      "source": "Moneycontrol / SEBI — June 19, 2026",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/reliance-s-jio-platforms-to-file-drhp-today-mukesh-ambani-says-ipo-will-lead-next-generation-of-value-creation-13953897.html",
+      "asOf": "2026-06-29"
     },
     {
-      "ticker": "HCLTECH",
-      "company": "HCL Technologies Limited",
+      "ticker": "LUPIN",
+      "company": "Lupin Limited",
       "signal": "pump",
-      "catalyst": "Sarvam AI 10.46% stake (₹1,427 Cr) + top Nifty gainer +3.59% June 16 — AI differentiation premium emerging among Indian IT",
-      "detail": "HCLTech's Sarvam AI acquisition announced June 16 (₹1,427.25 crore, ~$150 million, Series B) gives it exclusive access to India's leading multilingual LLM capability. Top Nifty 50 and Sensex gainer on June 16 (+3.59%). First large-cap Indian IT firm to own indigenous AI model capabilities. GIFT Nifty positive pre-market June 17. BTA signing (mid-July) is the next sector-wide catalyst. Combined with Wipro buyback floor expiry today — HCLTech is the IT sector's clearest differentiated AI story.",
-      "source": "Moneycontrol / HDFC Sky — June 16-17, 2026",
-      "sourceUrl": "https://www.moneycontrol.com/news/business/business-corporate-updates-live-company-news-earnings-deals-ipo-mergers-acquisitions-june-16-2026-liveblog-13950364.html",
-      "asOf": "2026-06-17"
+      "catalyst": "USFDA tentative approval for Enzalutamide (40–160 mg) prostate cancer drug; pharma sector outperformance on June 29 (+1.09%)",
+      "detail": "Lupin received USFDA tentative approval for Enzalutamide Tablets in 40 mg, 80 mg, 120 mg, and 160 mg strengths. Drug used to treat multiple types of prostate cancer (a large US market segment). Final approval and launch pending patent/exclusivity resolution. Stock rose 1.97% to ₹2,388 on June 29. Pharma sector outperformed on June 29 (+1.09% Nifty Pharma) as defensive accumulation offset broader market weakness. BTA pharma provisions (Section 301 resolution) remain a key catalyst for the sector.",
+      "source": "Moneycontrol — June 29, 2026",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+      "asOf": "2026-06-29"
     },
     {
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
+      "ticker": "DRREDDY",
+      "company": "Dr Reddy's Laboratories Limited",
       "signal": "pump",
-      "catalyst": "JPMorgan raises TP to ₹5,060 (Overweight); Lakshya-31 targets 10-12% order CAGR; AI data centre + defence + capex cycle",
-      "detail": "JPMorgan raised L&T target to ₹5,060 on June 16 citing Lakshya-26 beat on all KPIs (order CAGR 20% vs 14% target; revenue 16% vs 15%; RoE 16.6% vs 10%). Lakshya-31 targets 10-12% order CAGR, 12-15% revenue CAGR, 16-17% RoE. L&T leads one of three AMCA fighter consortia. ₹18,600 crore Tamil Nadu MoU (data centres, electronics, shipbuilding). IIP capital goods +16% YoY. Strong multi-angle thesis: defence, AI infra, government capex.",
-      "source": "Moneycontrol — June 16, 2026",
-      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-16-06-2026-liveblog-13950367.html",
-      "asOf": "2026-06-17"
+      "catalyst": "Top Nifty gainer +2.30% on June 29; Nomura Buy TP ₹1,740 maintained post USFDA Form 483 — manageable observations",
+      "detail": "Dr Reddy's Laboratories was the top Nifty 50 gainer on June 29 (+2.30% to ~₹1,330+). USFDA issued 7 Form 483 observations post-Hyderabad inspection — mostly related to new facility; company expects final approval and launch in Q4 FY27. Nomura retained Buy TP ₹1,740 — 7 observations on a new facility is considered procedural, not a systemic Warning Letter-level issue. DRL is a key defensive pharma holding with strong US generics and branded India business. Pharma sector remains the key defensive sector in the current market.",
+      "source": "Moneycontrol / Nomura — June 29, 2026",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+      "asOf": "2026-06-29"
     },
     {
-      "ticker": "ADANIENT",
-      "company": "Adani Enterprises Limited",
+      "ticker": "WAAREEENER",
+      "company": "Waaree Energies Limited",
       "signal": "pump",
-      "catalyst": "Jabil AI data centre alliance + Jio IPO context = India AI infrastructure re-rating; crude below $80 reduces energy input costs",
-      "detail": "Adani Enterprises-Jabil strategic alliance (June 15) for GW-scale AI rack and infrastructure manufacturing addresses a $3 trillion global market. Aligns with Adani's $100B 5 GW data centre plan by 2035. Adani Ports AI partnership with Kaleris (US). Crude below $80 reduces operating costs for Adani's energy-intensive businesses. RIL AGM June 19 with Jio IPO news could catalyse a broader India AI infrastructure re-rating — Adani is the other major domestic AI infrastructure play alongside Jio.",
-      "source": "Adani Group official press release — June 15, 2026",
-      "sourceUrl": "https://www.adani.com/newsroom/media-releases/adani-enterprises-and-jabil-target-a-strategic-alliance-to-build-ai-data-center",
-      "asOf": "2026-06-17"
+      "catalyst": "US CBP ruling confirms no adverse inference on Chinese-origin solar cell allegation — US operations and manufacturing unaffected",
+      "detail": "Waaree Energies received a clean US Customs and Border Protection (CBP) determination: CBP confirmed that Waaree did NOT export solar modules manufactured using Chinese-origin solar cells to the United States; CBP drew no adverse inference; ruling is limited to a narrow subset of certain historical import entries. US manufacturing (4.2 GW domestic US capacity) and commercial operations continue normally. Removes a key regulatory overhang for Waaree's US business expansion. Critical positive given the US solar tariff environment.",
+      "source": "Moneycontrol — June 29, 2026",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+      "asOf": "2026-06-29"
     },
     {
-      "ticker": "GODREJPROP",
-      "company": "Godrej Properties Limited",
+      "ticker": "ATHEREGY",
+      "company": "Ather Energy Limited",
       "signal": "pump",
-      "catalyst": "₹2,000 crore Bengaluru launch week + August rate-cut tailwind from Brent $79 + India's #1 developer FY26 for 3rd year",
-      "detail": "Godrej Vanantara (Bengaluru) sold 1,000+ homes worth ₹2,000 crore in launch week. GPL FY26 bookings: ₹34,171 crore (+16% YoY, 3-year CAGR 41%). GPL rose 4.42% on June 15; Nifty Realty +6% in three sessions. August rate cut scenario — now with Brent at $79/bbl and 10Y at 6.865% — directly reduces home loan rates and improves GPL's demand pipeline further.",
-      "source": "Business Standard — June 10, 2026",
-      "sourceUrl": "https://www.business-standard.com/industry/news/godrej-properties-sells-rs-2000-crore-worth-homes-at-bengaluru-project-126061010695_1.html",
-      "asOf": "2026-06-17"
-    },
-    {
-      "ticker": "BEL",
-      "company": "Bharat Electronics Limited",
-      "signal": "pump",
-      "catalyst": "₹1,476 crore EW contract + AMCA consortium + Anant Shastra multi-year visibility — domestic defence order cycle intact post peace deal",
-      "detail": "BEL signed ₹1,476 crore EW contract June 9. AMCA RFP response due July (L&T-BEL consortium). Anant Shastra order (Sept 2025, ₹30,000 crore) provides multi-year revenue visibility. Revenue CAGR 16.6% FY23-26; net profit CAGR 26.6%. Choice Institutional Equities Buy TP ₹500 vs CMP ~₹413 (21% upside). Post peace deal, India's domestic defence modernisation (not conflict-driven) remains fully intact with ₹6.22 lakh crore FY25-30 capex allocation.",
-      "source": "Indian Defence News / Choice Institutional Equities — June 9-12, 2026",
-      "sourceUrl": "https://www.indiandefensenews.in/2026/06/defence-ministry-signs-1476-crore-deal.html",
-      "asOf": "2026-06-17"
-    },
-    {
-      "ticker": "NTPC",
-      "company": "NTPC Limited",
-      "signal": "pump",
-      "catalyst": "Macquarie Buy TP ₹480; power demand structural upcycle from data centres + EVs; rate-cut lowers cost of capital for regulated infra",
-      "detail": "NTPC rose 2.10% on the Sensex on June 16. Macquarie set NTPC target at ₹480 (Buy) citing structural electricity demand upcycle from data centres, EV adoption, and industrialisation. NTPC's renewables subsidiary (NTPC Green) diversifies earnings. Rate cut scenario further lowers NTPC's cost of capital — a re-rating catalyst for regulated infrastructure assets. Jio/AI data centre buildout by Adani-Jabil and Reliance also directly increases India's power demand — NTPC is the capacity provider.",
-      "source": "Business Standard / India TV Hindi — June 12-16, 2026",
-      "sourceUrl": "https://www.business-standard.com/markets/news/power-stock-outlook-macquarie-sees-power-upcycle-prefers-ntpc-jsw-energy-amid-demand-boom-126061200192_1.html",
-      "asOf": "2026-06-17"
+      "catalyst": "Delhi EV policy effective July 1 — electric auto-rickshaws only from Jan 2027; EV two-wheelers mandatory from April 2028; stock +7.99% on June 29",
+      "detail": "Ather Energy rose 7.99% to ₹1,078.60 on June 29 — top Nifty Smallcap 100 gainer — following Delhi Cabinet's new EV policy approval. Policy: electric auto-rickshaws only eligible for new registrations from January 1, 2027; EV two-wheeler registrations mandatory from April 1, 2028; scrapping incentive ₹1 lakh for BS-IV four-wheelers. Delhi is India's largest two-wheeler and auto-rickshaw market. Ather Energy is the premium electric two-wheeler brand (Ather 450, Rizta series) with strong Delhi market presence. Policy provides a hard demand deadline catalyst.",
+      "source": "Moneycontrol — June 29, 2026",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+      "asOf": "2026-06-29"
     },
     {
       "ticker": "TATAMOTORS",
       "company": "Tata Motors Limited",
-      "signal": "dump",
-      "catalyst": "JLR Annual Investor Day June 17 — 'close to zero' FY26 FCF reiterated; sustained sell pressure until FCF recovery path visible",
-      "detail": "JLR's annual Investor Day is June 17. JLR reiterated 'close to zero' FY26 FCF at its June 16 investor day alongside macro risks (US tariffs, EM currency). Tata Motors fell 5%+ on June 16. JLR's ~70% revenue weight dominates the investment thesis. No near-term FCF recovery catalyst. Tata Motors PV Chairman expressed FY27 growth confidence (annual report) but cannot offset JLR's balance sheet drag. Continued earnings estimate cuts likely. June 17 Investor Day commentary will be watched for any FY27 FCF guidance.",
-      "source": "Moneycontrol / Business Today — June 16-17, 2026",
-      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/tata-motors-shares-slips-over-5-as-jlr-flags-close-to-zero-cash-flow-in-fy26-macro-risks-13125351.html",
-      "asOf": "2026-06-17"
-    },
-    {
-      "ticker": "ONGC",
-      "company": "Oil & Natural Gas Corporation",
-      "signal": "dump",
-      "catalyst": "Brent at $79/bbl — net realisation compression accelerates; Q1 FY27 earnings downgrade cycle begins",
-      "detail": "Brent at ~$79.34/bbl vs $124/bbl war peak directly compresses ONGC's net realisation per barrel by ~36%. Q1 FY27 (April-June) averaged crude prices significantly below Q1 FY26. Street earnings estimates for Q1 FY27 will see meaningful downward revisions. Oil India (OIL) faces similar dynamics. Goldman Sachs $80/bbl Q4 forecast confirms the structural shift. A return to $100+ crude requires US-Iran peace deal breakdown — now the tail risk, not the base case.",
-      "source": "LiveMint / The Star — June 16-17, 2026",
-      "sourceUrl": "https://www.thestar.com.my/business/2026/06/17/oil-hits-3-month-low-on-hormuz-reopening-hopes",
-      "asOf": "2026-06-17"
-    },
-    {
-      "ticker": "DOMS",
-      "company": "DOMS Industries Limited",
-      "signal": "dump",
-      "catalyst": "FILA selling 7% stake at ₹2,100 floor (₹892 crore block deal) — ~9-10% discount overhang on open June 17",
-      "detail": "Italian promoter FILA likely to sell up to 7% stake in DOMS via block deals at ₹2,100/share floor — estimated ~9-10% discount to previous close. Total block deal ~₹892 crore. Near-term supply overhang and discount floor creates downward price pressure at open. Fundamental DOMS story (India's premium stationery brand, market leadership) remains intact post-deal, but tactical short-term negative until block is absorbed. Watch institutional demand at floor price.",
-      "source": "Moneycontrol / Business Today — June 17, 2026",
-      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-17-06-2026-liveblog-13951463.html/amp",
-      "asOf": "2026-06-17"
-    },
-    {
-      "ticker": "HINDALCO",
-      "company": "Hindalco Industries Limited",
       "signal": "watch",
-      "catalyst": "MSCI Vedanta removal June 22 creates metals sector selling; crude at $79 reduces aluminium energy-cost — medium-term positive but near-term overhang",
-      "detail": "Hindalco fell 3.61% on June 16 — the largest Nifty decliner. MSCI removal of Vedanta from Global Standard Index effective June 22 creates passive selling in metals broadly (spillover to aluminium sector). Crude at $79/bbl reduces Hindalco's aluminium smelting energy costs (positive medium-term). LME aluminium price direction and Chinese demand are the key watch factors. Near-term: sector negative from MSCI passive selling. Medium-term: crude collapse structurally reduces the single largest cost input for aluminium production — a margin improvement catalyst for Q2 FY27.",
-      "source": "HDFC Sky — June 16, 2026",
-      "sourceUrl": "https://hdfcsky.com/news/stock-market-open-june-16-2026-sensex-nifty-rise-metal-stocks-drag",
-      "asOf": "2026-06-17"
-    },
-    {
-      "ticker": "WIPRO",
-      "company": "Wipro Limited",
-      "signal": "watch",
-      "catalyst": "₹15,000 crore buyback closes June 17 at ₹250 — price floor expires; Claude CoE launch; BTA + Q1 FY27 are next decision points",
-      "detail": "Wipro's buyback closes today (June 17; settlement June 24). Post-buyback, the ₹250 price floor disappears. Wipro launched Claude Applied AI Centre of Excellence in Bengaluru — targeting enterprise AI adoption with 10,000 employee training. Medium-term direction determined by: (1) BTA signing mid-July removing Section 301 tariff overhang; (2) Q1 FY27 results showing AI deal wins offsetting ADM deflation. Wipro's Europe-heavy book provides some tariff insulation but limits US-driven upside vs TCS/Infosys.",
-      "source": "Business Standard / Moneycontrol Hindi — June 16-17, 2026",
-      "sourceUrl": "https://www.business-standard.com/markets/news/wipro-share-buyback-opens-on-june-11-here-s-everything-investors-need-to-know-126061000192_1.html",
-      "asOf": "2026-06-17"
-    },
-    {
-      "ticker": "GICRE",
-      "company": "General Insurance Corporation of India",
-      "signal": "watch",
-      "catalyst": "OFS retail tranche June 17 (3.72x oversubscribed Day 1, greenshoe exercised — ₹3,088 crore raised); Hitesh Joshi appointed CMD",
-      "detail": "GIC Re OFS retail tranche open June 17 at ₹352/share. Day 1 (institutional, June 16) subscribed 3.72x; greenshoe fully exercised. Total divestment raised to ₹3,088 crore. New CMD Hitesh R. Joshi appointed effective June 16 for term to September 2028. Strong oversubscription signals market confidence in GIC Re's valuation. Post-OFS supply overhang clears; watch for re-rating above floor as government stake settles to 77.40%.",
-      "source": "Business Today / Moneycontrol — June 17, 2026",
-      "sourceUrl": "https://www.businesstoday.in/markets/stocks/story/top-stocks-in-news-doms-wipro-hdfc-bank-power-grid-tmpv-cyient-gic-re-brigade-kims-537322-2026-06-17",
-      "asOf": "2026-06-17"
+      "catalyst": "JLR 'close to zero' FCF pressure continues; Tata Motors-Castrol MoU for used oil circularity; domestic EV tailwind from Delhi policy",
+      "detail": "Tata Motors stock declined 1.69% on June 29. JLR 'close to zero' FY26 FCF guidance (reiterated June 16-17) continues to weigh on the investment thesis — JLR contributes ~70% of revenues. India domestic PV business remains strong; Tata Motors-Castrol signed MoU June 29 for used oil circularity pilot in Karnataka (authorised service network). Delhi EV policy (mandatory EV two-wheelers from April 2028) is a positive for Tata's Nexon EV and Tiago EV. Net: JLR FCF recovery timeline in FY27 is the key re-rating event. Watch FY27 Q1 JLR FCF guidance in July.",
+      "source": "Moneycontrol — June 29, 2026",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-29-06-2026-liveblog-13960670.html",
+      "asOf": "2026-06-29"
     }
   ]
 }

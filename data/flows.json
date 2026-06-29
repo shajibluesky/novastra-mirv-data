@@ -419,5 +419,5 @@
       "sourceUrl": "https://www.moneycontrol.com/markets/fii-dii-data/"
     }
   ],
-  "note": "2026-06-26 (Fri) omitted: provisional NSE cash FII/DII net not verifiable from an approved source at refresh time (per omit-unverifiable rule)."
+  "note": "2026-06-26 (Fri) has no entry because the market was closed for Muharram — it was a trading holiday, not missing data."
 }
