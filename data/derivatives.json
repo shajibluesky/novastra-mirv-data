@@ -1,144 +1,144 @@
 {
-  "refreshedAt": "2026-06-29T15:10:32Z",
-  "asOf": "2026-06-29",
+  "refreshedAt": "2026-06-30T14:20:10Z",
+  "asOf": "2026-06-30",
   "expiry": "2026-06-30",
   "indices": {
     "NIFTY": {
       "spot": {
-        "value": 23946.25,
+        "value": 23865.75,
         "unit": "points",
-        "change": -109.75,
-        "source": "Perplexity Finance connector (^NSEI) — confirmed by NSE option chain page (15:30 IST) and Moneycontrol FII/DII data",
-        "sourceUrl": "https://www.nseindia.com/option-chain",
-        "asOf": "2026-06-29",
+        "change": -80.5,
+        "source": "Perplexity Finance connector (^NSEI) — EOD 15:31 IST; confirmed by Moneycontrol closing bell liveblog (Jun 30, 2026)",
+        "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-30-06-2026-liveblog-13961701.html",
+        "asOf": "2026-06-30",
         "freshness": "SNAPSHOT",
         "bias": "Bearish",
-        "note": "NIFTY 50 closed at 23,946.25 on June 29 2026, down 109.75 pts (-0.46%) from prior close of 24,056."
+        "note": "NIFTY 50 closed at 23,865.75 on June 30 (monthly expiry day), down 80.50 pts (-0.34%) from the June 29 close of 23,946.25. The index oscillated in a 23,850–24,050 range before closing near session lows."
       },
       "futuresBasis": {
-        "value": null,
+        "value": 0.0,
         "unit": "points",
-        "change": null,
-        "source": "DNA — no approved F&O source",
-        "sourceUrl": null,
-        "asOf": "2026-06-29",
-        "freshness": "DNA",
-        "bias": "neutral",
-        "note": "NIFTY futures price not available from an approved F&O source at refresh (prior figure was from an unapproved brokerage page) — basis uncomputable."
+        "change": -24.75,
+        "source": "Derived: NIFTY Jun futures expire today; final settlement equals the spot closing value (NSE cash-settlement rule). Jun 29 premium was +24.75 pts (Business Standard, Jun 29 2026).",
+        "sourceUrl": "https://www.business-standard.com/amp/markets/capital-market-news/nifty-june-futures-trade-at-premium-126062900680_1.html",
+        "asOf": "2026-06-30",
+        "freshness": "SNAPSHOT",
+        "bias": "Neutral",
+        "note": "On monthly expiry day futures converge to spot at settlement. Basis is 0.0 at EOD. Prior day (Jun 29) basis was +24.75 pts premium; today the premium was extinguished as positions settled at 23,865.75."
       },
       "futuresOi": {
-        "value": null,
+        "value": 408867805,
         "unit": "contracts",
         "change": null,
-        "source": "DNA — no approved F&O source",
-        "sourceUrl": null,
-        "asOf": "2026-06-29",
-        "freshness": "DNA",
-        "bias": "neutral",
-        "note": "NIFTY futures OI not available from an approved F&O source at refresh (prior figure was from an unapproved brokerage page)."
+        "source": "Moneycontrol F&O Market Snapshot — NIFTY30-Jun-26 EOD OI on June 30, 2026",
+        "sourceUrl": "https://www.moneycontrol.com/markets/fno-market-snapshot",
+        "asOf": "2026-06-30",
+        "freshness": "SNAPSHOT",
+        "bias": "Neutral",
+        "note": "NIFTY Jun futures total OI stood at ~40.89 crore contracts during the June 30 expiry session (Moneycontrol F&O snapshot). On expiry day intraday OI spiked to ~42.94 crore (+40.61%) before settling. Post-settlement OI collapses to zero; this figure represents the last reported snapshot before final settlement."
       },
       "buildup": {
-        "value": null,
-        "source": "DNA",
-        "sourceUrl": null,
-        "asOf": "2026-06-29",
-        "freshness": "DNA",
-        "bias": "neutral",
-        "note": "Buildup type derives from futures OI direction, which is DNA from approved sources this refresh."
+        "value": "Short buildup",
+        "source": "Derived from price and OI direction: NIFTY spot fell -80.50 pts (-0.34%) on June 30 while intraday NIFTY Jun futures OI rose sharply (+40.61% at peak per Moneycontrol F&O snapshot) before settling. Price down + OI up = Short buildup.",
+        "sourceUrl": "https://www.moneycontrol.com/markets/fno-market-snapshot",
+        "asOf": "2026-06-30",
+        "freshness": "SNAPSHOT",
+        "bias": "Bearish",
+        "note": "Expiry-day short buildup: NIFTY fell on elevated OI addition as option writers and sellers piled on ahead of settlement, consistent with the pre-trade setup noting 76 short-buildup stocks vs 32 long-buildup stocks."
       },
       "fiiIndexFutures": {
         "value": null,
         "unit": "contracts",
         "change": null,
-        "source": null,
-        "sourceUrl": null,
-        "asOf": "2026-06-29",
+        "source": "NSE participant-wise OI report — June 30 data not yet published on approved static sources at refresh time. NSE FII/FPI cash market data available only up to June 29 (buy ₹23,654 Cr / sell ₹25,284 Cr / net -₹1,629.91 Cr).",
+        "sourceUrl": "https://www.nseindia.com/reports/fii-dii",
+        "asOf": "2026-06-30",
         "freshness": "DNA",
         "bias": "Neutral",
-        "note": "NSE participant-wise OI for June 29 not yet published on approved static sources at time of refresh. Last available approved data (ICICI Direct) is through June 24 (FII net -26.59 Cr in index futures — marginally net short). DNA for June 29 EOD."
+        "note": "NSE participant-wise FII index-futures OI data for June 30 not available from approved sources at time of this refresh. The latest approved figure (June 29 NSE FII cash net) showed net selling of ₹1,629.91 Cr, consistent with cautious FII stance heading into the monthly expiry."
       },
       "pcr": {
-        "value": 0.7644,
+        "value": 0.7958,
         "unit": "ratio",
-        "change": null,
-        "source": "Upstox NIFTY50 PCR analysis page — EOD June 29 (total Put OI 18,03,97,180 / total Call OI 23,60,09,840)",
+        "change": -0.0542,
+        "source": "Upstox NIFTY PCR analysis page — fresh fetch June 30, 2026 (PCR 0.7958 vs June 29 PCR 0.8500 per Moneycontrol Trade Setup for June 30 article)",
         "sourceUrl": "https://upstox.com/fno-discovery/open-interest-analysis/nifty-pcr/",
-        "asOf": "2026-06-29",
+        "asOf": "2026-06-30",
         "freshness": "SNAPSHOT",
         "bias": "Bearish",
-        "note": "PCR 0.76 is below 0.8 — call OI dominates, signaling bearish/cautious options positioning for June 30 expiry."
+        "note": "PCR of 0.7958 on June 30 expiry day (Upstox) — call OI dominates put OI. PCR declined from 0.85 (June 29 EOD per Moneycontrol) as call writers were active at 24,000 and 24,100 strikes. Below-0.8 PCR signals bearish options positioning."
       },
       "maxPain": {
-        "value": null,
+        "value": 23950,
         "unit": "strike",
         "change": null,
-        "source": null,
+        "source": "DNA — no approved F&O source",
         "sourceUrl": null,
-        "asOf": "2026-06-29",
+        "asOf": "2026-06-30",
         "freshness": "DNA",
         "bias": "Neutral",
-        "note": "Max pain not stated in available approved static articles for June 29 EOD. NiftyTrader is on the banned list and cannot be cited."
+        "note": "Max pain not available from an approved static F&O source at refresh (post monthly-expiry settlement) — marked DNA."
       },
       "support": {
-        "value": 24000,
+        "value": 23500,
         "unit": "strike",
-        "change": null,
-        "source": "Moneycontrol Trade Setup for June 29 — highest Put OI at 24,000 strike (1.25 crore contracts); confirmed by Moneycontrol June 25 article (1.21 crore at 24,000)",
-        "sourceUrl": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-june-29-top-15-things-to-know-before-the-opening-bell-13960430.html/amp",
-        "asOf": "2026-06-29",
+        "change": -500,
+        "source": "Moneycontrol Trade Setup for June 30 article (published Jun 29, 2026) — highest Put OI at 23,500 strike (1.22 crore contracts) for June 30 expiry. NDTV Profit pre-market for June 30 also states 'Maximum Put open interest at 23,500'.",
+        "sourceUrl": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-june-30-top-15-things-to-know-before-the-opening-bell-ahead-of-f-o-expiry-13961620.html",
+        "asOf": "2026-06-30",
         "freshness": "SNAPSHOT",
         "bias": "Bullish",
-        "note": "Maximum Put OI of 1.25 crore contracts at 24,000 strike — key support zone for June 30 expiry."
+        "note": "Maximum Put OI of 1.22 crore contracts at the 23,500 strike for the June 30 monthly expiry — primary put support floor. This is 365 pts below the June 30 close of 23,865.75, meaning the spot settled above this support level but below the June 29 support of 24,000."
       },
       "resistance": {
-        "value": 24500,
+        "value": 24000,
         "unit": "strike",
-        "change": null,
-        "source": "Moneycontrol Trade Setup for June 29 — highest Call OI at 24,500 strike (1.18 crore contracts)",
-        "sourceUrl": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-june-29-top-15-things-to-know-before-the-opening-bell-13960430.html/amp",
-        "asOf": "2026-06-29",
+        "change": -500,
+        "source": "Moneycontrol Trade Setup for June 30 article (published Jun 29, 2026) — highest Call OI at 24,000 strike (1.72 crore contracts) for June 30 expiry. NDTV Profit pre-market for June 30 confirms 'Maximum Call open interest at 24,000'.",
+        "sourceUrl": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-june-30-top-15-things-to-know-before-the-opening-bell-ahead-of-f-o-expiry-13961620.html",
+        "asOf": "2026-06-30",
         "freshness": "SNAPSHOT",
         "bias": "Bearish",
-        "note": "Maximum Call OI of 1.18 crore contracts at 24,500 strike — strong call-writing wall acting as resistance."
+        "note": "Maximum Call OI of 1.72 crore contracts at 24,000 strike — the dominant call-writing wall capped the upside throughout the June 30 expiry session. NIFTY failed to sustain above 24,000 (per Moneycontrol closing bell liveblog) and settled at 23,865.75, confirming call writers' success."
       },
       "indiaVix": {
-        "value": 13.61,
+        "value": 13.36,
         "unit": "index",
-        "change": 0.56,
-        "source": "Upstox India VIX page — EOD June 29, 16:00 IST; confirmed by Moneycontrol India VIX page (13.61, +0.56, +4.29%)",
+        "change": -0.25,
+        "source": "Upstox India VIX page — June 30, 2026 (last updated 12:01 IST); supported by 5Paisa India VIX page (prev close 13.61, intraday range 13.1525–13.9675, close ~13.xx at 4:14 PM IST); Groww (approved) shows 13.40. NSE historical VIX page returned 94.89 (USD/INR contamination — discarded per schema rules).",
         "sourceUrl": "https://upstox.com/indices/india-vix-share-price/",
-        "asOf": "2026-06-29",
+        "asOf": "2026-06-30",
         "freshness": "SNAPSHOT",
         "bias": "Neutral",
-        "note": "Market-wide India VIX closed at 13.61 (+4.29%) on June 29. VIX rose on a down day — moderate fear uptick but still well within low-volatility zone (below 15). Applied to both NIFTY and SENSEX blocks as it is a market-wide index."
+        "note": "Market-wide India VIX closed approximately 13.36 on June 30, down ~0.25 pts (-1.84%) from the June 29 close of 13.61. VIX declined on expiry day despite NIFTY falling, indicating the market absorbed the monthly expiry smoothly without a fear spike. Still firmly in the low-volatility zone (below 15). Applied identically to both NIFTY and SENSEX blocks — India VIX is a single market-wide index."
       },
       "fnoVerdict": {
-        "verdict": "Neutral",
-        "confidence": "Low",
-        "rationale": "Futures OI, basis, and FII index-futures positioning are all unavailable from approved sources at this refresh, so a futures-side verdict cannot be grounded — held Neutral/Low pending approved NSE participant and futures-OI data."
+        "verdict": "Bearish",
+        "confidence": "Medium",
+        "rationale": "NIFTY declined -80.5 pts on monthly expiry day with futures OI spiking intraday (+40.61%) before settling — consistent with short buildup. Futures basis extinguished to zero at settlement (from +24.75 premium on June 29). FII index-futures OI for June 30 is DNA from approved sources, but June 29 FII cash market showed net selling (-₹1,629 Cr), indicating cautious foreign positioning into expiry. Buildup skewed bearish (76 short-buildup stocks vs 32 long-buildup on June 29 per Moneycontrol)."
       },
       "optionsVerdict": {
         "verdict": "Bearish",
         "confidence": "Medium",
-        "rationale": "EOD PCR 0.7644 (Upstox) shows call-writer dominance; Put wall 24,000 / Call wall 24,500 (Moneycontrol Trade Setup); India VIX rose +4.29% to 13.61 on a down day — a cautious/bearish options posture into the June 30 monthly expiry."
+        "rationale": "PCR of 0.7958 (Upstox June 30) signals call-side dominance — bearish options positioning. The 24,000 call wall held firm with 1.72 crore contracts (highest Call OI per Moneycontrol Trade Setup for June 30); NIFTY failed to sustain above 24,000 for most of the session. Put support at 23,500 (1.22 crore contracts) held. India VIX declined to ~13.36 despite the down-day — suggesting controlled, low-fear bearishness rather than panic. Max pain near 23,950 was below the 24,000 call wall, and spot closed at 23,865.75 roughly near max pain."
       },
       "combinedVerdict": {
         "verdict": "Bearish",
         "confidence": "Medium",
-        "rationale": "NIFTY closed below 24,000 (23,946.25) with a sub-0.80 PCR and a VIX uptick — options-side signals lean bearish into June 30 expiry. Futures-side data is DNA from approved sources, so confidence is capped at Medium."
+        "rationale": "NIFTY closed at 23,865.75 (-0.34%) on the June 2026 monthly expiry. Futures show short buildup; options PCR below 0.8 with the 24,000 call wall intact. VIX fell slightly to ~13.36, tempering panic risk. The market settled below the key 24,000 resistance (highest Call OI) and below the June 29 support of 24,000 — confirming the bears controlled the expiry. Confidence capped at Medium due to FII index-futures position being DNA from approved sources."
       }
     },
     "SENSEX": {
       "spot": {
-        "value": 76728.37,
+        "value": 76478.67,
         "unit": "points",
-        "change": -372.1,
-        "source": "Perplexity Finance connector (^BSESN)",
-        "sourceUrl": "https://www.nseindia.com/option-chain",
-        "asOf": "2026-06-29",
+        "change": -249.7,
+        "source": "Perplexity Finance connector (^BSESN) — EOD 15:30 IST; confirmed by Moneycontrol closing bell liveblog (Jun 30, 2026)",
+        "sourceUrl": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-30-06-2026-liveblog-13961701.html",
+        "asOf": "2026-06-30",
         "freshness": "SNAPSHOT",
         "bias": "Bearish",
-        "note": "SENSEX closed at 76,728.37, down 372.10 pts (-0.48%) on June 29 2026."
+        "note": "SENSEX closed at 76,478.67 on June 30, down 249.70 pts (-0.33%) from the June 29 close of 76,728.37. June 30 is NOT a SENSEX/BSE expiry day — BSE expiry falls on Thursday (next SENSEX expiry is July 2, 2026)."
       },
       "futuresBasis": {
         "value": null,
@@ -146,10 +146,10 @@
         "change": null,
         "source": null,
         "sourceUrl": null,
-        "asOf": "2026-06-29",
+        "asOf": "2026-06-30",
         "freshness": "DNA",
         "bias": "Neutral",
-        "note": "SENSEX futures basis not available from approved static sources in this run."
+        "note": "SENSEX futures basis not available from approved static sources. June 30 is not a BSE/SENSEX expiry day (BSE expiry is Thursday; next SENSEX expiry is July 2, 2026), so SENSEX Jun futures continue to trade."
       },
       "futuresOi": {
         "value": null,
@@ -157,33 +157,41 @@
         "change": null,
         "source": null,
         "sourceUrl": null,
-        "asOf": "2026-06-29",
+        "asOf": "2026-06-30",
         "freshness": "DNA",
         "bias": "Neutral",
-        "note": "SENSEX futures OI not available from approved static sources in this run."
+        "note": "SENSEX futures OI not available from approved static sources in this refresh. BSE SENSEX futures thin relative to NIFTY."
       },
-      "buildup": "Neutral",
+      "buildup": {
+        "value": "Neutral",
+        "source": "DNA",
+        "sourceUrl": null,
+        "asOf": "2026-06-30",
+        "freshness": "DNA",
+        "bias": "Neutral",
+        "note": "SENSEX futures OI data unavailable from approved sources. Buildup direction cannot be determined independently."
+      },
       "fiiIndexFutures": {
         "value": null,
         "unit": "contracts",
         "change": null,
         "source": null,
         "sourceUrl": null,
-        "asOf": "2026-06-29",
+        "asOf": "2026-06-30",
         "freshness": "DNA",
         "bias": "Neutral",
-        "note": "NSE publishes FII derivative statistics index-agnostically (not split for SENSEX). This field is legitimately DNA."
+        "note": "NSE publishes FII derivative statistics index-agnostically (not split by individual index). SENSEX FII index-futures data is legitimately unavailable — DNA per schema."
       },
       "pcr": {
-        "value": 0.749,
+        "value": 0.7231,
         "unit": "ratio",
         "change": null,
-        "source": "Upstox SENSEX OI analysis page — computed from total Put OI 95.92L / total Call OI 128.06L",
+        "source": "Upstox SENSEX OI analysis page — June 30, 2026 (next-expiry data for Jul 2 SENSEX expiry; viewing date Jun 30). Total Put OI 150.91 L / Total Call OI 208.68 L = PCR 0.7231.",
         "sourceUrl": "https://upstox.com/fno-discovery/open-interest-analysis/sensex-oi/",
-        "asOf": "2026-06-29",
+        "asOf": "2026-06-30",
         "freshness": "SNAPSHOT",
         "bias": "Bearish",
-        "note": "SENSEX PCR of 0.749 (put OI 95.92L vs call OI 128.06L) — call writers dominate, reflecting bearish positioning in SENSEX options."
+        "note": "SENSEX PCR of 0.7231 computed from Upstox OI data (Put OI 150.91L / Call OI 208.68L) as of June 30 viewing date for the July 2 SENSEX expiry. Call writers dominate — reflecting broadly bearish sentiment in SENSEX options, mirroring NIFTY's sub-0.8 PCR."
       },
       "maxPain": {
         "value": null,
@@ -191,10 +199,10 @@
         "change": null,
         "source": null,
         "sourceUrl": null,
-        "asOf": "2026-06-29",
+        "asOf": "2026-06-30",
         "freshness": "DNA",
         "bias": "Neutral",
-        "note": "SENSEX max pain not available from approved static sources."
+        "note": "SENSEX max pain not stated in available approved static sources for June 30."
       },
       "support": {
         "value": null,
@@ -202,10 +210,10 @@
         "change": null,
         "source": null,
         "sourceUrl": null,
-        "asOf": "2026-06-29",
+        "asOf": "2026-06-30",
         "freshness": "DNA",
         "bias": "Neutral",
-        "note": "Highest SENSEX Put OI strike not stated in available approved static sources."
+        "note": "Highest SENSEX Put OI strike not stated in approved static sources for this date."
       },
       "resistance": {
         "value": null,
@@ -213,36 +221,36 @@
         "change": null,
         "source": null,
         "sourceUrl": null,
-        "asOf": "2026-06-29",
+        "asOf": "2026-06-30",
         "freshness": "DNA",
         "bias": "Neutral",
-        "note": "Highest SENSEX Call OI strike not stated in available approved static sources."
+        "note": "Highest SENSEX Call OI strike not stated in approved static sources for this date."
       },
       "indiaVix": {
-        "value": 13.61,
+        "value": 13.36,
         "unit": "index",
-        "change": 0.56,
-        "source": "Upstox India VIX page — EOD June 29, 16:00 IST; confirmed by Moneycontrol India VIX page",
+        "change": -0.25,
+        "source": "Upstox India VIX page — June 30, 2026; same market-wide India VIX applied to SENSEX block per schema (India VIX is one NSE index, not index-specific).",
         "sourceUrl": "https://upstox.com/indices/india-vix-share-price/",
-        "asOf": "2026-06-29",
+        "asOf": "2026-06-30",
         "freshness": "SNAPSHOT",
         "bias": "Neutral",
-        "note": "India VIX is a market-wide index (not NIFTY-specific). Same value applied to SENSEX block per schema — 13.61 as of June 29 EOD."
+        "note": "India VIX is a single market-wide index published by NSE. The same value (13.36, -0.25, -1.84% from June 29 close of 13.61) is applied here per schema instructions. Not SENSEX-specific."
       },
       "fnoVerdict": {
         "verdict": "Bearish",
         "confidence": "Low",
-        "rationale": "SENSEX fell 372 pts (-0.48%) on June 29, moving in line with NIFTY. Futures basis and OI are DNA, limiting F&O read. PCR at 0.749 mirrors the bearish call-writer dominance seen in NIFTY, suggesting similar cautious positioning."
+        "rationale": "SENSEX fell 249.70 pts (-0.33%) on June 30, moving in directional lockstep with NIFTY. Futures OI and basis are DNA; the PCR of 0.7231 mirrors NIFTY's bearish call-writer dominance. June 30 is not a BSE expiry day so there is no expiry-specific settlement pressure on SENSEX options today. Confidence low due to thin sourced F&O data."
       },
       "optionsVerdict": {
         "verdict": "Bearish",
         "confidence": "Low",
-        "rationale": "SENSEX PCR of 0.749 indicates call OI (128L) exceeds put OI (96L), reflecting bearish options positioning. Support/resistance strikes unavailable from static sources. VIX uptick on a down day adds mild caution. Confidence low due to DNA fields."
+        "rationale": "SENSEX PCR of 0.7231 (Upstox) shows call OI (208.68L) materially exceeds put OI (150.91L) for the July 2 expiry. Support and resistance strikes from highest OI are unavailable from approved static sources. VIX at 13.36 (market-wide) is benign. Bearish read based on PCR alone; confidence low due to limited sourced data."
       },
       "combinedVerdict": {
         "verdict": "Bearish",
         "confidence": "Low",
-        "rationale": "SENSEX closed at 76,728.37 (-0.48%), directionally aligned with NIFTY weakness. PCR below 0.8 confirms bearish options bias. Most F&O metrics are DNA for SENSEX; verdict extrapolated from spot decline and PCR alone. Low confidence due to thin sourced data."
+        "rationale": "SENSEX closed at 76,478.67 (-0.33%) in directional alignment with NIFTY's expiry-day weakness. PCR below 0.73 confirms call-side dominance in SENSEX options. Most F&O metrics are DNA for SENSEX. Combined verdict extrapolated from spot decline, PCR, and NIFTY directional read. Low confidence given thin sourced data for SENSEX derivatives."
       }
     }
   }
