@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-06-29T14:27:36Z",
+  "refreshedAt": "2026-06-30T14:12:21Z",
   "unit": "INR crore (net, cash market)",
   "source": "NSE provisional FII/DII cash data",
   "sourceUrl": "https://www.nseindia.com/reports/fii-dii",
@@ -419,5 +419,5 @@
       "sourceUrl": "https://www.moneycontrol.com/markets/fii-dii-data/"
     }
   ],
-  "note": "2026-06-26 (Fri) has no entry because the market was closed for Muharram — it was a trading holiday, not missing data."
+  "note": "Series current through 2026-06-29. 2026-06-30 provisional NSE FII/DII not yet published at refresh time (releases ~4-5:30PM IST). 2026-06-26 was a Muharram trading holiday."
 }
